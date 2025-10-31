@@ -1,0 +1,2504 @@
+28.02.25 - 15:29:06 | EDIT | Original 
+Pilsner | 1395K3541501 | AX3 | A01 | 5 | /P12172842-05/SN94482XJ80003 | D | TOP:L2-miss7; R42-miss7; R14-miss6; R2-miss6; R27-miss1; R106-miss2; C25-miss9; C39-miss1; C131-miss9; C99-miss8,polarity3;         D14-polarity2;D4-miss4; D19-miss8BOT:I1-polarity2,miss7,bridge4; I200-miss7; R37-miss4; C30-miss7; C19-miss9; R46-miss8; T7-bridge8,miss1; T2-miss3,polarity4 | 2024-10-08 | 1 | B | ict
+ \/ \/ TO \/ \/ 
+Pilsner | 1395K3541501 | AX3 | A01 |  | /P12172842-05/SN94482XJ80003 | D | 1 | S
+TOP:L2-miss7; R42-miss7; R14-miss6; R2-miss6; R27-miss1; R106-miss2; C25-miss9; C39-miss1; C131-miss9; C99-miss8,polarity3;         D14-polarity2;D4-miss4; D19-miss8BOT:I1-polarity2,miss7,bridge4; I200-miss7; R37-miss4; C30-miss7; C19-miss9; R46-miss8; T7-bridge8,miss1; T2-miss3,polarity4
+28.02.25 - 15:34:12 | EDIT | Original 
+Jasmine | 1395K3577102 | AX2 | B01 | X | /P12177674-05/SN94482XID0040 | G |  | 2024-09-16 | 1 | S | aoi
+ \/ \/ TO \/ \/ 
+Jasmine | 1395K3577102 | AX2 | B01 |  | /P12177674-05/SN94482XID0040 | G | 1 | S
+DMG SCRAP?
+28.02.25 - 15:41:28 | EDIT | Original 
+Bitburger | 1395K3527901 | A01 | A01 | 3 | /P12153119-03/SN94482XIK0210 | G |  | 2024-09-20 | 1 | S | aoi
+ \/ \/ TO \/ \/ 
+Bitburger | 1395K3527901 | A01 | A01 |  | /P12153119-03/SN94482XIK0210 | G | 5 | S
+
+03.03.25 - 09:51:27 | EDIT | Original 
+Jasmine | 1395K3577102 | AX2 | B01 | X | /P12177674-05/SN94482XID0040 | G | DMG SCRAP? | 2024-09-16 | 1 | S | aoi
+ \/ \/ TO \/ \/ 
+Jasmine | 1395K3577102 | AX2 | B01 |  | /P12177674-05/SN94482XID0040 | G | 5 | S
+DMG SCRAP?
+03.03.25 - 09:52:38 | EDIT | Original 
+Hera | 1395K3547701 | X03 | B01 | X | /P12154179-07/SNYA983WLK1814 | G |  | 2023-12-01 | 4 | S | aoi
+ \/ \/ TO \/ \/ 
+Hera | 1395K3547701 | X03 | B01 |  | /P12154179-07/SNYA983WLK1814 | G | 9 | S
+
+03.03.25 - 13:14:08 | EDIT | Original 
+Bitburger | 1395K3527902 | A01 | A01 | 2 | /P12164396-02/SN94482YBC0059 | D | PREP | 2025-02-11 | 2 | B | aoi
+ \/ \/ TO \/ \/ 
+Bitburger | 1395K3527902 | A01 | A01 |  | /P12164396-02/SN94482YBC0059 | D | 5 | B
+PREP
+04.03.25 - 11:23:24 | EDIT | Original 
+BITBURGER | 1395K3528001 | A01 | A01 | 03 | /P12153940-03/SN94482XJE0001A | G |  | 2025-02-18 | 2 | B | eoli
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528001 | A01 | A01 |  | /P12153940-03/SN94482XJE0001A | D | 2 | B
+
+04.03.25 - 12:21:02 | EDIT | Original 
+BITBURGER | 1395K3528001 | X02 | A01 | 03 | /P12153940-03/SN94482XJE0009R | G |  | 2025-02-18 | 1 | B | eoli
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528001 | A01 | A01 |  | /P12153940-03/SN94482XJE0009R | G | 1 | B
+
+04.03.25 - 12:21:11 | EDIT | Original 
+BITBURGER | 1395K3528001 | X02 | A01 | 03 | /P12153940-03/SN94482XJE0009M | G |  | 2025-02-18 | 1 | B | eoli
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528001 | A01 | A01 |  | /P12153940-03/SN94482XJE0009M | G | 1 | B
+
+04.03.25 - 12:21:18 | EDIT | Original 
+BITBURGER | 1395K3528001 | X02 | A01 | 03 | /P12153940-03/SN94482XJE0009W | G |  | 2025-02-18 | 1 | B | eoli
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528001 | A01 | A01 |  | /P12153940-03/SN94482XJE0009W | G | 1 | B
+
+04.03.25 - 12:21:27 | EDIT | Original 
+BITBURGER | 1395K3528001 | X02 | A01 | 03 | /P12153940-03/SN94482XJE0009Q | G |  | 2025-02-18 | 1 | B | eoli
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528001 | A01 | A01 |  | /P12153940-03/SN94482XJE0009Q | G | 1 | B
+
+04.03.25 - 13:07:24 | EDIT | Original 
+BITBURGER | 1395K3528001 | X02 | A01 | 03 | /P12153940-03/SN94482XJE0009P | G |  | 2025-02-18 | 1 | S | eoli
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528001 | A01 | A01 |  | /P12153940-03/SN94482XJE0009P | G | 1 | S
+
+05.03.25 - 06:20:30 | EDIT | Original 
+BITBURGER | 1395K3528001 | A01 | A01 | 03 | /P12153940-03/SN94482XJE0001Q | D |  | 2025-02-18 | 2 | B | eoli
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528001 | A01 | A01 |  | /P12153940-03/SN94482XJE0001Q | D | 1 | B
+TOP: R5-overturn; R2-missing; BOT: T2-bridge; I2- polarity; D5-missing; C7 swap R7
+05.03.25 - 06:21:47 | EDIT | Original 
+BITBURGER | 1395K3528001 | A01 | A01 | 03 | /P12153940-03/SN94482XJE0001G | D |  | 2025-02-18 | 2 | B | eoli
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528001 | A01 | A01 |  | /P12153940-03/SN94482XJE0001G | D | 1 | B
+TOP: R21- overturn; R11- billboard; BOT: T1-missing; I2- bridge; D5- polarity
+05.03.25 - 06:22:59 | EDIT | Original 
+BITBURGER | 1395K3528001 | A01 | A01 | 03 | /P12153940-03/SN94482XJE0001A | D |  | 2025-02-18 | 2 | B | eoli
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528001 | A01 | A01 |  | /P12153940-03/SN94482XJE0001A | D | 1 | B
+TOP: C2 swap C9; R2- tombstone; BOT: I3-bridge; T2- polarity
+05.03.25 - 06:25:34 | EDIT | Original 
+BITBURGER | 1395K3528001 | A01 | A01 | 03 | /P12153940-03/SN94482XJE00013 | D |  | 2025-02-18 | 2 | B | eoli
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528001 | A01 | A01 |  | /P12153940-03/SN94482XJE00013 | D | 1 | B
+TOP: R17-overturn; C2- billboard; R5- tombstone BOT: D5- polarity; I2-bridge; R24-missing; C10 swap C11
+05.03.25 - 06:26:44 | EDIT | Original 
+BITBURGER | 1395K3528001 | A01 | A01 | 03 | /P12153940-03/SN94482XJE0001L | D |  | 2025-02-18 | 2 | B | eoli
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528001 | A01 | A01 |  | /P12153940-03/SN94482XJE0001L | D | 1 | B
+TOP: I1- polarity; D4-damage; BOT: T6-bridge; C7- missing
+05.03.25 - 06:52:30 | EDIT | Original 
+BITBURGER | 1395K3528002 | X02 | A01 | 02 | /P12164397-02/SN94482XJE00098 | D |  | 2024-10-24 | 2 | B | eoli
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528002 | A01 | A01 |  | /P12164397-02/SN94482XJE00098 | D | 2 | B
+
+05.03.25 - 06:53:00 | EDIT | Original 
+BITBURGER | 1395K3528002 | X02 | A01 | 02 | /P12164397-02/SN94482XJE0009Q | D |  | 2024-10-24 | 2 | B | eoli
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528002 | A01 | A01 |  | /P12164397-02/SN94482XJE0009Q | D | 2 | B
+
+05.03.25 - 10:15:22 | EDIT | Original 
+BITBURGER | 1395K3528002 | X02 | A01 | 02 | /P12164397-02/SN94482XJE00067 | D |  | 2024-10-24 | 2 | S | eoli
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528002 | A01 | A01 |  | /P12164397-02/SN94482XJE00067 | D | 2 | S
+
+05.03.25 - 10:47:07 | EDIT | Original 
+BITBURGER | 1395K3528002 | A01 | A01 | 02 | /P12164397-02/SN94482XJE0009M | D |  | 2024-10-24 | 2 | B | eoli
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528002 | A01 | A01 |  | /P12164397-02/SN94482XJE0009M | D | 1 | B
+TOP: R5-miss; R2- overturn; BOT: I2- bridge; D5- polarity
+05.03.25 - 10:47:44 | EDIT | Original 
+BITBURGER | 1395K3528002 | A01 | A01 | 02 | /P12164397-02/SN94482XJE0009M | D | TOP: R5-miss; R2- overturn; BOT: I2- bridge; D5- polarity | 2024-10-24 | 1 | B | eoli
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528002 | A01 | A01 |  | /P12164397-02/SN94482XJE0009M | D | 1 | B
+1) TOP: R5-miss; R2- overturn; BOT: I2- bridge; D5- polarity
+05.03.25 - 10:49:10 | EDIT | Original 
+BITBURGER | 1395K3528002 | A01 | A01 | 02 | /P12164397-02/SN94482XJE0009P | D |  | 2024-10-24 | 2 | B | eoli
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528002 | A01 | A01 |  | /P12164397-02/SN94482XJE0009P | D | 1 | B
+2) TOP: D4- missing; R21- tombstone; BOT: T6- bridge; C12 swap R24;
+05.03.25 - 10:51:03 | EDIT | Original 
+BITBURGER | 1395K3528002 | A01 | A01 | 02 | /P12164397-02/SN94482XJE0009K | D |  | 2024-10-24 | 2 | B | eoli
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528002 | A01 | A01 |  | /P12164397-02/SN94482XJE0009K | D | 1 | B
+3) TOP: I1-polarity; R2 swap R11; BOT: X1- bend; C8- shift
+05.03.25 - 10:52:18 | EDIT | Original 
+BITBURGER | 1395K3528002 | A01 | A01 | 02 | /P12164397-02/SN94482XJE0009L | D |  | 2024-10-24 | 2 | B | eoli
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528002 | A01 | A01 |  | /P12164397-02/SN94482XJE0009L | D | 1 | B
+4) TOP: C9-missing; R17- missing; BOT: C12 swap C10; T3-polarity
+05.03.25 - 11:02:53 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528002 | A01 | A01 | D | /P12164397-02/SN94482XJE00093 | eoli | 2 | 2024-10-24 | B | 
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE00093 | D | 1 | B
+5) TOP: C2-missing; R17-overturn; BOT: C10- tombstone; C8-missing
+
+ 05.03.25 - 11:16:00 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE0009Q | D | eoli | 2 | 2024-10-24 | B | 
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE0009Q | D | 1 | B
+6) TOP: R2-billboard; R11-shift; C9-miss; BOT: X1-bend; I2- missing
+
+ 05.03.25 - 11:24:25 - 248043 | EDIT | Original 
+Daisy | 1395K3550901 | xxx | xxx | INNIM000C7B | D | ict | 4 | 2024-07-12 | S | 
+ \/ \/ TO \/ \/ 
+Daisy | 1395K3550901 | AX1 | A01 | INNIM000C7B | D | ict | 4 | S
+
+
+ 05.03.25 - 12:21:38 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE0009R | D | eoli | 2 | 2024-10-24 | B | 
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE0009R | D | eoli | 1 | B
+7) TOP: R21- OCR; D1- miss; BOT: D5- OCR; R24- shift
+
+ 05.03.25 - 12:26:49 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE00096 | D | eoli | 2 | 2024-10-24 | B | 
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE00096 | D | eoli | 1 | B
+8) TOP: R5-OCR; D7- shift; BOT: C11- tombstone; C12-billboard
+
+ 05.03.25 - 12:29:30 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE00098 | D | eoli | 2 | 2024-10-24 | B | 
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE00098 | D | eoli | 1 | B
+9) TOP: R21-miss; C2- OCR; BOT: C8- polarity; T2- bridge
+
+ 05.03.25 - 12:31:17 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE00094 | D | eoli | 2 | 2024-10-24 | B | 
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE00094 | D | eoli | 1 | B
+10) TOP: R2-shift; I1- miss; BOT: X1-miss; R7- miss
+
+ 05.03.25 - 14:50:25 - 248043 | EDIT | Original 
+Daisy | 1395K3550901 | AX1 | A01 | INNIM000C7B | D | ict | 4 | 2024-07-12 | S | 
+ \/ \/ TO \/ \/ 
+Daisy | 1395K3550901 | AX1 | A01 | INNIM000C7B | D | ict | 1 | S
+
+
+ 06.03.25 - 10:08:14 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE00061 | D | eoli | 2 | 2024-10-24 | S | 
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE00061 | D | eoli | 1 | S
+1) TOP: D7-miss; R11-shift; BOT: I2- bridge; C10- tombstone
+
+ 06.03.25 - 10:09:08 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE00062 | D | eoli | 2 | 2024-10-24 | S | 
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE00062 | D | eoli | 1 | S
+2) TOP: C9- shift; D1- miss; BOT: C12- billboard; T6- polarity
+
+ 06.03.25 - 10:09:51 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE00063 | D | eoli | 2 | 2024-10-24 | S | 
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE00063 | D | eoli | 1 | S
+3) TOP: R2- OCR; D4- polarity; BOT: D5- polarity; C11- shift
+
+ 06.03.25 - 10:10:33 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE00064 | D | eoli | 2 | 2024-10-24 | S | 
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE00064 | D | eoli | 1 | S
+4) TOP: C2- OCR; I1- bridge; R17- miss; BOT: T2- polarity; C7- miss
+
+ 06.03.25 - 10:11:15 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE00068 | D | eoli | 2 | 2024-10-24 | S | 
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE00068 | D | eoli | 1 | S
+5) TOP: I1- miss; C2- shift; BOT: C8- shift; X1- dmg
+
+ 06.03.25 - 10:12:03 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE00067 | D | eoli | 2 | 2024-10-24 | S | 
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE00067 | D | eoli | 1 | S
+6) TOP: D2- polarity; R5- shift; BOT: C11 swap R24; C8- miss
+
+ 06.03.25 - 10:12:49 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE00066 | D | eoli | 2 | 2024-10-24 | S | 
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE00066 | D | eoli | 1 | S
+7) TOP: R2- overturn; C9- miss; BOT: T6- bridge; R27- miss
+
+ 06.03.25 - 10:13:34 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE00065 | D | eoli | 2 | 2024-10-24 | S | 
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE00065 | D | eoli | 1 | S
+8) TOP: R5- miss; R2 swap R11; BOT: X1-miss; C12- OCR
+
+ 06.03.25 - 10:14:27 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE00069 | D | eoli | 2 | 2024-10-24 | S | 
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE00069 | D | eoli | 1 | S
+9) TOP: D1- shift; R2- billboard; BOT: D5- miss; I2- miss
+
+ 06.03.25 - 10:15:29 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE0006A | D | eoli | 2 | 2024-10-24 | S | 
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528002 | A01 | A01 | /P12164397-02/SN94482XJE0006A | D | eoli | 1 | S
+10) TOP: C9 swap C2; D2- shift; BOT: T2- bridge; R1- miss
+
+ 06.03.25 - 14:36:42 - 248043 | EDIT | Original 
+BERNARD | 1395K3505203 | AX1 | A01 | /P12025966-08/SN95384YAR00016 | D | eoli | 1 | 2025-01-29 | S | 
+ \/ \/ TO \/ \/ 
+BERNARD | 1395K3505203 | AX1 | A01 | /P12025966-08/SN95384YAR00016 | D | eoli | 9 | S
+
+
+ 06.03.25 - 14:37:16 - 248043 | EDIT | Original 
+BERNARD | 1395K3505203 | AX1 | A01 | /P12025966-08/SN95384YAR00096 | D | eoli | 1 | 2025-01-29 | S | 
+ \/ \/ TO \/ \/ 
+BERNARD | 1395K3505203 | AX1 | A01 | /P12025966-08/SN95384YAR00096 | D | eoli | 9 | S
+
+
+ 06.03.25 - 14:38:17 - 248043 | EDIT | Original 
+Hera | 1395K3547801 | X03 | B01 | /P12154181-04/SNZB983XCS070 | D | ict | 4 | 2024-03-28 | S | X1-missing,bridge;D1-missing,polarity;R3,D3-missing;R1-missing
+ \/ \/ TO \/ \/ 
+Hera | 1395K3547801 | X03 | B01 | /P12154181-04/SNZB983XCS070 | D | ict | 9 | S
+X1-missing,bridge;D1-missing,polarity;R3,D3-missing;R1-missing
+
+ 10.03.25 - 09:01:45 - 248043 | EDIT | Original 
+Bitburger | 1395K3528001 | A01 | A01 | /P12153940-03/SNYA983WKM0692F | D | eoli | 3 | 2023-11-22 | S | 24) TOP: D6 - Polarity;R21- Turnover;BOT: I2 - Polarity;R31,R27 - Missing parts;
+ \/ \/ TO \/ \/ 
+Bitburger | 1395K3528001 | A01 | A01 | /P12153940-03/SNYA983WKM0692F | D | eoli | 9 | S
+24) TOP: D6 - Polarity;R21- Turnover;BOT: I2 - Polarity;R31,R27 - Missing parts;
+
+ 10.03.25 - 09:01:53 - 248043 | EDIT | Original 
+Bitburger | 1395K3528001 | A01 | A01 | /P12153940-03/SNYA983WKM0692G | D | eoli | 3 | 2023-11-22 | S | 28)
+ \/ \/ TO \/ \/ 
+Bitburger | 1395K3528001 | A01 | A01 | /P12153940-03/SNYA983WKM0692G | D | eoli | 9 | S
+28)
+
+ 10.03.25 - 13:27:24 - 248043 | EDIT | Original 
+Jasmine | 1395K3577102 | AX2 | B01 | /P12177674-05/SN94482XID0042 | D | ict | 1 | 2024-09-16 | S | TOP: I400-missing,bridge;I301-polarity,bridge;I200-missing;L200-missing;C110-polarity,missing;R501-missing;Q400-missing; BOT: X2,X15,X6,X40,X30-missing;D101-polarity,missing;I201-missing,polarity;I101-bridge,missing;T505-missing;L201-missing;R208-missing
+ \/ \/ TO \/ \/ 
+Jasmine | 1395K3577102 | AX2 | B01 | /P12177674-05/SN94482XID0042 | D | ict | 9 | S
+TOP: I400-missing,bridge;I301-polarity,bridge;I200-missing;L200-missing;C110-polarity,missing;R501-missing;Q400-missing; BOT: X2,X15,X6,X40,X30-missing;D101-polarity,missing;I201-missing,polarity;I101-bridge,missing;T505-missing;L201-missing;R208-missing
+
+ 11.03.25 - 14:51:46 - 248074 | EDIT | Original 
+Pilsner | 1395K3541403 | AX3 | A01 | /P12172840-05/SN94482YBB0019 | G | olbs | 1 | 2025-02-10 | S | 
+ \/ \/ TO \/ \/ 
+Pilsner | 1395K3541403 | AX3 | A01 | /P12172840-05/SN94482YBB0019 | G | olbs | 1 | B
+
+
+ 12.03.25 - 10:01:44 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC70014P | D | eoli | 2 | 2025-03-07 | S | I. PREP & -> BLU
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC70014P | D | eoli | 1 | S
+I. TOP: R2-billboard; I1-shift; C2-missing
+
+ 12.03.25 - 10:02:14 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC70014I | D | eoli | 2 | 2025-03-07 | S | II. PREP & -> BLU
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC70014I | D | eoli | 1 | S
+II. TOP: R5- turnover; C10- tombstone
+
+ 12.03.25 - 10:03:11 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC700148 | D | eoli | 2 | 2025-03-07 | S | III. PREP & -> BLU
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC700148 | D | eoli | 1 | S
+III. TOP: D7- polarity; BOT: T3 swap T1
+
+ 12.03.25 - 10:03:27 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC70014I | D | eoli | 1 | 2025-03-07 | S | II. TOP: R5- turnover; C10- tombstone
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC70014I | D | eoli | 1 | S
+II. TOP: R5- turnover; BOT: C10- tombstone
+
+ 12.03.25 - 10:04:08 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC70014L | D | eoli | 2 | 2025-03-07 | S | VI. PREP & -> BLU
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC70014L | D | eoli | 1 | S
+VI. TOP: I1- polarity; BOT: I2- bridge
+
+ 12.03.25 - 10:05:52 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC70014B | D | eoli | 2 | 2025-03-07 | S | 17) PREP
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC70014B | D | eoli | 1 | S
+17) TOP: I1- bridge; BOT: I2- polarity; R24- wrong;
+
+ 12.03.25 - 10:07:41 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC700147 | D | eoli | 2 | 2025-03-07 | S | 16) PREP
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC700147 | D | eoli | 1 | S
+16) BOT: X1- damaged; C8- missing
+
+ 12.03.25 - 10:08:34 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC700143 | D | eoli | 2 | 2025-03-07 | S | 18) prep
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC700143 | D | eoli | 1 | S
+18) TOP: R21- billboard; C9- missing
+
+ 12.03.25 - 10:09:24 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC70014W | D | eoli | 2 | 2025-03-07 | S | 20) prep
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC70014W | D | eoli | 1 | S
+20) BOT: I2- shift
+
+ 12.03.25 - 10:09:52 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC70014R | D | eoli | 2 | 2025-03-07 | S | 21) prep
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC70014R | D | eoli | 1 | S
+21) BOT: D5- polarity
+
+ 12.03.25 - 10:10:33 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC70014S | D | eoli | 2 | 2025-03-07 | S | 22) prep
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC70014S | D | eoli | 1 | S
+22) TOP: R2- billboard; BOT: C8- poalrity
+
+ 12.03.25 - 10:11:21 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC70014L | D | eoli | 1 | 2025-03-07 | S | VI. TOP: I1- polarity; BOT: I2- bridge
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC70014L | D | eoli | 1 | S
+VI. TOP: I1- polarity; BOT: I2- bridge ||| Přesunout na BLU
+
+ 12.03.25 - 10:11:33 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC700148 | D | eoli | 1 | 2025-03-07 | S | III. TOP: D7- polarity; BOT: T3 swap T1
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC700148 | D | eoli | 1 | S
+III. TOP: D7- polarity; BOT: T3 swap T1 ||| Přesunout na BLU
+
+ 12.03.25 - 10:11:39 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC70014I | D | eoli | 1 | 2025-03-07 | S | II. TOP: R5- turnover; BOT: C10- tombstone
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC70014I | D | eoli | 1 | S
+II. TOP: R5- turnover; BOT: C10- tombstone ||| Přesunout na BLU
+
+ 12.03.25 - 10:11:46 - 248043 | EDIT | Original 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC70014P | D | eoli | 1 | 2025-03-07 | S | I. TOP: R2-billboard; I1-shift; C2-missing
+ \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC70014P | D | eoli | 1 | S
+I. TOP: R2-billboard; I1-shift; C2-missing ||| Přesunout na BLU
+
+ 12.03.25 - 15:30:11 - 248037 | EDIT | Original 
+PILSNER | 1395K3541502 | AX3 | A01 | /P12172843-05/SN95384YBM0104 | G | aoi | 1 | 2025-03-12 | B | 
+	 	 	 \/ \/ TO \/ \/ 
+PILSNER | 1395K3541502 | AX3 | A01 | /P12172843-05/SN95384YBM0104 | G | olbs | 1 | B
+
+
+ 12.03.25 - 15:37:33 - 248037 | EDIT | Original 
+PILSNER | 1395K3541502 | AX3 | A01 | /P12172843-05/SN95384YBM0002 | G | aoi | 1 | 2025-03-12 | B | 
+	 	 	 \/ \/ TO \/ \/ 
+PILSNER | 1395K3541502 | AX3 | A01 | /P12172843-05/SN95384YBM0002 | D | ict | 2 | B
+prep
+
+ 13.03.25 - 10:50:31 - 238042 | EDIT | Original 
+HERA | 1395K3547801 | AX1 | B01 | /P12154181-04/SN94482YCC008 | D | ict | 2 | 2025-03-12 | S | PREP
+	 	 	 \/ \/ TO \/ \/ 
+HERA | 1395K3547801 | AX1 | B01 | /P12154181-04/SN94482YCC008 | D | ict | 1 | S
+#1 R1 - damaged; #3 X1 - bridge; #6 R2 - tombstone; #11 R3 - miss; #20 D1 - miss;
+#22 D2 - damaged; #36 D3 - polarity; #37 R1 - miss; #40 R3 - tombstone; #43 X1 - miss;
+#56 D1 - polarity; #59 - R2 - damaged; #62 D2 - miss; #64 X1 - bridge; #67 R1 - damaged;
+#68 D3 - miss; #69 D1 - polarity; #70 R3 - billboard; #73 X1 - miss; #76 D3 - damaged;
+
+ 13.03.25 - 10:50:41 - 238042 | EDIT | Original 
+HERA | 1395K3547801 | AX1 | B01 | /P12154181-04/SN94482YCC008 | D | ict | 1 | 2025-03-12 | S | #1 R1 - damaged; #3 X1 - bridge; #6 R2 - tombstone; #11 R3 - miss; #20 D1 - miss;
+#22 D2 - damaged; #36 D3 - polarity; #37 R1 - miss; #40 R3 - tombstone; #43 X1 - miss;
+#56 D1 - polarity; #59 - R2 - damaged; #62 D2 - miss; #64 X1 - bridge; #67 R1 - damaged;
+#68 D3 - miss; #69 D1 - polarity; #70 R3 - billboard; #73 X1 - miss; #76 D3 - damaged;
+	 	 	 \/ \/ TO \/ \/ 
+HERA | 1395K3547801 | AX1 | B01 | /P12154181-04/SN94482YCC008 | D | ict | 1 | S
+#1 R1 - damaged; #3 X1 - bridge; #6 R2 - tombstone; #11 R3 - miss; #20 D1 - miss;
+#22 D2 - damaged; #36 D3 - polarity; #37 R1 - miss; #40 R3 - tombstone; #43 X1 - miss;
+#56 D1 - polarity; #59 - R2 - damaged; #62 D2 - miss; #64 X1 - bridge; #67 R1 - damaged;
+#68 D3 - miss; #69 D1 - polarity; #70 R3 - billboard; #73 X1 - miss; #76 D3 - damaged;
+
+ 14.03.25 - 09:30:11	 - 	248043	 | EDIT | 	 ORIGINAL 
+Bitburger | 1395K3528001 | A01 | A01 | /P12164397-02/SNYA983XAE29525 | D | eoli | 3 | 2023-10-10 | S | 25)
+	 	 	 \/ \/ TO \/ \/ 
+Bitburger | 1395K3528001 | A01 | A01 | /P12164397-02/SNYA983XAE29525 | D | eoli | 3 | S
+25)
+
+ 14.03.25 - 09:39:47	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Bitburger | 1395K3528001 | A01 | A01 | /P12164397-02/SNYA983XAE29525 | D | eoli | 3 | 2023-10-10 | S | 25) I2 - polarity, R2 - shifted part, I2 - shifted part, R24 - tilt, shift
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Bitburger | 1395K3528001 | A01 | A01 | /P12164397-02/SNYA983XAE29525 | D | eoli | 3 | S
+25) I2 - polarity, R2 - shifted part, I2 - shifted part, R24 - tilt, shift
+Bitburger | 1395K3528001 | A01 | A01 | /P12164397-02/SNYA983XAE29525 | D | eoli | 3 | 2023-10-10 | S | 
+25) I2 - polarity, R2 - shifted part, I2 - shifted part, R24 - tilt, shift
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Bitburger | 1395K3528001 | A01 | A01 | /P12164397-02/SNYA983XAE29525 | D | eoli | 3 | S
+
+Bitburger | 1395K3528001 | A01 | A01 | /P12164397-02/SNYA983XAE29525 | D | eoli | 3 | 2023-10-10 | S | 
+
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Bitburger | 1395K3528001 | A01 | A01 | /P12164397-02/SNYA983XAE29525 | D | eoli | 3 | S
+25) I2 - polarity, R2 - shifted part, I2 - shifted part, R24 - tilt, shift
+
+Curie | 1395K3590201 | X01 | A01 | /P12195006-00/SNZB983XCJ0530T | G | eoli | 5 | 2024-03-19 | S | 
+
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Curie | 1395K3590201 | X01 | A01 | /P12195006-00/SNZB983XCJ0530T | G | eoli | 5 | S
+DESTROYED
+
+Curie | 1395K3590201 | X01 | A01 | /P12195006-00/SNZB983XCJ0530T | G | eoli | 5 | 2024-03-19 | S | 
+DESTROYED
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Curie | 1395K3590201 | X01 | A01 | /P12195006-00/SNZB983XCJ0530T | G | eoli | 5 | S
+NOT TOO DESTROYED (TEST);
+
+Curie | 1395K3590201 | X01 | A01 | /P12195006-00/SNZB983XCJ0530T | G | eoli | 5 | S | 
+NOT TOO DESTROYED (TEST);
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Curie | 1395K3590201 | X01 | A01 | /P12195006-00/SNZB983XCJ0530T | G | eoli | 5 | S
+I THINK THAT WE COULD USE IT LITTLE BIT MORE
+
+Curie | 1395K3590201 | X01 | A01 | /P12195006-00/SNZB983XCJ0530T | G | eoli | 5 | S | 
+I THINK THAT WE COULD USE IT LITTLE BIT MORE
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Curie | 1395K3590201 | X01 | A01 | /P12195006-00/SNZB983XCJ0530T | G | eoli | 5 | S
+NO WE COULDN'T USE THAT SHIT B-D
+
+ 14.03.25 - 14:18:21	 	 | 	 	 248043	 	 | 	 	STATUS	 | 	 status = '5'	 	 <<< BATCH EDIT 
+/P12172838-05/SN94482YA800044	 	 - 	 	 OK 
+/P12172838-05/SN94482YA800043	 	 - 	 	 OK 
+/P12172838-05/SN94482YA800042	 	 - 	 	 OK 
+/P12172838-05/SN94482YA800041	 	 - 	 	 OK 
+/P12172838-05/SN94482YA800045	 	 - 	 	 OK 
+
+ 14.03.25 - 14:22:54 	 	 |	 	248043 	 	 | 	 	 status = '1'	 	 |<<< BATCH EDIT ||| 
+/P12172838-05/SN94482YA800041	 	 - 	 	 OK 
+/P12172838-05/SN94482YA800042	 	 - 	 	 OK 
+/P12172838-05/SN94482YA800043	 	 - 	 	 OK 
+/P12172838-05/SN94482YA800044	 	 - 	 	 OK 
+/P12172838-05/SN94482YA800045	 	 - 	 	 OK 
+
+ 16.03.25 - 18:41:36 	 	 |	 	248043 	 	 | 	 	 hub = 'S'	 	 | 	 	 <<< BATCH EDIT ||| 
+/P12172838-05/SN95384YBP0001	 	 - 	 	 OK 
+
+ 17.03.25 - 08:56:58	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+PILSNER | 1395K3547101 | X01 | A01 | K35471012ZQ52GX48 | D | aoi | 2 | S | 
+PREP | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+PILSNER | 1395K3547101 | X01 | A01 | K35471012ZQ52GX48 | D | aoi | 1 | S
+D1- polarity, shift, missing; X1- missing, bridge, shift; R1- missing, shift; C1- missing
+
+ 17.03.25 - 09:06:25	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+HERA | 1395K3547801 | AX1 | B01 | /P12154181-04/SN94482YCC004 | D | aoi | 2 | S | 
+PREP | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+HERA | 1395K3547801 | AX1 | B01 | /P12154181-04/SN94482YCC004 | D | aoi | 1 | S
+D1- missing, polarity; D2- polarity, damage; D3- polarity, tombstone; X1- bridge, missing; R3- missing
+
+ 17.03.25 - 09:08:35	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC70041 | D | aoi | 2 | S | 
+PREP | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+BITBURGER | 1395K3528001 | A01 | A01 | /P12153940-03/SN94482YC70041 | D | aoi | 1 | S
+TOP: I1- polaruty; D4- missing; C9- missing; D2- polarity; C2- wrong part; I2- shift; R2- missing; C9- missing; BOT: I2- bridge; T6- bridge; D5- polarity; R27- missing; T3- poalrity; C10- missing; C12- billboard; I2- missing; X1- damage
+
+ 20.03.25 - 09:54:14	 	 	 | 	 	 	 248074 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+PILSNER | 1395K3541502 | AX3 | A01 | /P12172843-05/SN95384YBM0138 | G | olbs | 1 | B | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+PILSNER | 1395K3541502 | AX3 | A01 | /P12172843-05/SN95384YBM0138 | G | ict | 1 | B
+
+
+ 24.03.25 - 09:19:19 	 	 |	 	248043 	 	 | 	 	 status = '4'	 	 | 	 	 <<< BATCH EDIT ||| 
+/P12107324-10/SN94482XHT03721	 	 - 	 	 OK 
+/P12107324-10/SN94482XHT03746	 	 - 	 	 OK 
+/P12107324-10/SN94482XHT03745	 	 - 	 	 OK 
+/P12107324-10/SN94482XHT03748	 	 - 	 	 OK 
+/P12107324-10/SN94482XHT03747	 	 - 	 	 OK 
+/P12107324-10/SN94482XHT03742	 	 - 	 	 OK 
+
+ 25.03.25 - 09:02:30	 	 	 | 	 	 	 238042 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Jasmine | 1395K3577101 | AX1 | A01 | /P12158608-04/SNYA983XFE42288 | G | eoli | 4 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Jasmine | 1395K3577101 | AX1 | A01 | /P12158608-04/SNYA983XFE42288 | G | eoli | 4 | B
+
+
+ 25.03.25 - 09:03:11	 	 	 | 	 	 	 238042 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Jasmine | 1395K3577101 | AX1 | A01 | /P12158608-04/SNYA983XFE42285 | G | eoli | 4 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Jasmine | 1395K3577101 | AX1 | A01 | /P12158608-04/SNYA983XFE42285 | G | eoli | 4 | B
+
+
+ 25.03.25 - 09:03:58	 	 	 | 	 	 	 238042 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Jasmine | 1395K3577101 | AX1 | A01 | /P12158608-04/SNYA983XFE42281 | G | eoli | 4 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Jasmine | 1395K3577101 | AX1 | A01 | /P12158608-04/SNYA983XFE42281 | G | eoli | 4 | B
+
+
+ 25.03.25 - 09:05:59	 	 	 | 	 	 	 238042 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Jasmine | 1395K3577101 | AX1 | A01 | /P12158608-04/SNYA983XFE42283 | G | eoli | 4 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Jasmine | 1395K3577101 | AX1 | A01 | /P12158608-04/SNYA983XFE42283 | G | eoli | 4 | B
+
+
+ 25.03.25 - 09:08:37	 	 	 | 	 	 	 238042 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Jasmine | 1395K3577101 | AX1 | B01 | /P12158608-04/SNYA983XEG1073 | G | aoi | 1 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Jasmine | 1395K3577101 | AX1 | B01 | /P12158608-04/SNYA983XEG1073 | G | aoi | 1 | B
+
+
+ 25.03.25 - 09:11:02	 	 	 | 	 	 	 238042 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Jasmine | 1395K3577101 | AX1 | A01 | /P12158608-04/SNYA983XFE42284 | D | eoli | 4 | S | 
+TOP: L200-Missing; I200-Damage; C104-Missing; C105-Missing;BOT: X30-Missing; D101-Damage; R309-Shift; R310-Shift | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Jasmine | 1395K3577101 | AX1 | A01 | /P12158608-04/SNYA983XFE42284 | D | eoli | 4 | B
+TOP: L200-Missing; I200-Damage; C104-Missing; C105-Missing;BOT: X30-Missing; D101-Damage; R309-Shift; R310-Shift
+
+ 25.03.25 - 09:11:36	 	 	 | 	 	 	 238042 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Jasmine | 1395K3577101 | AX1 | A01 | /P12158608-04/SNYA983XFE42286 | D | eoli | 4 | S | 
+TOP: I400-Bridge; L100-Missing; L102-Damage; BOT: D600-Shift; C115-Damage; I201-Bridge; C213-Solder | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Jasmine | 1395K3577101 | AX1 | A01 | /P12158608-04/SNYA983XFE42286 | D | eoli | 4 | B
+TOP: I400-Bridge; L100-Missing; L102-Damage; BOT: D600-Shift; C115-Damage; I201-Bridge; C213-Solder
+
+ 25.03.25 - 09:12:47	 	 	 | 	 	 	 238042 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Jasmine | 1395K3577101 | AX1 | A01 | /P12158608-04/SNYA983XFE42287 | D | eoli | 4 | S | 
+TOP: I400-Bridge; D506-Missing; R501-Shift; C101-Damage; BOT: R201-Missing; D301-Wrong; C115-Polarity | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Jasmine | 1395K3577101 | AX1 | A01 | /P12158608-04/SNYA983XFE42287 | D | eoli | 4 | B
+TOP: I400-Bridge; D506-Missing; R501-Shift; C101-Damage; BOT: R201-Missing; D301-Wrong; C115-Polarity
+
+ 25.03.25 - 09:13:43	 	 	 | 	 	 	 238042 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Jasmine | 1395K3577101 | AX1 | A01 | /P12158608-04/SNYA983XFE42282 | D | eoli | 4 | S | 
+TOP: C110-Polarity; I300-Bridge; I301-Shift; BOT: I201-Bridge; R201-Billboard; R202-Overturn; D301-Shift | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Jasmine | 1395K3577101 | AX1 | A01 | /P12158608-04/SNYA983XFE42282 | D | eoli | 4 | B
+TOP: C110-Polarity; I300-Bridge; I301-Shift; BOT: I201-Bridge; R201-Billboard; R202-Overturn; D301-Shift
+
+ 25.03.25 - 09:17:27	 	 	 | 	 	 	 248087 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Jasmine | 1395K3577102 | AX2 | B01 | /P12177674-05/SN94482XJU0001 | G | olbs | 1 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Jasmine | 1395K3577102 | AX2 | B01 | /P12177674-05/SN94482XJU0001 | G | olbs | 1 | B
+
+
+ 25.03.25 - 09:17:53	 	 	 | 	 	 	 248087 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Jasmine | 1395K3577102 | AX2 | B01 | /P12177674-05/SN94482XJU0002 | D | aoi | 1 | S | 
+TOP: I400- bridge; R501-OCR; D506-wrong; R526-missing; D504-mising; 
+BOT: C116-billboard; I204-bridge; T201-polarity; X4-damaged; R212-missing | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Jasmine | 1395K3577102 | AX2 | B01 | /P12177674-05/SN94482XJU0002 | D | aoi | 1 | B
+TOP: I400- bridge; R501-OCR; D506-wrong; R526-missing; D504-mising; 
+BOT: C116-billboard; I204-bridge; T201-polarity; X4-damaged; R212-missing
+
+ 25.03.25 - 09:18:23	 	 	 | 	 	 	 248087 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Jasmine | 1395K3577101 | AX1 | B01 | /P12158608-04/SNYA983XEG1074 | D | ict | 1 | S | 
+#1R508, C111, R308-miss; #2 D100 polarity, T505 miss; 3# T600, C211, C212, R212, C116 miss, I201 bridge; #4 I400 bridge, C110 miss; #5 C116, R201 miss; #6 R202 shifted, C104, C105 miss; #7 C115 polarity, I300 bridge; #8 D200, R401 miss, I300 bridge | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Jasmine | 1395K3577101 | AX1 | B01 | /P12158608-04/SNYA983XEG1074 | D | ict | 1 | B
+#1R508, C111, R308-miss; #2 D100 polarity, T505 miss; 3# T600, C211, C212, R212, C116 miss, I201 bridge; #4 I400 bridge, C110 miss; #5 C116, R201 miss; #6 R202 shifted, C104, C105 miss; #7 C115 polarity, I300 bridge; #8 D200, R401 miss, I300 bridge
+
+ 26.03.25 - 12:50:03	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+PILSNER | 1395K3547101 | X01 | A01 | K35471012ZQ52GX48 | D | aoi | 1 | S | 
+D1- polarity, shift, missing; X1- missing, bridge, shift; R1- missing, shift; C1- missing | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+PILSNER | 1395K3547101 | AX2 | A01 | K35471012ZQ52GX48 | D | aoi | 1 | S
+D1- polarity, shift, missing; X1- missing, bridge, shift; R1- missing, shift; C1- missing
+
+ 26.03.25 - 12:50:10	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Pilsner | 1395K3547101 | X01 | A01 | K35471012ZQ39GX1401 | G | aoi | 1 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Pilsner | 1395K3547101 | AX2 | A01 | K35471012ZQ39GX1401 | G | aoi | 1 | S
+
+
+ 26.03.25 - 14:37:59	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+PILSNER | 1395K3541502 | AX3 | A01 | /P12172843-05/SN95384YBM0002 | D | ict | 2 | B | 
+prep | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+PILSNER | 1395K3541502 | A01 | A01 | /P12172843-05/SN95384YBM0002 | D | ict | 2 | B
+prep
+
+ 26.03.25 - 14:44:40 	 	 |	 	248043 	 	 | 	 	 pca = 'A01'	 	 | 	 	 <<< BATCH EDIT ||| 
+/P12172843-05/SN95384YBM00954	 	 - 	 	 OK 
+/P12172843-05/SN95384YBM01145	 	 - 	 	 OK 
+/P12172843-05/SN95384YBM00955	 	 - 	 	 OK 
+/P12172843-05/SN95384YBM00956	 	 - 	 	 OK 
+/P12172843-05/SN95384YBM00957	 	 - 	 	 OK 
+
+ 26.03.25 - 14:52:39 	 	 |	 	248043 	 	 | 	 	 pca = 'A01'	 	 | 	 	 <<< BATCH EDIT ||| 
+/P12172843-05/SN95384YBM00952	 	 - 	 	 OK 
+/P12172843-05/SN95384YBM01141	 	 - 	 	 OK 
+/P12172843-05/SN95384YBM00958	 	 - 	 	 OK 
+/P12172843-05/SN95384YBM01148	 	 - 	 	 OK 
+/P12172843-05/SN95384YBM00951	 	 - 	 	 OK 
+/P12172843-05/SN95384YBM00953	 	 - 	 	 OK 
+/P12172843-05/SN95384YBM01143	 	 - 	 	 OK 
+/P12172843-05/SN95384YBM01142	 	 - 	 	 OK 
+/P12172843-05/SN95384YBM01147	 	 - 	 	 OK 
+
+ 27.03.25 - 14:44:10	 	 	 | 	 	 	 238026 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Bernard | 1395K3505202 | AX1 | A01 | /P12025965-08/SN95384YA30009 | G | aoi | 1 | B | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Bernard | 1395K3505202 | AX1 | A01 | /P12025965-08/SN95384YA30009 | D | eoli | 1 | B
+cutted for PPAP EOLI
+
+ 27.03.25 - 14:46:14	 	 	 | 	 	 	 238026 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Bernard | 1395K3505202 | AX1 | A01 | /P12025965-08/SN95384YA30011 | D | aoi | 2 | B | 
+TOP: I1- bridge, polarity; D65- polarity; C51<swap>C18; T640-polarity; | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Bernard | 1395K3505202 | AX1 | A01 | /P12025965-08/SN95384YA30011 | D | eoli | 2 | B
+TOP: I1- bridge, polarity; D65- polarity; C51<swap>C18; T640-polarity;
+
+ 28.03.25 - 13:00:02	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EuroStar | 1395K3515101 | AX3 | A02 | /P12107325-07/SN94482XHT0436 | G | aoi | 1 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EuroStar | 1395K3515101 | AX3 | A02 | /P12107325-07/SN94482XHT0436 | D | aoi | 2 | S
+
+
+ 31.03.25 - 09:13:04 	 	 |	 	238042 	 	 | 	 	 hub = 'S'	 	 | 	 	 <<< BATCH EDIT ||| 
+/P12158608-04/SNYA983XFE42287	 	 - 	 	 OK 
+/P12158608-04/SNYA983XFE42286	 	 - 	 	 OK 
+/P12158608-04/SNYA983XFE42284	 	 - 	 	 OK 
+/P12158608-04/SNYA983XFE42282	 	 - 	 	 OK 
+/P12158608-04/SNYA983XFE42281	 	 - 	 	 OK 
+/P12158608-04/SNYA983XFE42283	 	 - 	 	 OK 
+/P12158608-04/SNYA983XFE42288	 	 - 	 	 OK 
+/P12158608-04/SNYA983XFE42285	 	 - 	 	 OK 
+
+ 31.03.25 - 09:15:05 	 	 |	 	238042 	 	 | 	 	 hub = 'S'	 	 | 	 	 <<< BATCH EDIT ||| 
+/P12158608-04/SNYA983XEG1073	 	 - 	 	 OK 
+/P12177674-05/SN94482XJU0002	 	 - 	 	 OK 
+/P12158608-04/SNYA983XEG1074	 	 - 	 	 OK 
+/P12177674-05/SN94482XJU0001	 	 - 	 	 OK 
+
+ 07.04.25 - 09:41:09	 	 	 | 	 	 	 248074 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+PILSNER | 1395K3541502 | AX3 | A01 | /P12172843-05/SN95384YBM0104 | G | olbs | 1 | B | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+PILSNER | 1395K3541502 | AX3 | A01 | /P12172843-05/SN95384YBM0104 | G | aoi | 1 | B
+
+
+ 10.04.25 - 10:49:14	 	 	 | 	 	 	 238026 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+PILSNER | 1395K3541403 | A01 | A01 | /P12172840-05/SN95384YCV0037 | G | aoi | 1 | B | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+PILSNER | 1395K3541403 | A01 | A01 | /P12172840-05/SN95384YCV0037 | D | aoi | 2 | B
+
+
+ 11.04.25 - 08:36:16 	 	 |	 	248043 	 	 | 	 	 hub = 'B'	 	 | 	 	 <<< BATCH EDIT ||| 
+/P12107324-10/SN94482XHT0279	 	 - 	 	 OK 
+/P12107325-07/SN94482XHU0002	 	 - 	 	 OK 
+
+ 14.04.25 - 13:00:19	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EuroStar | 1395K3515101 | AX3 | A02 | /P12107325-07/SN94482XHU00504 | G | eoli | 1 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EuroStar | 1395K3515101 | AX4 | A02 | /P12107325-07/SN94482XHU00504 | D | eoli | 1 | S
+C9<->C6; T13-shift; R23-missing | (PCA# AX3)
+
+ 14.04.25 - 13:05:25	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EuroStar | 1395K3515101 | AX3 | A02 | /P12107325-07/SN94482XHU00501 | G | eoli | 1 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EuroStar | 1395K3515101 | AX4 | A02 | /P12107325-07/SN94482XHU00501 | D | eoli | 1 | S
+R21-billboard; C6-shift; D5-missing; (orig. AX3)
+
+ 14.04.25 - 13:06:00	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EuroStar | 1395K3515101 | AX4 | A02 | /P12107325-07/SN94482XHU00501 | D | eoli | 1 | S | 
+R21-billboard; C6-shift; D5-missing; (orig. AX3) | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EuroStar | 1395K3515101 | AX4 | A02 | /P12107325-07/SN94482XHU00501 | D | eoli | 1 | S
+R21-billboard; C6-shift; D5-missing | (PCA# AX3)
+
+ 14.04.25 - 13:07:01	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EuroStar | 1395K3515101 | AX3 | A02 | /P12107325-07/SN94482XHU00502 | G | eoli | 1 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EuroStar | 1395K3515101 | AX4 | A02 | /P12107325-07/SN94482XHU00502 | D | eoli | 1 | S
+C5-OCR; I3-shift; I1-bridge | (PCA# AX3)
+
+ 14.04.25 - 13:07:45	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EuroStar | 1395K3515101 | AX3 | A02 | /P12107325-07/SN94482XHU00105 | G | eoli | 1 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EuroStar | 1395K3515101 | AX4 | A02 | /P12107325-07/SN94482XHU00105 | D | eoli | 1 | S
+R3-tombstone; R1-turnover; D5-lift | (PCA# AX3)
+
+ 14.04.25 - 13:25:36	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EuroStar | 1395K3515101 | AX3 | A02 | /P12107325-07/SN94482XHU00107 | G | eoli | 1 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EuroStar | 1395K3515101 | AX4 | A02 | /P12107325-07/SN94482XHU00107 | D | eoli | 1 | S
+I1-bridge; R2-tombstone; K5-shift; R2 <-swap-> C14; | (PCA# AX3)
+
+ 14.04.25 - 13:39:22	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EuroStar | 1395K3515101 | AX3 | A02 | /P12107325-07/SN94482XHU00503 | G | eoli | 1 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EuroStar | 1395K3515101 | AX4 | A02 | /P12107325-07/SN94482XHU00503 | D | eoli | 1 | S
+R1-missing; T12-polarity; C5- missing; | (PCA# AX3)
+
+ 14.04.25 - 13:41:57	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EUROSTAR | 1395K3515001 | AX4 | A02 | /P12107324-10/SN94482YDB0019 | D | ict | 2 | S | 
+SLA PREP DUMMY ---> BLU | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EUROSTAR | 1395K3515001 | AX4 | A02 | /P12107324-10/SN94482YDB0019 | D | ict | 2 | B
+SLA PREP DUMMY ---> BLU
+
+ 14.04.25 - 13:42:19	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EUROSTAR | 1395K3515101 | AX4 | A02 | /P12107325-07/SN94482YDD0037 | D | ict | 2 | S | 
+Po PREP DUMMY ---> BLU | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EUROSTAR | 1395K3515101 | AX4 | A02 | /P12107325-07/SN94482YDD0037 | D | ict | 2 | B
+Po PREP DUMMY ---> BLU
+
+ 15.04.25 - 12:32:41	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EuroStar | 1395K3515001 | AX3 | A02 | /P12107324-10/SN94482XHT03745 | G | eoli | 4 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EuroStar | 1395K3515001 | AX4 | A02 | /P12107324-10/SN94482XHT03745 | D | eoli | 1 | S
+D8-missing; C14-tombstone; I3-polarity; | AX3►AX4
+
+ 15.04.25 - 12:35:56	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EuroStar | 1395K3515001 | AX3 | A02 | /P12107324-10/SN94482XHT03748 | G | eoli | 4 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EuroStar | 1395K3515001 | AX4 | A02 | /P12107324-10/SN94482XHT03748 | D | eoli | 1 | S
+R14<-X->C14; I1-polarity; R3-missing;  | AX3►AX4
+
+ 15.04.25 - 12:36:53	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EuroStar | 1395K3515001 | AX3 | A02 | /P12107324-10/SN94482XHT03746 | G | eoli | 4 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EuroStar | 1395K3515001 | AX4 | A02 | /P12107324-10/SN94482XHT03746 | D | eoli | 1 | S
+D5-shift; T12-bridge; K2-missing; | AX3►AX4
+
+ 15.04.25 - 12:37:48	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EuroStar | 1395K3515001 | AX3 | A02 | /P12107324-10/SN94482XHT03721 | G | eoli | 4 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EuroStar | 1395K3515001 | AX4 | A02 | /P12107324-10/SN94482XHT03721 | D | eoli | 1 | S
+R6-billboard; C2-tombstone; R11-shift; | AX3►AX4
+
+ 15.04.25 - 12:38:46	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EuroStar | 1395K3515001 | AX3 | A02 | /P12107324-10/SN94482XHT03747 | G | eoli | 4 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EuroStar | 1395K3515001 | AX4 | A02 | /P12107324-10/SN94482XHT03747 | D | eoli | 1 | S
+R22-missing; C9-billboard; T12-shift; | AX3►AX4
+
+ 15.04.25 - 12:39:44	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EuroStar | 1395K3515001 | AX3 | A02 | /P12107324-10/SN94482XHT03742 | G | eoli | 4 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EuroStar | 1395K3515001 | AX4 | A02 | /P12107324-10/SN94482XHT03742 | D | eoli | 1 | S
+I1-bridge; C14-tombstone; D5-polarity; | AX3►AX4
+
+ 22.04.25 - 10:48:01	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Bernard | 1395K3505302 | X01 | A01 | /P12143193-01/SNYA983XBT5179 | G | aoi | 4 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Bernard | 1395K3505302 | X01 | A01 | /P12143193-01/SNYA983XBT5179 | G | aoi | 9 | S
+
+
+ 22.04.25 - 10:50:08	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EuroStar | 1395K3515001 | AX3 | A02 | /P12107324-10/SN94482XHT0266 | G | aoi | 1 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EuroStar | 1395K3515001 | AX3 | A02 | /P12107324-10/SN94482XHT0266 | G | aoi | 1 | S
+U Davida - možné použít pro Dummy BLU
+
+ 22.04.25 - 10:50:25	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Bernard | 1395K3505302 | X01 | A01 | /P12143193-01/SNYA983XBT5180 | G | aoi | 4 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Bernard | 1395K3505302 | X01 | A01 | /P12143193-01/SNYA983XBT5180 | G | aoi | 9 | S
+
+
+ 22.04.25 - 10:51:45	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EuroStar | 1395K3515101 | AX3 | A02 | /P12107325-07/SN94482XHT0436 | D | aoi | 2 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EuroStar | 1395K3515101 | AX3 | A02 | /P12107325-07/SN94482XHT0436 | D | aoi | 2 | S
+U Davida - Dummy pro BLU
+
+ 23.04.25 - 10:08:53	 	 	 | 	 	 	 238026 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+PILSNER | 1395K3541403 | A01 | A01 | /P12172840-05/SN95384YBN0001 | D | aoi | 2 | B | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+PILSNER | 1395K3541403 | A01 | A01 | /P12172840-05/SN95384YBN0001 | D | aoi | 1 | B
+TOP:
+X12 - bent pin
+X12 - missing component
+I1 - solder bridge
+I200 - solder bridge
+I1 - reversed polarity
+T7 - reversed polarity
+C97 - R138 - switched part
+C18 - tombstone
+R138 - billboarding
+
+BOT:
+D4 - reversed polarity
+X12 - missing lid(damaged part)
+C99 - reversed polarity
+D180 - reversed polarity(LED)
+R42 - missing part
+D7 - shifted part
+D5 - reversed polarity
+X12 - reversed part
+C99 - damaged part
+
+
+ 23.04.25 - 11:02:29	 	 	 | 	 	 	 238026 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+PILSNER | 1395K3541403 | A01 | A01 | /P12172840-05/SN95384YCV0037 | D | aoi | 2 | B | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+PILSNER | 1395K3541403 | A01 | A01 | /P12172840-05/SN95384YCV0037 | G | aoi | 1 | B
+
+
+ 28.04.25 - 10:15:12	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EUROSTAR | 1395K3515001 | AX4 | A02 | /P12107324-10/SN94482YDB0019 | D | ict | 2 | B | 
+SLA PREP DUMMY ---> BLU | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EUROSTAR | 1395K3515001 | AX4 | A02 | /P12107324-10/SN94482YDB0019 | D | ict | 1 | B
+SLA PREP DUMMY ---> BLU
+
+ 28.04.25 - 10:18:48	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EUROSTAR | 1395K3515001 | AX4 | A02 | /P12107324-10/SN94482YDB0019 | D | ict | 1 | B | 
+SLA PREP DUMMY ---> BLU | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EUROSTAR | 1395K3515001 | AX4 | A02 | /P12107324-10/SN94482YDB0019 | D | ict | 1 | B
+1%C5 missing, 3%I1 short, 3%C15 missing, 3%R30 missing, 4%C1 missing, 6%I3 short, 7%D8 missing, 8%D5 polarity
+
+ 28.04.25 - 10:20:00	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EUROSTAR | 1395K3515101 | AX4 | A02 | /P12107325-07/SN94482YDD0037 | D | ict | 2 | B | 
+Po PREP DUMMY ---> BLU | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EUROSTAR | 1395K3515101 | AX4 | A02 | /P12107325-07/SN94482YDD0037 | D | ict | 1 | B
+
+
+ 28.04.25 - 10:20:37	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EUROSTAR | 1395K3515101 | AX4 | A02 | /P12107325-07/SN94482YDD0037 | D | ict | 1 | B | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EUROSTAR | 1395K3515101 | AX4 | A02 | /P12107325-07/SN94482YDD0037 | D | ict | 1 | B
+1%C5 missing, 3%I1 short, 3%C15 missing, 4%C1 missing, 6%I3 short, 7%D8 missing, 8%D5 polarity
+
+ 28.04.25 - 10:22:53	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EUROSTAR | 1395K3515001 | AX4 | A02 | /P12107324-10/SN94482YDB0019 | D | ict | 1 | B | 
+1%C5 missing, 3%I1 short, 3%C15 missing, 3%R30 missing, 4%C1 missing, 6%I3 short, 7%D8 missing, 8%D5 polarity | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EUROSTAR | 1395K3515001 | AX4 | A02 | /P12107324-10/SN94482YDB0019 | D | ict | 1 | B
+1%C5 missing, 3%I1 short, 3%C15 missing, 3%R30 over-limit, 4%C1 missing, 6%I3 short, 7%D8 missing, 8%D5 polarity
+
+ 29.04.25 - 11:16:34	 	 	 | 	 	 	 248074 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Jasmine | 1395K3577102 | AX2 | B01 | /P12177674-05/SN94482XJU0001 | G | olbs | 1 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Jasmine | 1395K3577102 | AX2 | B01 | /P12177674-05/SN94482XJU0001 | G | olbs | 1 | B
+
+
+ 16.05.25 - 13:06:45	 	 	 | 	 	 	 238042 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Grimm | 1395K3563801 | X01 | A01 | /P12011231-04/SNYB983WLM2007 | D | ict | 4 | S | 
+1%X2 - bended pins; 5% C17 - removed; 5% D7- damaged; 6% C7 - tombstone; 7% I4 - shifted; 7% C10 - shifted; 10% R57- billboarding; | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Grimm | 1395K3563801 | X01 | A01 | /P12011231-04/SNYB983WLM2007 | D | ict | 4 | S
+1%X2 - bended pins; 2% R51 - removed; 3% PCB short; 5% C17 - removed; 5% C18 - shifted; 5% D7- damaged; 6% C7 - tombstone; 7% I4 - shifted -> cause ICT fail on C22 & C23; 7% C10 - shifted; 8% I2 polarity + shifted; 10% R57- billboarding;
+
+ 19.05.25 - 09:24:52	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Hera | 1395K3547701 | X03 | B01 | /P12154179-09/SNYB983XEA0937 | D | ict | 4 | S | 
+#1 T612- damaged, C29- polarity, I10- miss; #3 C216- miss, R72- billboard, D606- polarity; #4 D601- damaged, I30- miss, I10- bridge | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Hera | 1395K3547701 | X03 | B01 | /P12154179-09/SNYB983XEA0937 | D | ict | 4 | B
+#1 T612- damaged, C29- polarity, I10- miss; #3 C216- miss, R72- billboard, D606- polarity; #4 D601- damaged, I30- miss, I10- bridge
+
+ 19.05.25 - 15:53:24 	 	 |	 	238018 	 	 | 	 	 status = '5'	 	 | 	 	 <<< BATCH EDIT ||| 
+/P12177674-05/SN94482XJU0001	 	 - 	 	 OK 
+
+ 21.05.25 - 13:18:38	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Curie | 1395K3575401 | AX2 | A01 | /P12162807-04/SN94482YAT0033 | D | ict | 1 | S | 
+#1 T452 - miss; #2 I201 - bridge;  #3 R402 - tombstone; #4 D101 - polarity; #6 R407 - miss, R404 - miss; #7 C102 - polarity; #8 R306 - miss; #9 I101 - polarity; #10 C601 - miss; #11 R422 - miss; #12 T450 - damaged; #14 T401 - bridge | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Curie | 1395K3575401 | AX2 | A01 | /P12162807-04/SN94482YAT0033 | D | ict | 1 | B
+#1 T452 - miss; #2 I201 - bridge;  #3 R402 - tombstone; #4 D101 - polarity; #6 R407 - miss, R404 - miss; #7 C102 - polarity; #8 R306 - miss; #9 I101 - polarity; #10 C601 - miss; #11 R422 - miss; #12 T450 - damaged; #14 T401 - bridge
+
+ 22.05.25 - 11:17:15	 	 	 | 	 	 	 248019 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+JASMINE | 1395K3577104 | X01 | B01 | /P12246024-00/SN94482YD20082 | G | olbs | 1 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+JASMINE | 1395K3577104 | X01 | B01 | /P12246024-00/SN94482YD20082 | G | olbs | 5 | S
+some patterns are fail, it serve for scanner setting
+
+ 22.05.25 - 14:01:26	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Curie | 1395K3575401 | AX2 | A01 | /P12162807-04/SN94482YAT0033 | D | ict | 1 | B | 
+#1 T452 - miss; #2 I201 - bridge;  #3 R402 - tombstone; #4 D101 - polarity; #6 R407 - miss, R404 - miss; #7 C102 - polarity; #8 R306 - miss; #9 I101 - polarity; #10 C601 - miss; #11 R422 - miss; #12 T450 - damaged; #14 T401 - bridge | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Curie | 1395K3575401 | AX2 | A01 | /P12162807-04/SN94482YAT0033 | D | ict | 1 | B
+#1 T452 - miss; #2 I201 - bridge (short);  #3 R402 - tombstone; #4 D101 - polarity; #6 R403 - miss, R405 - miss; #7 D101 - shift; #8 R306 - miss; #9 I101 - polarity, R101 - value out of tolerance; #10 C601 - miss; #11 R422 - miss (short); #12 T450 - damaged; #14 T401 - bridge (short)
+
+ 23.05.25 - 13:21:04	 	 	 | 	 	 	 248043 	 	 	 	 	 | BOM UPLOADING <<<<< 
+Uploading for : 	BERNARD - 1395K3505201 |  SUCCESSFULY UPLOADED ORIGINAL BOM FILE 
+
+ 23.05.25 - 13:21:30	 	 	 | 	 	 	 248043 	 	 	 	 	 | BOM UPLOADING <<<<< 
+Uploading for : 	BECK - 1395K3699702 |  SUCCESSFULY UPLOADED ORIGINAL BOM FILE 
+
+ 23.05.25 - 13:21:40	 	 	 | 	 	 	 248043 	 	 	 	 	 | BOM UPLOADING <<<<< 
+Uploading for : 	BECK - 1395K3699703 |  SUCCESSFULY UPLOADED ORIGINAL BOM FILE 
+
+ 23.05.25 - 13:22:14	 	 	 | 	 	 	 248043 	 	 	 	 	 | BOM UPLOADING <<<<< 
+Uploading for : 	BERNARD - 1395K3505202 |  SUCCESSFULY UPLOADED ORIGINAL BOM FILE 
+
+ 23.05.25 - 13:22:24	 	 	 | 	 	 	 248043 	 	 	 	 	 | BOM UPLOADING <<<<< 
+Uploading for : 	BERNARD - 1395K3505203 |  SUCCESSFULY UPLOADED ORIGINAL BOM FILE 
+
+ 23.05.25 - 13:23:17	 	 	 | 	 	 	 248043 	 	 	 	 	 | BOM UPLOADING <<<<< 
+Uploading for : 	BERNARD - 1395K3505301 |  SUCCESSFULY UPLOADED ORIGINAL BOM FILE 
+
+ 23.05.25 - 13:23:31	 	 	 | 	 	 	 248043 	 	 	 	 	 | BOM UPLOADING <<<<< 
+Uploading for : 	BERNARD - 1395K3505302 |  SUCCESSFULY UPLOADED ORIGINAL BOM FILE 
+
+ 23.05.25 - 13:23:43	 	 	 | 	 	 	 248043 	 	 	 	 	 | BOM UPLOADING <<<<< 
+Uploading for : 	BERNARD - 1395K3505401 |  SUCCESSFULY UPLOADED ORIGINAL BOM FILE 
+
+ 23.05.25 - 13:27:52	 	 	 | 	 	 	 248043 	 	 	 	 	 | BOM UPLOADING <<<<< 
+Uploading for : 	BECK - 1395K3699702 |  SUCCESSFULY UPLOADED ORIGINAL BOM FILE 
+
+ 23.05.25 - 13:29:14	 	 	 | 	 	 	 248043 	 	 	 	 	 | BOM UPLOADING <<<<< 
+Uploading for : 	BERNARD - 1395K3505201 |  SUCCESSFULY UPLOADED ORIGINAL BOM FILE 
+
+ 23.05.25 - 13:35:01	 	 	 | 	 	 	 248043 	 	 	 	 	 | BOM UPLOADING <<<<< 
+Uploading for : 	BECK - 1395K3699702 |  SUCCESSFULY UPLOADED ORIGINAL BOM FILE 
+
+23.05.25 - 13:36:23	 	 	 | 	 	 	 248043 	 	 	 	 	 | BOM UPLOADING <<<<< 
+Uploading for : 	BECK - 1395K3699703 | BECK_9703_23_05_2025 | 	 SUCCESSFULY UPLOADED ORIGINAL BOM FILE 
+
+23.05.25 - 13:48:43 	 | 	 248043 	 | 	 BERNARD - 1395K3505402       |  ORIGINAL BOM FILE HAS BEEN UPDATED |<<<<< 
+	 	 	               bomImport/BERNARD_5402_23_05_2025.xls.xls | 
+
+23.05.25 - 13:50:58 	 | 	 248043 	 | 	 BERNARD - 1395K3505403       |  ORIGINAL BOM FILE HAS BEEN UPDATED |<<<<<  
+ 	 	 	              bomImport/BERNARD_5403_23_05_2025.xls.xls | 
+
+23.05.25 - 13:51:48 	 | 	 248043 	 | 	 BITBURGER - 1395K3527901     |  ORIGINAL BOM FILE HAS BEEN UPDATED |<<<<<  
+ 	 	 	              bomImport/BITBURGER_7901_23_05_2025.xls.xls | 
+
+23.05.25 - 13:52:13 	 | 	 248043 	 | 	 BITBURGER - 1395K3527902     |  ORIGINAL BOM FILE HAS BEEN UPDATED |<<<<< 
+ 	 	 	              bomImport/BITBURGER_7902_23_05_2025.xls.xls | 
+
+23.05.25 - 13:52:52 	 | 	 248043 	 | 	 BITBURGER - 1395K3528002     |  ORIGINAL BOM FILE HAS BEEN UPDATED |<<<<< 
+ 	 	 	              bomImport/BITBURGER_8002_23_05_2025.xls.xls | 
+
+23.05.25 - 13:56:03 	 | 	 248043 	 | 	 CAMELIA - 1395K3718101 	  |  ORIGINAL BOM FILE HAS BEEN UPDATED <<<<< 
+ 	 	 	 	 	 	bomImport/CAMELIA_8101_23_05_2025.xls | 
+
+23.05.25 - 13:57:27 	 | 	 248043 	 | 	 CURIE - 1395K3590201 	 	  |	 ORIGINAL BOM FILE HAS BEEN UPDATED <<<<< 
+ 	 	 	 	 	 	bomImport/CURIE_0201_23_05_2025.xls | 
+
+23.05.25 - 13:57:57 	 | 	 248043 	 | 	 CURIE - 1395K3590202 	 	 | 	 ORIGINAL BOM FILE HAS BEEN UPDATED <<<<< 
+ 	 	 	 	 	 	bomImport/CURIE_0202_23_05_2025.xls | 
+
+23.05.25 - 13:58:09 	 | 	 248043 	 | 	 CURIE - 1395K3590203 	 	 | 	 ORIGINAL BOM FILE HAS BEEN UPDATED <<<<< 
+ 	 	 	 	 	 	bomImport/CURIE_0203_23_05_2025.xls | 
+
+23.05.25 - 13:58:20 	 | 	 248043 	 | 	 CURIE - 1395K3575401 	 	 | 	 ORIGINAL BOM FILE HAS BEEN UPDATED <<<<< 
+ 	 	 	 	 	 	bomImport/CURIE_5401_23_05_2025.xls | 
+
+23.05.25 - 14:01:49 	 | 	 248043 	 | 	 GRIMM - 1395K3563802 	 	 | 	 ORIGINAL BOM FILE HAS BEEN UPDATED <<<<< 
+ 	 	 	 	 	 	bomImport/GRIMM_3802_23_05_2025.xls | 
+
+23.05.25 - 14:03:07 	 | 	 248043 	 | 	 EUROSTAR - 1395K3515001 	 	 | 	 ORIGINAL BOM FILE HAS BEEN UPDATED <<<<< 
+ 	 	 	 	 	 	bomImport/EUROSTAR_5001_23_05_2025.xls | 
+
+23.05.25 - 14:03:18 	 | 	 248043 	 | 	 EUROSTAR - 1395K3515101 	 	 | 	 ORIGINAL BOM FILE HAS BEEN UPDATED <<<<< 
+ 	 	 	 	 	 	bomImport/EUROSTAR_5101_23_05_2025.xls | 
+
+23.05.25 - 14:03:27 	 | 	 248043 	 | 	 EUROSTAR - 1395K3598301 	 	 | 	 ORIGINAL BOM FILE HAS BEEN UPDATED <<<<< 
+ 	 	 	 	 	 	bomImport/EUROSTAR_8301_23_05_2025.xls | 
+
+23.05.25 - 14:03:37 	 | 	 248043 	 | 	 EUROSTAR - 1395K3598401 	 	 | 	 ORIGINAL BOM FILE HAS BEEN UPDATED <<<<< 
+ 	 	 	 	 	 	bomImport/EUROSTAR_8401_23_05_2025.xls | 
+
+26.05.25 - 08:31:40 | 248043 | 	HERA - 1395K3547701 	 | 	bomImport/HERA_7701_26052025083140.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:32:30 | 248043 | 	HERA - 1395K3547702 	 | 	bomImport/HERA_7702_26052025083231.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:33:04 | 248043 | 	HERA - 1395K3547801 	 | 	bomImport/HERA_7801_26052025083305.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:34:06 | 248043 | 	HERA - 1395K3547705 	 | 	bomImport/HERA_7705_26052025083407.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:34:30 | 248043 | 	HEROLD - 1395K3505501 	 | 	bomImport/HEROLD_5501_26052025083431.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:35:05 | 248043 | 	HEROLD - 1395K3505502 	 | 	bomImport/HEROLD_5502_26052025083506.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:35:20 | 248043 | 	HEROLD - 1395K3505601 	 | 	bomImport/HEROLD_5601_26052025083520.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:35:33 | 248043 | 	HEROLD - 1395K3505602 	 | 	bomImport/HEROLD_5602_26052025083533.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:35:48 | 248043 | 	HESTIA - 1395K3728901 	 | 	bomImport/HESTIA_8901_26052025083548.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:36:01 | 248043 | 	HESTIA - 1395K3728902 	 | 	bomImport/HESTIA_8902_26052025083601.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:36:17 | 248043 | 	HESTIA - 1395K3729101 	 | 	bomImport/HESTIA_9101_26052025083617.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:36:29 | 248043 | 	HESTIA - 1395K3729001 	 | 	bomImport/HESTIA_9001_26052025083630.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:36:54 | 248043 | 	HESTIA - 1395K3729201 	 | 	bomImport/HESTIA_9201_26052025083654.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:37:28 | 248043 | 	HESTIA - 1395K3729202 	 | 	bomImport/HESTIA_9202_26052025083728.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:37:39 | 248043 | 	HORCH - 1395K3686001 	 | 	bomImport/HORCH_6001_26052025083739.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:38:06 | 248043 | 	JASMINE - 1395K3577101 	 | 	bomImport/JASMINE_7101_26052025083807.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:38:22 | 248043 | 	JASMINE - 1395K3577102 	 | 	bomImport/JASMINE_7102_26052025083823.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:38:39 | 248043 | 	JASMINE - 1395K3577103 	 | 	bomImport/JASMINE_7103_26052025083839.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:38:51 | 248043 | 	JASMINE - 1395K3577104 	 | 	bomImport/JASMINE_7104_26052025083852.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:39:04 | 248043 | 	PILSNER - 1395K3541401 	 | 	bomImport/PILSNER_1401_26052025083904.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:39:52 | 248043 | 	PILSNER - 1395K3541402 	 | 	bomImport/PILSNER_1402_26052025083953.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:40:06 | 248043 | 	PILSNER - 1395K3541403 	 | 	bomImport/PILSNER_1403_26052025084006.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:40:30 | 248043 | 	PILSNER - 1395K3541404 	 | 	bomImport/PILSNER_1404_26052025084031.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:40:44 | 248043 | 	PILSNER - 1395K3541501 	 | 	bomImport/PILSNER_1501_26052025084044.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:40:55 | 248043 | 	PILSNER - 1395K3541502 	 | 	bomImport/PILSNER_1502_26052025084056.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:41:11 | 248043 | 	PILSNER - 1395K3547101 	 | 	bomImport/PILSNER_7101_26052025084111.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:43:11 | 248043 | 	GELATO - 1395K3658601 	 | 	bomImport/GELATO_8601_26052025084312.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:44:47 | 248043 | 	GELATO - 1395K3551002 	 | 	bomImport/GELATO_1002_26052025084447.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:54:16 | 248043 | 	BERNARD - 1395K3505201 	 | 	bomImport/BERNARD_5201_26052025085416.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:54:29 | 248043 | 	BERNARD - 1395K3505202 	 | 	bomImport/BERNARD_5202_26052025085430.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:54:44 | 248043 | 	BERNARD - 1395K3505203 	 | 	bomImport/BERNARD_5203_26052025085445.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:54:58 | 248043 | 	BERNARD - 1395K3505301 	 | 	bomImport/BERNARD_5301_26052025085458.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:55:20 | 248043 | 	BERNARD - 1395K3505302 	 | 	bomImport/BERNARD_5302_26052025085521.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:55:50 | 248043 | 	BERNARD - 1395K3505401 	 | 	bomImport/BERNARD_5401_26052025085551.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 08:59:02 | 248043 | 	BITBURGER - 1395K3528001 	 | 	bomImport/BITBURGER_8001_26052025085903.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 09:02:59 | 248043 | 	BECK - 1395K3699701 	 | 	bomImport/BECK_9701_26052025090259.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 09:10:27 | 248043 | 	GRIMM - 1395K3563801 	 | 	bomImport/GRIMM_3801_26052025091027.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 09:10:39 | 248043 | 	GRIMM - 1395K3563801 	 | 	cadImport/GRIMM3801_0525091039.cad	 | 	 NEW CAD HAS BEEN UPLOADED <<<<< 
+
+ 26.05.25 - 10:09:52	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Curie | 1395K3575401 | AX2 | A01 | /P12162807-04/SN94482YAT0033 | D | ict | 1 | B | 
+#1 T452 - miss; #2 I201 - bridge (short);  #3 R402 - tombstone; #4 D101 - polarity; #6 R403 - miss, R405 - miss; #7 D101 - shift; #8 R306 - miss; #9 I101 - polarity, R101 - value out of tolerance; #10 C601 - miss; #11 R422 - miss (short); #12 T450 - damaged; #14 T401 - bridge (short) | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Curie | 1395K3575401 | AX2 | A01 | /P12162807-04/SN94482YAT0033 | D | ict | 1 | S
+#1 T452 - miss; #2 I201 - bridge (short);  #3 R402 - tombstone; #4 D101 - polarity; #6 R403 - miss, R405 - miss; #7 D101 - shift; #8 R306 - miss; #9 I101 - polarity, R101 - value out of tolerance; #10 C601 - miss; #11 R422 - miss (short); #12 T450 - damaged; #14 T401 - bridge (short)
+
+26.05.25 - 13:01:37 | 248043 | 	PILSNER - 1395K3541401 	 | 	cadImport/PILSNER1401_0525130137.cad	 | 	 NEW CAD HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 13:05:10 | 248043 | 	PILSNER - 1395K3541401 	 | 	cadImport/PILSNER1401_0525130510.cad	 | 	 NEW CAD HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 13:22:06 | 248043 | 	BECK - 1395K3699701 	 | 	cadImport/BECK9701_26_05_25.cad	 | 	 NEW CAD HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 13:22:59 | 248043 | 	PILSNER - 1395K3541401 	 | 	cadImport/PILSNER1401_26_05_25.cad	 | 	 NEW CAD HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 13:23:16 | 248043 | 	BECK - 1395K3699701 	 | 	cadImport/BECK9701_26_05_25.cad	 | 	 NEW CAD HAS BEEN UPLOADED <<<<< 
+
+ 26.05.25 - 13:29:54	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EUROSTAR | 1395K3515001 | AX4 | A02 | /P12107324-10/SN94482YDB0019 | D | ict | 1 | B | 
+1%C5 missing, 3%I1 short, 3%C15 missing, 3%R30 over-limit, 4%C1 missing, 6%I3 short, 7%D8 missing, 8%D5 polarity | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EUROSTAR | 1395K3515001 | AX4 | A02 | /P12107324-10/SN94482YDB0019 | D | ict | 1 | B
+1%C5 missing, 3%I1 short, 3%C15 missing, 3%R30 over-limit, 4%C1 missing (not tested), 6%I3 short, 7%D8 missing, 8%D5 polarity
+
+26.05.25 - 14:04:54 | 248043 | 	PILSNER - 1395K3541401 	 | 	cadImport/PILSNER1401_26_05_25.cad	 | 	 NEW CAD HAS BEEN UPLOADED <<<<< 
+
+26.05.25 - 14:10:47 | 248043 | 	PILSNER - 1395K3541401 	 | 	cadImport/PILSNER1401_26_05_25.cad	 | 	 NEW CAD HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 13:26:55 | 248043 | 	BECK - 1395K3699701 	 | 	bomImport/BECK_9701_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 13:32:36 | 248043 | 	BECK - 1395K3699702 	 | 	bomImport/BECK_9702_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 13:33:12 | 248043 | 	BECK - 1395K3699703 	 | 	bomImport/BECK_9703_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 13:35:46 | 248043 | 	BERNARD - 1395K3505201 	 | 	bomImport/BERNARD_5201_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 13:38:11 | 248043 | 	BERNARD - 1395K3505202 	 | 	bomImport/BERNARD_5202_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 13:39:00 | 248043 | 	BERNARD - 1395K3505203 	 | 	bomImport/BERNARD_5203_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 13:43:30 | 248043 | 	BERNARD - 1395K3505301 	 | 	bomImport/BERNARD_5301_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 13:49:41 | 248043 | 	CURIE - 1395K3575401 	 | 	bomImport/CURIE_5401_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 13:58:49 | 248043 | 	BERNARD - 1395K3505402 	 | 	bomImport/BERNARD_5402_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 13:59:03 | 248043 | 	BERNARD - 1395K3505403 	 | 	bomImport/BERNARD_5403_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 14:00:09 | 248043 | 	BITBURGER - 1395K3528001 	 | 	bomImport/BITBURGER_8001_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 14:00:21 | 248043 | 	BITBURGER - 1395K3527902 	 | 	bomImport/BITBURGER_7902_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 14:00:32 | 248043 | 	BITBURGER - 1395K3528002 	 | 	bomImport/BITBURGER_8002_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 14:00:44 | 248043 | 	BITBURGER - 1395K3527901 	 | 	bomImport/BITBURGER_7901_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 14:34:28 | 248043 | 	CAMELIA - 1395K3718101 	 | 	bomImport/CAMELIA_8101_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 14:36:18 | 248043 | 	CURIE - 1395K3590201 	 | 	bomImport/CURIE_0201_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 14:36:58 | 248043 | 	CURIE - 1395K3590202 	 | 	bomImport/CURIE_0202_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 14:39:22 | 248043 | 	CURIE - 1395K3590203 	 | 	bomImport/CURIE_0203_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 14:40:14 | 248043 | 	GRIMM - 1395K3563802 	 | 	bomImport/GRIMM_3802_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 14:40:31 | 248043 | 	EUROSTAR - 1395K3515001 	 | 	bomImport/EUROSTAR_5001_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 14:40:43 | 248043 | 	EUROSTAR - 1395K3515101 	 | 	bomImport/EUROSTAR_5101_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 14:40:59 | 248043 | 	EUROSTAR - 1395K3598301 	 | 	bomImport/EUROSTAR_8301_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 14:41:09 | 248043 | 	EUROSTAR - 1395K3598401 	 | 	bomImport/EUROSTAR_8401_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 14:41:43 | 248043 | 	GELATO - 1395K3658601 	 | 	bomImport/GELATO_8601_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 14:43:31 | 248043 | 	GELATO - 1395K3551002 	 | 	bomImport/GELATO_1002_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 14:44:08 | 248043 | 	GRIMM - 1395K3563801 	 | 	bomImport/GRIMM_3801_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 14:46:03 | 248043 | 	HERA - 1395K3547701 	 | 	bomImport/HERA_7701_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 14:46:22 | 248043 | 	HERA - 1395K3547702 	 | 	bomImport/HERA_7702_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 14:46:44 | 248043 | 	HERA - 1395K3547705 	 | 	bomImport/HERA_7705_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 14:47:32 | 248043 | 	HERA - 1395K3547801 	 | 	bomImport/HERA_7801_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 14:56:21 | 248043 | 	HEROLD - 1395K3505501 	 | 	bomImport/HEROLD_5501_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 14:58:02 | 248043 | 	HEROLD - 1395K3505502 	 | 	bomImport/HEROLD_5502_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 14:58:20 | 248043 | 	HEROLD - 1395K3505601 	 | 	bomImport/HEROLD_5601_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 14:58:48 | 248043 | 	HEROLD - 1395K3505602 	 | 	bomImport/HEROLD_5602_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 14:59:44 | 248043 | 	HESTIA - 1395K3728901 	 | 	bomImport/HESTIA_8901_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 14:59:52 | 248043 | 	HESTIA - 1395K3728902 	 | 	bomImport/HESTIA_8902_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 15:00:20 | 248043 | 	HESTIA - 1395K3729001 	 | 	bomImport/HESTIA_9001_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 15:00:31 | 248043 | 	HESTIA - 1395K3729101 	 | 	bomImport/HESTIA_9101_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 15:00:42 | 248043 | 	HESTIA - 1395K3729201 	 | 	bomImport/HESTIA_9201_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 15:00:56 | 248043 | 	HESTIA - 1395K3729202 	 | 	bomImport/HESTIA_9202_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 15:01:54 | 248043 | 	HORCH - 1395K3686001 	 | 	bomImport/HORCH_6001_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 15:02:23 | 248043 | 	JASMINE - 1395K3577101 	 | 	bomImport/JASMINE_7101_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 15:02:38 | 248043 | 	JASMINE - 1395K3577102 	 | 	bomImport/JASMINE_7102_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 15:02:57 | 248043 | 	JASMINE - 1395K3577103 	 | 	bomImport/JASMINE_7103_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 15:03:19 | 248043 | 	JASMINE - 1395K3577104 	 | 	bomImport/JASMINE_7104_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 15:03:38 | 248043 | 	PILSNER - 1395K3541401 	 | 	bomImport/PILSNER_1401_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 15:03:51 | 248043 | 	PILSNER - 1395K3541402 	 | 	bomImport/PILSNER_1402_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 15:04:05 | 248043 | 	PILSNER - 1395K3541403 	 | 	bomImport/PILSNER_1403_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 15:04:21 | 248043 | 	PILSNER - 1395K3541404 	 | 	bomImport/PILSNER_1404_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 15:04:34 | 248043 | 	PILSNER - 1395K3541501 	 | 	bomImport/PILSNER_1501_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 15:28:09 | 248043 | 	PILSNER - 1395K3541502 	 | 	bomImport/PILSNER_1502_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.05.25 - 15:28:23 | 248043 | 	PILSNER - 1395K3547101 	 | 	bomImport/PILSNER_7101_27_05_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+28.05.25 - 08:13:51 | 238026 | 	HERA - 1395K3547702 	 | 	cadImport/HERA7702_28_05_25.cad	 | 	 NEW CAD HAS BEEN UPLOADED <<<<< 
+
+28.05.25 - 09:28:05 | 248043 | 	PILSNER - 1395K3541401 	 | 	cadImport/PILSNER1401_28_05_25.cad	 | 	 NEW CAD HAS BEEN UPLOADED <<<<< 
+
+ 28.05.25 - 13:57:27 | 248043 | File : ./axi/1605-111737.aoi 	 	 |<<--- FILE REMOVED ||
+28.05.25 - 14:18:55 | 248043 | 	GRIMM - 1395K3563801 	 | 	cadImport/GRIMM3801_28_05_25.cad	 | 	 NEW CAD HAS BEEN UPLOADED <<<<< 
+
+28.05.25 - 14:20:30 | 248043 | 	 	 File : ./cad/GRIMM3801_28_05_25_TOP.xlsx 	 	 |<<--- FILE REMOVED ||
+28.05.25 - 14:20:52 | 248043 | 	 	 File : ./cadImport/GRIMM3801_0525091039.cad 	 	 |<<--- FILE REMOVED ||
+28.05.25 - 14:23:51 | 248043 | 	GRIMM - 1395K3563801 	 | 	cadImport/GRIMM3801_28_05_25.cad	 | 	 NEW CAD HAS BEEN UPLOADED <<<<< 
+
+28.05.25 - 14:44:12 | 248043 | 	 	 File : ./axi/1605-111832.aoi 	 	 |<<--- FILE REMOVED ||
+28.05.25 - 14:44:53 | 248043 | 	 	 File : ./axi/2605-141915.aoi 	 	 |<<--- FILE REMOVED ||
+29.05.25 - 12:56:11 | 248043 | 	JASMINE - 1395K3577104 	 | 	cadImport/JASMINE7104_29_05_25.cad	 | 	 NEW CAD HAS BEEN UPLOADED <<<<< 
+
+ 30.05.25 - 11:35:13	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EUROSTAR | 1395K3515101 | AX4 | A02 | /P12107325-07/SN94482YDD0037 | D | ict | 1 | B | 
+1%C5 missing, 3%I1 short, 3%C15 missing, 4%C1 missing, 6%I3 short, 7%D8 missing, 8%D5 polarity | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EUROSTAR | 1395K3515101 | AX4 | A02 | /P12107325-07/SN94482YDD0037 | D | ict | 1 | B
+1%R3 jumper, 1%C5 missing-not tested(R3) , 3%I1 short, 3%C15 missing, 4%D5 polarity, 4%C1 missing, 6%I3 short, 7%D8 missing
+
+02.06.25 - 06:24:31 | 248043 | 	 	 File : ./cadImport/JASMINE7104_29_05_25.cad 	 	 |<<--- FILE REMOVED ||
+03.06.25 - 10:16:21 | 248043 has changed alias of user --->	|208070 from Tomeeq to Burianeq	 |<--- USER ALIAS CHANGED
+03.06.25 - 10:17:48 | 248043 has changed alias of user --->	|208430 from R1cheeq to Veseleeq	 |<--- USER ALIAS CHANGED
+03.06.25 - 10:18:25 | 248043 has changed alias of user --->	|238014 from Jantcha to Janeechqa	 |<--- USER ALIAS CHANGED
+03.06.25 - 10:18:47 | 248043 has changed alias of user --->	|238027 from Johneeq to JohneeqM	 |<--- USER ALIAS CHANGED
+03.06.25 - 10:19:19 | 248043 has changed alias of user --->	|238042 from Kubeeq to Kureeq	 |<--- USER ALIAS CHANGED
+03.06.25 - 10:19:32 | 248043 has changed alias of user --->	|238042 from Kureeq to Cureeq	 |<--- USER ALIAS CHANGED
+03.06.25 - 10:20:04 | 248043 has changed alias of user --->	|248019 from Pavleeq to Tasteeq	 |<--- USER ALIAS CHANGED
+03.06.25 - 10:20:41 | 248043 has changed alias of user --->	|248037 from Mateeq to Mateeseq	 |<--- USER ALIAS CHANGED
+03.06.25 - 10:21:16 | 248043 has changed alias of user --->	|248063 from Lukeeq to Vavreeq	 |<--- USER ALIAS CHANGED
+03.06.25 - 10:22:21 | 248043 has changed alias of user --->	|248098 from Koleeq to Kolacheeq	 |<--- USER ALIAS CHANGED
+03.06.25 - 10:22:56 | 248043 has changed alias of user --->	|248117 from Kryshtof to Kryshtofeeq	 |<--- USER ALIAS CHANGED
+03.06.25 - 10:24:25 | 248043 has changed alias of user --->	|238027 from JohneeqM to Matusheeq	 |<--- USER ALIAS CHANGED
+ 03.06.25 - 14:18:25	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+BECK | 1395K3699702 | X01 | A01 | /P12202024-03/SN95384YBA00074 | G | eoli | 1 | B | 
+1) | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+BECK | 1395K3699702 | X01 | A01 | /P12202024-03/SN95384YBA00074 | G | eoli | 1 | B
+
+
+ 03.06.25 - 14:29:43	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+BECK | 1395K3699703 | X01 | A01 | /P12202025-03/SN95384YBA00221 | D | eoli | 2 | S | 
+1) | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+BECK | 1395K3699703 | X01 | A01 | /P12202025-03/SN95384YBA00221 | D | eoli | 2 | B
+1)
+
+03.06.25 - 14:30:14 | 248043	| BECK | 1395K3699703 | X01 | A01 | 03 | /P12202025-03/SN95384YBA00224 | D | 3) | 2025-02-12 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+03.06.25 - 14:30:46 | 248043	| BECK | 1395K3699703 | X01 | A01 | 03 | /P12202025-03/SN95384YBA00222 | D | 4) | 2025-02-12 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+03.06.25 - 14:31:19 | 248043	| BECK | 1395K3699703 | X01 | A01 | 03 | /P12202025-03/SN95384YBA00226 | D | 5) | 2025-02-12 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+03.06.25 - 14:32:01 | 248043	| BECK | 1395K3699703 | X01 | A01 | 03 | /P12202025-03/SN95384YBA00223 | D |  | 2025-02-12 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+03.06.25 - 14:32:23 | 248043	| BECK | 1395K3699702 | X01 | A01 | 03 | /P12202024-03/SN95384YBA00143 | G |  | 2025-02-12 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+03.06.25 - 14:33:30 | 248043	| BECK | 1395K3699702 | X01 | A01 | 03 | /P12202024-03/SN95384YBA00122 | G |  | 2025-02-12 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+03.06.25 - 14:34:04 | 248043	| BECK | 1395K3699703 | X01 | A01 | 03 | /P12202025-03/SN95384YBA00227 | G |  | 2025-02-12 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+03.06.25 - 14:34:31 | 248043	| BECK | 1395K3699702 | X01 | A01 | 03 | /P12202024-03/SN95384YBA00024 | G |  | 2025-02-12 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+ 03.06.25 - 14:47:05	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+BERNARD | 1395K3505202 | AX1 | A01 | /P12025965-08/SN95384YD60018 | D | aoi | 2 | B | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+BERNARD | 1395K3505202 | AX1 | A01 | /P12025965-08/SN95384YD60018 | D | aoi | 2 | B
+I30-bridge; C30-missing
+
+ 03.06.25 - 14:50:42	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+BERNARD | 1395K3505403 | AX2 | A01 | /P12143197-01/SN95384YEI0087 | G | aoi | 1 | B | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+BERNARD | 1395K3505403 | AX2 | A01 | /P12143197-01/SN95384YEI0087 | D | aoi | 2 | B
+
+
+ 04.06.25 - 08:35:05 	 	 |	 	248043 	 	 | 	 	 hub = 'B'	 	 | 	 	 <<< BATCH EDIT ||| 
+/P12107324-10/SN94482XHT03721	 	 - 	 	 OK 
+/P12107324-10/SN94482XHT03746	 	 - 	 	 OK 
+/P12107324-10/SN94482XHT03745	 	 - 	 	 OK 
+/P12107324-10/SN94482XHT03748	 	 - 	 	 OK 
+/P12107324-10/SN94482YCM00108	 	 - 	 	 OK 
+/P12107324-10/SN94482YCM00107	 	 - 	 	 OK 
+/P12107324-10/SN94482YCM00113	 	 - 	 	 OK 
+/P12107324-10/SN94482YCM00114	 	 - 	 	 OK 
+/P12107324-10/SN94482YCM00112	 	 - 	 	 OK 
+/P12107324-10/SN94482YCM00111	 	 - 	 	 OK 
+/P12107324-10/SN94482YCM00106	 	 - 	 	 OK 
+/P12107324-10/SN94482YCM00105	 	 - 	 	 OK 
+
+ 04.06.25 - 08:36:08 	 	 |	 	248043 	 	 | 	 	 hub = 'B'	 	 | 	 	 <<< BATCH EDIT ||| 
+/P12107325-07/SN94482XHU00105	 	 - 	 	 OK 
+/P12107325-07/SN94482XHU00502	 	 - 	 	 OK 
+/P12107325-07/SN94482XHU00501	 	 - 	 	 OK 
+/P12107325-07/SN94482XHU00504	 	 - 	 	 OK 
+/P12107325-07/SN94482XHU00503	 	 - 	 	 OK 
+/P12107325-07/SN94482YCL02124	 	 - 	 	 OK 
+/P12107325-07/SN94482YCL02112	 	 - 	 	 OK 
+/P12107325-07/SN94482YCL02118	 	 - 	 	 OK 
+/P12107325-07/SN94482YCL02116	 	 - 	 	 OK 
+/P12107325-07/SN94482YCL02115	 	 - 	 	 OK 
+/P12107325-07/SN94482YCL02117	 	 - 	 	 OK 
+/P12107325-07/SN94482YCL02111	 	 - 	 	 OK 
+
+04.06.25 - 11:20:35 | 248043 has created new user account --->	|238040			 |<--- NEW USER ACCOUNT CREATED
+04.06.25 - 12:49:34 | 248043 has created new user account --->	|228050			 |<--- NEW USER ACCOUNT CREATED
+04.06.25 - 12:56:18 | 248043 has changed alias of user --->	|228050 from Triveeq to Triveteeq	 |<--- USER ALIAS CHANGED
+04.06.25 - 13:36:35 | 248043 | 	BERNARD - 1395K3505302 	 | 	bomImport/BERNARD_5302_04_06_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+04.06.25 - 13:37:25 | 248043 | 	BERNARD - 1395K3505401 	 | 	bomImport/BERNARD_5401_04_06_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+04.06.25 - 13:49:42 | 248043 has changed alias of user --->	|248074 from Mileeq to Milaneq	 |<--- USER ALIAS CHANGED
+04.06.25 - 13:49:54 | 248043 has changed alias of user --->	|248089 from Peteeq to Petreeq	 |<--- USER ALIAS CHANGED
+04.06.25 - 13:50:34 | 248043 has changed alias of user --->	|238042 from Cureeq to Jacobeeq	 |<--- USER ALIAS CHANGED
+04.06.25 - 13:50:48 | 248043 has changed alias of user --->	|248097 from Jacobeeq to Jakubeeq	 |<--- USER ALIAS CHANGED
+ 04.06.25 - 14:29:51	 	 	 | 	 	 	 238042 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+PILSNER | 1395K3541501 | A01 | A01 | /P12172842-05/SN95384YBI0002 | D | ict | 2 | B | 
+PREP | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+PILSNER | 1395K3541501 | A01 | A01 | /P12172842-05/SN95384YBI0002 | D | ict | 2 | B
+1# R42 - Miss, C99 - Polarity switch; 2# I200 - Solder bridge; 3# C120 - Miss, D180 - Polarity Switch; 4# T7 - Polarity switch, T10 - Solder bridge; #5 D5 - Polarity switch, D1 - Miss; 6# I1 - Solder bridge; 7# D8 - miss; 8# L3 - miss, R150 - miss; 9# T7 - Polarity switch, R74 - miss
+
+ 05.06.25 - 06:38:05	 	 	 | 	 	 	 238042 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+PILSNER | 1395K3541502 | A01 | A01 | /P12172843-05/SN95384YBM0002 | D | ict | 2 | B | 
+prep | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+PILSNER | 1395K3541502 | A01 | A01 | /P12172843-05/SN95384YBM0002 | D | ict | 2 | B
+1# R42 - Miss; 2# I200 - Solder bridge; 3# C120 - Miss, D180 - Polarity switch; 4# T7 - Polarity switch, T10 - Solder bridge; 5# D5 - Polarity switch, D1 - Miss; 6# I1 - Solder bridge; 7# D8 - Miss; 8# L3 - Miss, R150 - Miss; 9# T7 - Polarity switch, R74 - Miss
+
+ 05.06.25 - 06:38:34	 	 	 | 	 	 	 238042 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+PILSNER | 1395K3541501 | A01 | A01 | /P12172842-05/SN95384YBI0002 | D | ict | 2 | B | 
+1# R42 - Miss, C99 - Polarity switch; 2# I200 - Solder bridge; 3# C120 - Miss, D180 - Polarity Switch; 4# T7 - Polarity switch, T10 - Solder bridge; #5 D5 - Polarity switch, D1 - Miss; 6# I1 - Solder bridge; 7# D8 - miss; 8# L3 - miss, R150 - miss; 9# T7 - Polarity switch, R74 - miss | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+PILSNER | 1395K3541501 | A01 | A01 | /P12172842-05/SN95384YBI0002 | D | ict | 2 | B
+1# R42 - Miss, C99 - Polarity switch; 2# I200 - Solder bridge; 3# C120 - Miss; 4# T7 - Polarity switch, T10 - Solder bridge; #5 D5 - Polarity switch, D1 - Miss; 6# I1 - Solder bridge; 7# D8 - miss; 8# L3 - miss, R150 - miss; 9# T7 - Polarity switch, R74 - miss
+
+10.06.25 - 06:54:44 | 248043 has changed password of user --->	|250014			 |<--- USER PASSWORD CHANGED
+10.06.25 - 12:31:00 | 238026 | 	EUROSTAR - 1395K3598301 	 | 	cadImport/EUROSTAR8301_10_06_25.cad	 | 	 NEW CAD HAS BEEN UPLOADED <<<<< 
+
+10.06.25 - 12:32:40 | 238026 | 	EUROSTAR - 1395K3598401 	 | 	cadImport/EUROSTAR8401_10_06_25.cad	 | 	 NEW CAD HAS BEEN UPLOADED <<<<< 
+
+12.06.25 - 12:59:12 | 248043 has changed status of user --->	|238042 from ict to 9	 |<--- USER ADMIN LEVEL CHANGED
+ 13.06.25 - 10:48:31	 	 	 | 	 	 	 238042 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Curie | 1395K3575401 | AX2 | A01 | /P12162807-04/SN94482YAT0035 | G | aoi | 1 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Curie | 1395K3575401 | AX2 | A01 | /P12162807-04/SN94482YAT0035 | D | aoi | 1 | S
+
+
+ 13.06.25 - 10:50:43	 	 	 | 	 	 	 238042 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Curie | 1395K3575401 | AX2 | A01 | /P12162807-04/SN94482YAT0035 | D | aoi | 1 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Curie | 1395K3575401 | AX2 | A01 | /P12162807-04/SN94482YAT0035 | D | aoi | 1 | S
+#2 snapdisk S308; 11# snapdisk S307
+
+ 13.06.25 - 13:06:51	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+GELATO | 1395K3658601 | X02 | A01 | DA54GX0014 | G | aoi | 1 | B | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+GELATO | 1395K3658601 | X02 | A01 | DA54GX0014 | G | olbs | 1 | B
+
+
+15.06.25 - 10:24:57	 	 	|	 	 	248098	 	 	|	 	 	<<< TECHNICIAN DAMAGE NOTICE |||
+EuroStar, 1395K3598301, X01, A01, /P12122948-02/SN94482XH80037, D, 1, S
+
+15.06.25 - 10:25:08	 	 	|	 	 	248098	 	 	|	 	 	<<< TECHNICIAN DAMAGE NOTICE |||
+EuroStar, 1395K3598301, X01, A01, /P12122948-02/SN94482XH80037, D, 5, S
+
+ 16.06.25 - 09:56:44	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EuroStar | 1395K3598301 | X01 | A01 | /P12122948-02/SN94482XH80037 | D | aoi | 5 | S | 
+R14-tombstone; R14-missing; I3-bridge; D5-shift; D5-polarity; I1-bridge; C14-billboard; C6-missing | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EuroStar | 1395K3598301 | X01 | A01 | /P12122948-02/SN94482XH80037 | D | aoi | 1 | B
+R14-tombstone; R14-missing; I3-bridge; D5-shift; D5-polarity; I1-bridge; C14-billboard; C6-missing
+
+ 16.06.25 - 16:54:58	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EuroStar | 1395K3598301 | X01 | A01 | /P12122948-02/SN94482XH80037 | D | aoi | 1 | B | 
+R14-tombstone; R14-missing; I3-bridge; D5-shift; D5-polarity; I1-bridge; C14-billboard; C6-missing | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EuroStar | 1395K3598301 | X01 | A01 | /P12122948-02/SN94482XH80037 | D | aoi | 1 | B
+1%R14-tombstone; 8%R14-missing; 2%I3-bridge; 8%D5-shift; 8%D5-polarity; 5%I1-bridge; 6%C14-billboard; 8%C6-missing
+
+ 16.06.25 - 17:09:35	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EuroStar | 1395K3598401 | X01 | A01 | /P12122950-02/SN94482XH80135 | D | aoi | 1 | S | 
+I1-bridge; D5-polarity; I1-polarity; C16-wrong; R32-wrong; K5-shift; K2-shift; R20-missing; C6-tombstone | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EuroStar | 1395K3598401 | X01 | A01 | /P12122950-02/SN94482XH80135 | D | aoi | 1 | S
+3%I1-bridge; 1%D5-polarity; 2%I1-polarity; 5%C16-wrong; 5%R32-wrong (switched with C16); 7%K5-shift; 8%K2-shift; 4%R20-missing; 4%C6-tombstone
+
+17.06.25 - 13:50:06 | 238026 | 	EUROSTAR - 1395K3598301 	 | 	cadImport/EUROSTAR8301_17_06_25.cad	 | 	 NEW CAD HAS BEEN UPLOADED <<<<< 
+
+17.06.25 - 13:51:59 | 238026 | 	EUROSTAR - 1395K3598401 	 | 	cadImport/EUROSTAR8401_17_06_25.cad	 | 	 NEW CAD HAS BEEN UPLOADED <<<<< 
+
+24.06.25 - 14:32:06 | 248074	| GRIMM | 1395K3563803 | A01 | B01 | 04 | /P12011231-04/SN94482YDF0004 | G | 12 pcbs per panell | 2025-04-15 | 1 | S | olbs	 |<--- NEW SAMPLE +++
+ 26.06.25 - 07:21:32	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EuroStar | 1395K3515001 | AX3 | A02 | /P12107324-10/SN94482XHT0266 | G | aoi | 1 | S | 
+U Davida - možné použít pro Dummy BLU | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EuroStar | 1395K3515001 | AX3 | A02 | /P12107324-10/SN94482XHT0266 | D | aoi | 1 | S
+I1- bridge; D5-polarity; T3- miss; C9-C6 swap; R21- shift; R4- shift; R14- overturn; R1- OCR
+
+ 26.06.25 - 07:22:04	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EuroStar | 1395K3515001 | AX3 | A02 | /P12107324-10/SN94482XHT0266 | D | aoi | 1 | S | 
+I1- bridge; D5-polarity; T3- miss; C9-C6 swap; R21- shift; R4- shift; R14- overturn; R1- OCR | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EuroStar | 1395K3515001 | AX4 | A02 | /P12107324-10/SN94482XHT0266 | D | aoi | 1 | S
+I1- bridge; D5-polarity; T3- miss; C9-C6 swap; R21- shift; R4- shift; R14- overturn; R1- OCR | AX3 --> AX4
+
+ 26.06.25 - 07:24:26	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EuroStar | 1395K3515101 | AX3 | A02 | /P12107325-07/SN94482XHT0436 | D | aoi | 2 | S | 
+U Davida - Dummy pro BLU | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EuroStar | 1395K3515101 | AX4 | A02 | /P12107325-07/SN94482XHT0436 | D | aoi | 1 | S
+AX3 ---> AX4  |  K4- damage; K5- miss; I1- bridge; D5- polarity; I3- shift; C2<-->C14- swap; R23- OCR; I3- bridge
+
+ 26.06.25 - 07:26:36	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+PILSNER | 1395K3541502 | AX3 | A01 | /P12172843-05/SN95384YBM0001 | D | aoi | 2 | B | 
+prep | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+PILSNER | 1395K3541502 | AX3 | A01 | /P12172843-05/SN95384YBM0001 | D | aoi | 1 | B
+TOP|> R24- overturn; L2<-->C131- swap; D14- polarity; D180- miss; X12- bridge
+BOT|> I1- bridge; T1- poalrity; R23- OCR; C120- damage; T10- miss; 
+
+ 26.06.25 - 07:28:31	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+BECK | 1395K3699703 | X01 | A01 | /P12202025-03/SN95384YBA0003 | D | aoi | 2 | B | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+BECK | 1395K3699703 | X01 | A01 | /P12202025-03/SN95384YBA0003 | D | aoi | 1 | B
+I2- bridge; R11- miss; T1- OCR; D7- polarity; R28- shift; C6- miss; C1<->C12- swap; R5- overturn
+
+26.06.25 - 14:23:40 | 248043 | 	BECK - 1395K3699701 	 | 	bomImport/BECK_9701_26_06_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.06.25 - 14:24:11 | 248043 | 	BECK - 1395K3699702 	 | 	bomImport/BECK_9702_26_06_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+26.06.25 - 14:24:26 | 248043 | 	BECK - 1395K3699703 	 | 	bomImport/BECK_9703_26_06_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.06.25 - 06:35:05 | 248043 | 	GRIMM - 1395K3563803 	 | 	bomImport/GRIMM_3803_27_06_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+28.06.25 - 11:37:27 | 248043 has changed alias of user --->	|248081 from Risheeq to Scholzeeq	 |<--- USER ALIAS CHANGED
+30.06.25 - 10:46:17 | 248043 has created new user account --->	|248036			 |<--- NEW USER ACCOUNT CREATED
+30.06.25 - 10:46:38 | 248043 has changed password of user --->	|248036			 |<--- USER PASSWORD CHANGED
+30.06.25 - 10:49:34 | 248043 has changed status of user --->	|248036 from tech to qua	 |<--- USER ADMIN LEVEL CHANGED
+30.06.25 - 14:34:52 | 248043	| PILSNER | 1395K3547101 | A01 | A01 | XX | PILSNER7101_50 | D | C1- missing | 2025-06-30 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+30.06.25 - 14:35:32 | 248043	| PILSNER | 1395K3547101 | A01 | A01 | XX | PILSNER7101_48 | D | 53) R1- shift | 2025-06-30 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+30.06.25 - 14:36:11 | 248043	| PILSNER | 1395K3547101 | A01 | A01 | XX | PILSNER7101_47 | D | 32) X1- bridge | 2025-06-30 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+30.06.25 - 14:36:47 | 248043	| PILSNER | 1395K3547101 | A01 | A01 | XX | PILSNER7101_51 | D | 193) X1- dmg | 2025-06-30 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+30.06.25 - 14:37:32 | 248043	| PILSNER | 1395K3547101 | A01 | A01 | XX | PILSNER7101_46 | D | 52) R1- overturn | 2025-06-30 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+30.06.25 - 14:38:41 | 248043	| PILSNER | 1395K3547101 | A01 | A01 | XX | PILSNER7101_53 | D | 33) D1- polarity | 2025-06-30 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+02.07.25 - 09:09:10 | 238042	| CURIE | 1395K3575401 | AX4 | B01 | 06 | /P12162807-06/SN94482YFU0123 | G |  | 2025-07-01 | 1 | S | aoi	 |<--- NEW SAMPLE +++
+ 02.07.25 - 11:05:20	 	 	 | 	 	 	 238042 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Curie | 1395K3575401 | AX2 | A01 | /P12162807-04/SN94482YAT0035 | D | aoi | 1 | S | 
+#2 snapdisk S308; 11# snapdisk S307 | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Curie | 1395K3575401 | AX2 | A01 | /P12162807-04/SN94482YAT0035 | D | aoi | 9 | S
+#2 snapdisk S308; 11# snapdisk S307
+
+03.07.25 - 07:53:11 | 248043	| GRIMM | 1395K3563803 | X01 | B01 | 04 | /P12011231-04/SN94482YG20002 | G |  | 2025-07-02 | 1 | S | olbs	 |<--- NEW SAMPLE +++
+03.07.25 - 07:53:41 | 248043	| GRIMM | 1395K3563803 | X01 | B01 | 04 | /P12011231-04/SN94482YG20008 | G |  | 2025-07-02 | 1 | S | aoi	 |<--- NEW SAMPLE +++
+03.07.25 - 07:56:15 | 248043	| GRIMM | 1395K3563803 | X01 | B01 | 04 | /P12011231-04/SN94482YG20009C | G | 1) | 2025-07-02 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 07:56:30 | 248043	| GRIMM | 1395K3563803 | X01 | B01 | 04 | /P12011231-04/SN94482YG200091 | G | 2) | 2025-07-02 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 07:56:45 | 248043	| GRIMM | 1395K3563803 | X01 | B01 | 04 | /P12011231-04/SN94482YG200095 | G | 3) | 2025-07-02 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 07:57:01 | 248043	| GRIMM | 1395K3563803 | X01 | B01 | 04 | /P12011231-04/SN94482YG200099 | G | 4) | 2025-07-02 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 07:57:13 | 248043	| GRIMM | 1395K3563803 | X01 | B01 | 04 | /P12011231-04/SN94482YG200096 | G | 5) | 2025-07-02 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 07:57:57 | 248043	| GRIMM | 1395K3563803 | X01 | B01 | 04 | /P12011231-04/SN94482YG20009B | G | 6) | 2025-07-02 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 07:58:14 | 248043	| GRIMM | 1395K3563803 | X01 | B01 | 04 | /P12011231-04/SN94482YG200097 | G | 7) | 2025-07-02 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 07:58:30 | 248043	| GRIMM | 1395K3563803 | X01 | B01 | 04 | /P12011231-04/SN94482YG200094 | G | 8) | 2025-07-02 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 07:58:43 | 248043	| GRIMM | 1395K3563803 | X01 | B01 | 04 | /P12011231-04/SN94482YG200092 | G | 9) | 2025-07-02 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 07:58:56 | 248043	| GRIMM | 1395K3563803 | X01 | B01 | 04 | /P12011231-04/SN94482YG200098 | G | 10) | 2025-07-02 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 07:59:11 | 248043	| GRIMM | 1395K3563803 | X01 | B01 | 04 | /P12011231-04/SN94482YG20009A | G | 11) | 2025-07-02 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 07:59:23 | 248043	| GRIMM | 1395K3563803 | X01 | B01 | 04 | /P12011231-04/SN94482YG200093 | G | 12) | 2025-07-02 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 08:00:50 | 248043	| GRIMM | 1395K3563803 | X01 | B01 | 04 | /P12011231-04/SN94482YG10001 | D |  | 2025-07-02 | 2 | S | aoi	 |<--- NEW SAMPLE +++
+03.07.25 - 08:03:33 | 248043	| GRIMM | 1395K3563803 | X01 | B01 | 04 | /P12011231-04/SN94482YG20001 | D |  | 2025-07-02 | 2 | S | ict	 |<--- NEW SAMPLE +++
+03.07.25 - 08:12:49 | 248043	| CURIE | 1395K3575401 | AX4 | B01 | 06 | /P12162807-06/SN94482YFU00614 | G | 1) Temp. profile | 2025-07-02 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 08:13:07 | 248043	| CURIE | 1395K3575401 | AX4 | B01 | 06 | /P12162807-06/SN94482YFU0061B | G | 2) Temp. profile | 2025-07-02 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 08:13:41 | 248043	| CURIE | 1395K3575401 | AX4 | B01 | 06 | /P12162807-06/SN94482YFU00613 | G | 3) Temp. profile | 2025-07-02 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 08:14:16 | 248043	| CURIE | 1395K3575401 | AX4 | B01 | 06 | /P12162807-06/SN94482YFU0061A | G | 4) Temp. profile | 2025-07-02 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 08:14:40 | 248043	| CURIE | 1395K3575401 | AX4 | B01 | 06 | /P12162807-06/SN94482YFU00612 | G | 5) Temp. profile | 2025-07-02 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 08:14:58 | 248043	| CURIE | 1395K3575401 | AX4 | B01 | 06 | /P12162807-06/SN94482YFU0061C | G | 6) Temp. profile | 2025-07-02 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 08:15:17 | 248043	| CURIE | 1395K3575401 | AX4 | B01 | 06 | /P12162807-06/SN94482YFU00611 | G | 7) Temp. profile | 2025-07-02 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 08:15:36 | 248043	| CURIE | 1395K3575401 | AX4 | B01 | 06 | /P12162807-06/SN94482YFU00619 | G | 8) Temp. profile | 2025-07-02 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 08:15:51 | 248043	| CURIE | 1395K3575401 | AX4 | B01 | 06 | /P12162807-06/SN94482YFU00617 | G | 9) Temp. profile | 2025-07-02 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 08:16:08 | 248043	| CURIE | 1395K3575401 | AX4 | B01 | 06 | /P12162807-06/SN94482YFU00618 | G | 10) Temp. profile | 2025-07-02 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 08:16:35 | 248043	| CURIE | 1395K3575401 | AX4 | B01 | 06 | /P12162807-06/SN94482YFU00616 | G | 11) Temp. profile | 2025-07-02 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 08:16:51 | 248043	| CURIE | 1395K3575401 | AX4 | B01 | 06 | /P12162807-06/SN94482YFU0061E | G | 12) Temp. profile | 2025-07-02 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 08:17:05 | 248043	| CURIE | 1395K3575401 | AX4 | B01 | 06 | /P12162807-06/SN94482YFU00615 | G | 13) Temp. profile | 2025-07-02 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 08:17:18 | 248043	| CURIE | 1395K3575401 | AX4 | B01 | 06 | /P12162807-06/SN94482YFU0061D | G | 14) Temp. profile | 2025-07-02 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 08:23:29 | 248043	| CURIE | 1395K3575401 | AX4 | B01 | 06 | /P12162807-06/SN94482YFU0096 | D | PREP PRO BLU | 2025-07-02 | 2 | S | aoi	 |<--- NEW SAMPLE +++
+03.07.25 - 08:24:07 | 248043	| CURIE | 1395K3575401 | AX4 | B01 | 06 | /P12162807-06/SN94482YFU0127 | D | PREP PRO BLU | 2025-07-02 | 2 | S | ict	 |<--- NEW SAMPLE +++
+03.07.25 - 08:32:59 | 248043	| CURIE | 1395K3575401 | AX4 | B01 | 06 | /P12162807-06/SN94482YFU0125 | G | PRO BLU | 2025-07-02 | 1 | S | aoi	 |<--- NEW SAMPLE +++
+03.07.25 - 13:07:24 | 238026	| GELATO | 1395K3551002 | AX2 | A01 | XX | INNIP00096 | G |  | 2025-06-10 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+03.07.25 - 13:27:51 | 238026	| CAMELIA | 1395K3718101 | X01 | A01 | 00 | /P12215035-00/SN95384YEC0058 | G |  | 2025-05-13 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+03.07.25 - 13:33:15 | 238026	| CAMELIA | 1395K3718101 | X01 | A01 | 00 | /P12215035-00/SN95384YEC0042 | G |  | 2025-05-13 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+03.07.25 - 13:37:20 | 238026	| CAMELIA | 1395K3718101 | X01 | A01 | 00 | /P12215035-00/SN95384YEC0037 | G |  | 2025-05-13 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+03.07.25 - 13:40:10 | 238026	| CAMELIA | 1395K3718101 | X01 | A01 | 00 | /P12215035-00/SN95384YEC0043 | D |  | 2025-05-13 | 2 | B | aoi	 |<--- NEW SAMPLE +++
+03.07.25 - 13:43:23 | 238026	| CAMELIA | 1395K3718101 | X01 | A01 | 00 | /P12215035-00/SN95384YEC0045 | D |  | 2025-05-13 | 2 | B | aoi	 |<--- NEW SAMPLE +++
+03.07.25 - 13:46:18 | 238026	| CAMELIA | 1395K3718101 | X01 | A01 | 00 | /P12215035-00/SN95384YEC0024C | G |  | 2025-05-14 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 13:50:41 | 238026	| CAMELIA | 1395K3718101 | X01 | A01 | 00 | /P12215035-00/SN95384YEC00609 | G |  | 2025-05-14 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 13:51:09 | 238026	| CAMELIA | 1395K3718101 | X01 | A01 | 00 | /P12215035-00/SN95384YEC00594 | D |  | 2025-05-14 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 13:51:32 | 238026	| CAMELIA | 1395K3718101 | X01 | A01 | 00 | /P12215035-00/SN95384YEC00592 | D |  | 2025-05-14 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 13:51:56 | 238026	| CAMELIA | 1395K3718101 | X01 | A01 | 00 | /P12215035-00/SN95384YEC0059B | D |  | 2025-05-14 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 13:52:42 | 238026	| CAMELIA | 1395K3718101 | X01 | A01 | 00 | /P12215035-00/SN95384YEC0056A | D |  | 2025-05-14 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 13:53:22 | 238026	| CAMELIA | 1395K3718101 | X01 | A01 | 00 | /P12215035-00/SN95384YEC00038 | D |  | 2025-05-14 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 13:53:55 | 238026	| CAMELIA | 1395K3718101 | X01 | A01 | 00 | /P12215035-00/SN95384YEC00029 | D |  | 2025-05-14 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 13:54:18 | 248043	| CURIE | 1395K3575401 | AX4 | B01 | 06 | /P12162807-06/SN94482YFU0121 | G |  | 2025-07-02 | 1 | S | aoi	 |<--- NEW SAMPLE +++
+03.07.25 - 13:54:35 | 238026	| CAMELIA | 1395K3718101 | X01 | A01 | 00 | /P12215035-00/SN95384YEC00238 | D |  | 2025-05-14 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 13:55:15 | 238026	| CAMELIA | 1395K3718101 | X01 | A01 | 00 | /P12215035-00/SN95384YEC00233 | D |  | 2025-05-14 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+03.07.25 - 14:41:51 | 238026	| EUROSTAR | 1395K3598301 | AX3 | A01 | 04 | /P12122948-04/SN95384YFC0009 | D |  | 2025-06-12 | 2 | B | ict	 |<--- NEW SAMPLE +++
+03.07.25 - 14:44:32 | 238026	| HESTIA | 1395K3729202 | X01 | A01 | 01 | /P12200808-01/SN95384YEL00071 | G |  | 2025-05-21 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+ 04.07.25 - 08:23:14	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG10001 | D | aoi | 2 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG10001 | D | aoi | 2 | S
+I1- bridge; T3- bridge; R40- OCR; T6- polarity; R4- shift; R13- missing; C17- missing; D7- missing; C8- missing; R1- missing; C32- tombstone; R40- billboard; X3- shift; D<->T5- swap;
+
+ 04.07.25 - 08:23:46	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG10001 | D | aoi | 2 | S | 
+I1- bridge; T3- bridge; R40- OCR; T6- polarity; R4- shift; R13- missing; C17- missing; D7- missing; C8- missing; R1- missing; C32- tombstone; R40- billboard; X3- shift; D<->T5- swap; | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG10001 | D | aoi | 1 | S
+I1- bridge; T3- bridge; R40- OCR; T6- polarity; R4- shift; R13- missing; C17- missing; D7- missing; C8- missing; R1- missing; C32- tombstone; R40- billboard; X3- shift; D<->T5- swap;
+
+ 04.07.25 - 08:24:31	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG200093 | G | eoli | 1 | S | 
+12) | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG200093 | D | eoli | 1 | S
+12) X3- bridge; C32- tombstone; D3- OCR
+
+ 04.07.25 - 08:37:14	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG20009A | G | eoli | 1 | S | 
+11) | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG20009A | D | eoli | 1 | S
+11) T3- shift; R38- missing; I1- bridge
+
+ 04.07.25 - 08:37:43	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG200092 | G | eoli | 1 | S | 
+9) | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG200092 | D | eoli | 1 | S
+9) C32- tombstone; I1- bridge; D7- missing
+
+ 04.07.25 - 08:38:22	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG200094 | G | eoli | 1 | S | 
+8) | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG200094 | D | eoli | 1 | S
+8) I1- bridge; I2- OCR; D5<->T5- swap
+
+04.07.25 - 10:50:20 | 248043	| DAISY | 1395K3551001 | A01 | A01 | XX | INNIP00AIA | D | Nebyla v evidenci ale ma neevidovane defekty ???? | 2024-11-15 | 2 | S | aoi	 |<--- NEW SAMPLE +++
+ 04.07.25 - 10:53:17	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+DAISY | 1395K3551001 | A01 | A01 | INNIP00AIA | D | aoi | 2 | S | 
+Nebyla v evidenci ale ma neevidovane defekty ???? | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+DAISY | 1395K3551001 | A01 | A01 | INNIP00AIA | D | aoi | 1 | S
+?? Nebyla v evidenci defekty y labelu ?? U21-polarity; U7-bridge; CN6-bridge; EM1-miss; CN3- miss; D11- polarity; C390- miss;
+
+04.07.25 - 10:56:01 | 248043	| DAISY | 1395K3551001 | AX1 | A01 | XX | INNIP002HA | G | Možná na dummy ??? | 2024-10-18 | 2 | S | aoi	 |<--- NEW SAMPLE +++
+ 04.07.25 - 10:57:12	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+DAISY | 1395K3551001 | A01 | A01 | INNIP00AIA | D | aoi | 1 | S | 
+?? Nebyla v evidenci defekty y labelu ?? U21-polarity; U7-bridge; CN6-bridge; EM1-miss; CN3- miss; D11- polarity; C390- miss; | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+DAISY | 1395K3551001 | A01 | A01 | INNIP00AIA | D | ict | 1 | S
+?? Nebyla v evidenci defekty y labelu ?? U21-polarity; U7-bridge; CN6-bridge; EM1-miss; CN3- miss; D11- polarity; C390- miss;
+
+ 04.07.25 - 10:58:07	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+DAISY | 1395K3551001 | AX1 | A01 | INNIP002HA | G | aoi | 2 | S | 
+Možná na dummy ??? | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+DAISY | 1395K3551001 | AX1 | A01 | INNIP002HA | D | aoi | 2 | S
+Možná na dummy ???
+
+04.07.25 - 11:00:06 | 248043	| DAISY | 1395K3551001 | AX1 | A01 | XX | INNIP003IA | G | Nevim kam zařadit ??? | 2024-10-18 | 1 | S | aoi	 |<--- NEW SAMPLE +++
+ 04.07.25 - 11:04:24	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+HERA | 1395K3547702 | AX2 | B01 | /P12166665-09/SN94482YE200593 | G | eoli | 1 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+HERA | 1395K3547702 | AX2 | B01 | /P12166665-09/SN94482YE200593 | D | eoli | 2 | S
+
+
+ 04.07.25 - 11:08:02	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+BERNARD | 1395K3505403 | AX2 | A01 | /P12143197-01/SN95384YEI0087 | D | aoi | 2 | B | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+BERNARD | 1395K3505403 | AX2 | A01 | /P12143197-01/SN95384YEI0087 | D | aoi | 2 | S
+PREP PRO BLU
+
+ 04.07.25 - 11:15:23	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+PILSNER | 1395K3541502 | AX3 | A01 | /P12172843-05/SN95384YBM0001 | D | aoi | 1 | B | 
+TOP|> R24- overturn; L2<-->C131- swap; D14- polarity; D180- miss; X12- bridge
+BOT|> I1- bridge; T1- poalrity; R23- OCR; C120- damage; T10- miss;  | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+PILSNER | 1395K3541502 | AX3 | A01 | /P12172843-05/SN95384YBM0001 | D | aoi | 2 | B
+TOP|> R24- overturn; L2<-->C131- swap; D14- polarity; D180- miss; X12- bridge
+BOT|> I1- bridge; T1- poalrity; R23- OCR; C120- damage; T10- miss; 
+
+04.07.25 - 12:33:35 | 238026	| JASMINE | 1395K3577104 | X01 | B01 | 00 | /P12246024-00/SN94482YD20032 | D |  | 2025-04-02 | 2 | B | aci	 |<--- NEW SAMPLE +++
+04.07.25 - 12:34:05 | 238026	| JASMINE | 1395K3577104 | X01 | B01 | 00 | /P12246024-00/SN94482YD20058 | D |  | 2025-04-02 | 2 | B | aci	 |<--- NEW SAMPLE +++
+04.07.25 - 13:30:53 | 238026	| HESTIA | 1395K3729202 | X01 | A01 | 01 | /P12200808-01/SN95384YEL00084 | G |  | 2025-05-21 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:32:36 | 238026	| HESTIA | 1395K3729202 | X01 | A01 | 01 | /P12200808-01/SN95384YEL00031 | G |  | 2025-05-21 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:33:09 | 238026	| HESTIA | 1395K3729202 | X01 | A01 | 01 | /P12200808-01/SN95384YEL00037 | G |  | 2025-05-21 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:33:53 | 238026	| HESTIA | 1395K3729202 | X01 | A01 | 01 | /P12200808-01/SN95384YEL00034 | G |  | 2025-05-21 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:34:18 | 238026	| HESTIA | 1395K3729202 | X01 | A01 | 01 | /P12200808-01/SN95384YEL00033 | G |  | 2025-05-21 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:35:13 | 238026	| HESTIA | 1395K3729202 | X01 | A01 | 01 | /P12200808-01/SN95384YEL00045 | G |  | 2025-05-21 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:35:46 | 238026	| HESTIA | 1395K3729202 | X01 | A01 | 01 | /P12200808-01/SN95384YEL00038 | G |  | 2025-05-21 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:37:01 | 238026	| HESTIA | 1395K3729202 | X01 | A01 | 01 | /P12200808-01/SN95384YEL00035 | G |  | 2025-05-21 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:37:39 | 238026	| HESTIA | 1395K3729202 | X01 | A01 | 01 | /P12200808-01/SN95384YEL00032 | G |  | 2025-05-21 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:38:24 | 238026	| HESTIA | 1395K3729202 | X01 | A01 | 01 | /P12200808-01/SN95384YEL00197 | G |  | 2025-05-21 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:39:03 | 238026	| HESTIA | 1395K3728901 | X01 | A01 | 01 | /P12200808-01/SN95384YEL00234 | G |  | 2025-05-21 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:39:29 | 238026	| HESTIA | 1395K3729202 | X01 | A01 | 01 | /P12200808-01/SN95384YEL00198 | G |  | 2025-05-21 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:41:10 | 238026	| HESTIA | 1395K3729202 | X01 | A01 | 01 | /P12200808-01/SN95384YEL00044 | G |  | 2025-05-21 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:41:48 | 238026	| HESTIA | 1395K3729202 | X01 | A01 | 01 | /P12200808-01/SN95384YEL00241 | G |  | 2025-05-21 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:42:30 | 238026	| HESTIA | 1395K3729202 | X01 | A01 | 01 | /P12200808-01/SN95384YEL00233 | G |  | 2025-05-21 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:44:01 | 238026	| HESTIA | 1395K3729201 | X01 | A01 | 02 | /P12107334-02/SN95384YEK00121 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:44:37 | 238026	| HESTIA | 1395K3729201 | X01 | A01 | 02 | /P12107334-02/SN95384YEK00123 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:46:57 | 238026	| HESTIA | 1395K3729201 | X01 | A01 | 02 | /P12107334-02/SN95384YEK00124 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:47:31 | 238026	| HESTIA | 1395K3729201 | X01 | A01 | 02 | /P12107334-02/SN95384YEK00125 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:48:03 | 238026	| HESTIA | 1395K3729201 | X01 | A01 | 02 | /P12107334-02/SN95384YEK00127 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:48:55 | 238026	| HESTIA | 1395K3729201 | X01 | A01 | 02 | /P12107334-02/SN95384YEK00103 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:49:24 | 238026	| HESTIA | 1395K3729201 | X01 | A01 | 02 | /P12107334-02/SN95384YEK00104 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:49:49 | 238026	| HESTIA | 1395K3729201 | X01 | A01 | 02 | /P12107334-02/SN95384YEK00105 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:50:34 | 238026	| HESTIA | 1395K3729201 | X01 | A01 | 02 | /P12107334-02/SN95384YEK00107 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:51:33 | 238026	| HESTIA | 1395K3729201 | X01 | A01 | 02 | /P12107334-02/SN95384YEK00164 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:52:07 | 238026	| HESTIA | 1395K3729201 | X01 | A01 | 02 | /P12107334-02/SN95384YEK00108 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:53:51 | 238026	| HESTIA | 1395K3729201 | X01 | A01 | 02 | /P12107334-02/SN95384YEK00163 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:54:18 | 238026	| HESTIA | 1395K3729201 | X01 | A01 | 02 | /P12107334-02/SN95384YEK00128 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:54:47 | 238026	| HESTIA | 1395K3729201 | X01 | A01 | 02 | /P12107334-02/SN95384YEK00106 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:55:17 | 238026	| HESTIA | 1395K3729201 | X01 | A01 | 02 | /P12107334-02/SN95384YEK00132 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:55:57 | 238026	| HESTIA | 1395K3729201 | X01 | A01 | 02 | /P12107334-02/SN95384YEK00135 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 13:57:20 | 238026	| HESTIA | 1395K3729101 | X01 | A01 | 01 | /P12200811-01/SN95384YEM0029 | G |  | 2025-05-22 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+04.07.25 - 13:58:16 | 238026	| HESTIA | 1395K3729101 | X01 | A01 | 01 | /P12200811-01/SN95384YEM0028 | G |  | 2025-05-22 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+04.07.25 - 13:59:53 | 238026	| HESTIA | 1395K3729001 | X01 | A01 | 01 | /P12200812-01/SN95384YEL0030 | G |  | 2025-05-21 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+04.07.25 - 14:01:41 | 238026	| HESTIA | 1395K3729001 | X01 | A01 | 01 | /P12200812-01/SN95384YEL0031 | G |  | 2025-05-21 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+04.07.25 - 14:03:19 | 238026	| HESTIA | 1395K3728902 | X01 | A01 | 01 | /P12200807-01/SN95384YEK00041 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:03:40 | 238026	| HESTIA | 1395K3728902 | X01 | A01 | 01 | /P12200807-01/SN95384YEK00054 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:04:04 | 238026	| HESTIA | 1395K3728902 | X01 | A01 | 01 | /P12200807-01/SN95384YEK00055 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:04:23 | 238026	| HESTIA | 1395K3728902 | X01 | A01 | 01 | /P12200807-01/SN95384YEK00013 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:04:47 | 238026	| HESTIA | 1395K3728902 | X01 | A01 | 01 | /P12200807-01/SN95384YEK00053 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:05:07 | 238026	| HESTIA | 1395K3728902 | X01 | A01 | 01 | /P12200807-01/SN95384YEK00045 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:05:37 | 238026	| HESTIA | 1395K3728902 | X01 | A01 | 01 | /P12200807-01/SN95384YEK00063 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:05:57 | 238026	| HESTIA | 1395K3728902 | X01 | A01 | 01 | /P12200807-01/SN95384YEK00056 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:06:21 | 238026	| HESTIA | 1395K3728902 | X01 | A01 | 01 | /P12200807-01/SN95384YEK00064 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:07:15 | 238026	| HESTIA | 1395K3728902 | X01 | A01 | 01 | /P12200807-01/SN95384YEK00067 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:08:41 | 238026	| HESTIA | 1395K3728902 | X01 | A01 | 01 | /P12200807-01/SN95384YEK00052 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:09:57 | 238026	| HESTIA | 1395K3728902 | X01 | A01 | 01 | /P12200807-01/SN95384YEK00051 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:10:18 | 238026	| HESTIA | 1395K3728902 | X01 | A01 | 01 | /P12200807-01/SN95384YEK00062 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:10:40 | 238026	| HESTIA | 1395K3728902 | X01 | A01 | 01 | /P12200807-01/SN95384YEK00061 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:11:07 | 238026	| HESTIA | 1395K3728902 | X01 | A01 | 01 | /P12200807-01/SN95384YEK00065 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:11:32 | 238026	| HESTIA | 1395K3728902 | X01 | A01 | 01 | /P12200807-01/SN95384YEK00066 | G |  | 2025-05-20 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:15:14 | 238026	| HESTIA | 1395K3728902 | X01 | A01 | 01 | /P12200807-01/SN95384YEK0007 | G |  | 2025-05-20 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+04.07.25 - 14:17:04 | 238026	| HESTIA | 1395K3728902 | X01 | A01 | 01 | /P12200807-01/SN95384YEK0008 | G |  | 2025-05-20 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+04.07.25 - 14:19:54 | 238026	| HESTIA | 1395K3728901 | X01 | A01 | 02 | /P12107333-02/SN95384YEJ0007 | G |  | 2025-05-19 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+04.07.25 - 14:20:48 | 238026	| HESTIA | 1395K3728901 | X01 | A01 | 02 | /P12107333-02/SN95384YEJ0005 | G |  | 2025-05-20 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+04.07.25 - 14:22:47 | 238026	| HESTIA | 1395K3728901 | X01 | A01 | 02 | /P12107333-02/SN95384YEJ00158 | G |  | 2025-05-19 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:23:12 | 238026	| HESTIA | 1395K3728901 | X01 | A01 | 02 | /P12107333-02/SN95384YEJ00037 | G |  | 2025-05-19 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:23:36 | 238026	| HESTIA | 1395K3728901 | X01 | A01 | 02 | /P12107333-02/SN95384YEJ00257 | G |  | 2025-05-19 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:24:00 | 238026	| HESTIA | 1395K3728901 | X01 | A01 | 02 | /P12107333-02/SN95384YEJ00184 | G |  | 2025-05-19 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:24:29 | 238026	| HESTIA | 1395K3728901 | X01 | A01 | 02 | /P12107333-02/SN95384YEJ00246 | G |  | 2025-05-19 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:24:50 | 238026	| HESTIA | 1395K3728901 | X01 | A01 | 02 | /P12107333-02/SN95384YEJ00187 | G |  | 2025-05-19 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:25:18 | 238026	| HESTIA | 1395K3728901 | X01 | A01 | 02 | /P12107333-02/SN95384YEJ00271 | G |  | 2025-05-19 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:25:41 | 238026	| HESTIA | 1395K3728901 | X01 | A01 | 02 | /P12107333-02/SN95384YEJ00274 | G |  | 2025-05-19 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:26:04 | 238026	| HESTIA | 1395K3728901 | X01 | A01 | 02 | /P12107333-02/SN95384YEJ00252 | G |  | 2025-05-19 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:26:51 | 238026	| HESTIA | 1395K3728901 | X01 | A01 | 02 | /P12107333-02/SN95384YEJ00251 | G |  | 2025-05-19 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:27:13 | 238026	| HESTIA | 1395K3728901 | X01 | A01 | 02 | /P12107333-02/SN95384YEJ00272 | G |  | 2025-05-19 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:27:37 | 238026	| HESTIA | 1395K3728901 | X01 | A01 | 02 | /P12107333-02/SN95384YEJ00243 | G |  | 2025-05-19 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:28:01 | 238026	| HESTIA | 1395K3728901 | X01 | A01 | 02 | /P12107333-02/SN95384YEJ00186 | G |  | 2025-05-19 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:28:21 | 238026	| HESTIA | 1395K3728901 | X01 | A01 | 02 | /P12107333-02/SN95384YEJ00275 | G |  | 2025-05-19 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:28:58 | 238026	| HESTIA | 1395K3728901 | X01 | A01 | 02 | /P12107333-02/SN95384YEJ00118 | G |  | 2025-05-19 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+04.07.25 - 14:29:24 | 238026	| HESTIA | 1395K3728901 | X01 | A01 | 02 | /P12107333-02/SN95384YEJ00015 | G |  | 2025-05-19 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+09.07.25 - 13:28:27 | 248043 | 	PILSNER - 1395K3541401 	 | 	cadImport/PILSNER1401_09_07_25.cad	 | 	 NEW CAD HAS BEEN UPLOADED <<<<< 
+
+ 10.07.25 - 08:39:47	 	 	 | 	 	 	 238042 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG20008 | G | aoi | 1 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG20008 | G | aoi | 9 | S
+
+
+11.07.25 - 07:52:18 | 248043	| GRIMM | 1395K3563803 | A01 | A01 | 04 | /P12011231-04/SN94482YDF0002 | G |  | 2025-06-27 | 1 | S | aoi	 |<--- NEW SAMPLE +++
+ 11.07.25 - 07:58:25	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG200091 | G | eoli | 1 | S | 
+2) | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG200091 | G | eoli | 1 | S
+2) C3-missing; C10- tombstone; D7- damage; D6- polarity
+
+ 11.07.25 - 07:59:31	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG20009A | D | eoli | 1 | S | 
+11) T3- shift; R38- missing; I1- bridge | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG20009A | D | eoli | 1 | S
+11) T3- shift; R38- missing; I1- bridge; C10 -billboard; C18- damaged
+
+ 11.07.25 - 08:00:30	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG200098 | G | eoli | 1 | S | 
+10) | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG200098 | G | eoli | 1 | S
+10) R40- missing; R27/R63- wrong part; I1- bridge; X2- damage
+
+ 11.07.25 - 08:01:12	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG200099 | G | eoli | 1 | S | 
+4) | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG200099 | G | eoli | 1 | S
+4) R4- missing; R14/C11- wrong part; T3- bridge; D3- shift
+
+ 11.07.25 - 08:04:08	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+BERNARD | 1395K3505202 | AX1 | A01 | /P12025965-08/SN95384YD60018 | D | aoi | 2 | B | 
+I30-bridge; C30-missing | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+BERNARD | 1395K3505202 | AX1 | A01 | /P12025965-08/SN95384YD60018 | D | aoi | 2 | B
+I30-bridge, polarity; C30-missing;
+
+16.07.25 - 08:16:29 | 248043	| JASMINE | 1395K3577104 | AX1 | B01 | 00 | /P12246024-00/SN94482YGF0003 | G |  | 2025-07-15 | 1 | S | aoi	 |<--- NEW SAMPLE +++
+ 16.07.25 - 08:17:49	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+JASMINE | 1395K3577104 | AX1 | B01 | /P12246024-00/SN94482YGF0001 | G | olbs | 1 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+JASMINE | 1395K3577104 | AX1 | B01 | /P12246024-00/SN94482YGF0001 | D | aoi | 2 | S
+PREP
+
+16.07.25 - 08:33:55 | 248043 has changed password of user --->	|248037			 |<--- USER PASSWORD CHANGED
+16.07.25 - 08:34:42 | 248043 has changed password of user --->	|238026			 |<--- USER PASSWORD CHANGED
+ 16.07.25 - 09:58:56	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+BECK | 1395K3699703 | X01 | A01 | /P12202025-03/SN95384YBA00226 | D | eoli | 2 | B | 
+5) | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+BECK | 1395K3699703 | X01 | A01 | /P12202025-03/SN95384YBA00226 | D | eoli | 9 | B
+5)
+
+ 16.07.25 - 13:08:57 	 	 |	 	248043 	 	 | 	 	 status = '9'	 	 | 	 	 <<< BATCH EDIT ||| 
+/P12202024-03/SN95384YBA00026	 	 - 	 	 OK 
+/P12202024-03/SN95384YBA00024	 	 - 	 	 OK 
+/P12202025-03/SN95384YBA00223	 	 - 	 	 OK 
+/P12202024-03/SN95384YBA00073	 	 - 	 	 OK 
+/P12202024-03/SN95384YBA00074	 	 - 	 	 OK 
+/P12202025-03/SN95384YBA00222	 	 - 	 	 OK 
+/P12202024-03/SN95384YBA00122	 	 - 	 	 OK 
+/P12202024-03/SN95384YBA00125	 	 - 	 	 OK 
+/P12202024-03/SN95384YBA00142	 	 - 	 	 OK 
+/P12202025-03/SN95384YBA00227	 	 - 	 	 OK 
+/P12202025-03/SN95384YBA00224	 	 - 	 	 OK 
+/P12202025-03/SN95384YBA00226	 	 - 	 	 OK 
+/P12202025-03/SN95384YBA00225	 	 - 	 	 OK 
+/P12202025-03/SN95384YBA00221	 	 - 	 	 OK 
+/P12202024-03/SN95384YBA00143	 	 - 	 	 OK 
+
+ 16.07.25 - 13:25:08	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+BECK | 1395K3699703 | X01 | A01 | /P12202025-03/SN95384YBA0003 | D | aoi | 1 | B | 
+I2- bridge; R11- miss; T1- OCR; D7- polarity; R28- shift; C6- miss; C1<->C12- swap; R5- overturn | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+BECK | 1395K3699703 | X01 | A01 | /P12202025-03/SN95384YBA0003 | D | aoi | 9 | B
+I2- bridge; R11- miss; T1- OCR; D7- polarity; R28- shift; C6- miss; C1<->C12- swap; R5- overturn
+
+ 16.07.25 - 13:25:17	 	 	 | 	 	 	 238042 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+CURIE | 1395K3575401 | AX4 | B01 | /P12162807-06/SN94482YFU0127 | D | ict | 2 | S | 
+PREP PRO BLU | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+CURIE | 1395K3575401 | AX4 | B01 | /P12162807-06/SN94482YFU0127 | D | ict | 2 | S
+#1 C102 - miss, R304 - miss; #2 I201 - solder bridge; #3 T407 - miss, D601 - miss; #4 D404 - miss, D405 - miss; #5 R402 - miss, R401 - miss; #6 D101 - polarity switch; #7 C105 - miss, C103 - miss; #8 T450 - miss, T401 - miss; #9 I101 - polarity switch; #10 D450 - miss, D406 - miss, I101 - solder bridge; #11 T601 -solder bridge, I101 - solder bridge; #12 C202 - miss, C201 - miss; #13 T301 - miss, R302 - miss; #14 R421 - miss, R422 - miss;
+
+ 16.07.25 - 13:25:34	 	 	 | 	 	 	 238042 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+CURIE | 1395K3575401 | AX4 | B01 | /P12162807-06/SN94482YFU0127 | D | ict | 2 | S | 
+#1 C102 - miss, R304 - miss; #2 I201 - solder bridge; #3 T407 - miss, D601 - miss; #4 D404 - miss, D405 - miss; #5 R402 - miss, R401 - miss; #6 D101 - polarity switch; #7 C105 - miss, C103 - miss; #8 T450 - miss, T401 - miss; #9 I101 - polarity switch; #10 D450 - miss, D406 - miss, I101 - solder bridge; #11 T601 -solder bridge, I101 - solder bridge; #12 C202 - miss, C201 - miss; #13 T301 - miss, R302 - miss; #14 R421 - miss, R422 - miss; | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+CURIE | 1395K3575401 | AX4 | B01 | /P12162807-06/SN94482YFU0127 | D | ict | 2 | S
+#1 C102 - miss, R304 - miss; #2 I201 - solder bridge; #3 T407 - miss, D601 - miss; #4 D404 - miss, D405 - miss; #5 R402 - miss, R401 - miss; #6 D101 - polarity switch; #7 C105 - miss, C103 - miss; #8 T450 - miss, T401 - miss; #9 I101 - polarity switch; #10 D450 - miss, D406 - miss, I101 - solder bridge; #11 T601 -solder bridge, I101 - solder bridge; #12 C202 - miss, C201 - miss; #13 T301 - miss, R302 - miss; #14 R421 - miss, R422 - miss; CURIE NA BLUCINU
+
+ 16.07.25 - 13:48:15	 	 	 | 	 	 	 238042 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+JASMINE | 1395K3577104 | AX1 | B01 | /P12246024-00/SN94482YGE0001 | D | ict | 2 | S | 
+PREP | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+JASMINE | 1395K3577104 | AX1 | B01 | /P12246024-00/SN94482YGE0001 | D | ict | 1 | S
+#1 C110 - miss, C107 - miss; #2 I400 - solder bridge; #3 D100 - polarity switch; #4 T500 - polarity switch; #5 R503 - miss, R523 - miss; #6 X30 - miss, X13 - miss, X2 - miss; #7 D506 - miss, C484 - polarity switch; #8 R201 - miss, R202 - miss;
+
+ 16.07.25 - 14:03:20	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG200091 | G | eoli | 1 | S | 
+2) C3-missing; C10- tombstone; D7- damage; D6- polarity | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG200091 | D | eoli | 1 | S
+2) C3-missing; C10- tombstone; D7- damage; D6- polarity
+
+ 17.07.25 - 10:18:38	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG20001 | D | ict | 2 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG20001 | D | ict | 1 | B
+
+
+ 17.07.25 - 10:24:27	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG20001 | D | ict | 1 | B | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG20001 | D | ict | 1 | B
+1%D6 polarity, 2% C17 polarity (not tested), 3%I1 short, 4%I2 missing, 4%C2 shifted - no impact, 5%T4 short, 6%R4 short, 7%R16 missing, 8%X3 - damaged pin - no impact
+
+17.07.25 - 12:41:07 | 248043 has created new user account --->	|248108			 |<--- NEW USER ACCOUNT CREATED
+17.07.25 - 12:41:19 | 248043 has changed password of user --->	|248108			 |<--- USER PASSWORD CHANGED
+17.07.25 - 12:41:59 | 248043 has changed password of user --->	|248054			 |<--- USER PASSWORD CHANGED
+ 18.07.25 - 09:57:23	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+CURIE | 1395K3575401 | AX4 | B01 | /P12162807-06/SN94482YFU0125 | G | aoi | 1 | S | 
+PRO BLU | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+CURIE | 1395K3575401 | AX4 | B01 | /P12162807-06/SN94482YFU0125 | G | aoi | 1 | B
+PRO BLU
+
+18.07.25 - 11:14:49 | 238026	| DAISY | 1395K3550901 | X02 | A02 | XX | INNIM000G7C | D |  | 2025-07-18 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+18.07.25 - 11:15:36 | 238026	| DAISY | 1395K3550901 | X02 | A02 | XX | INNIM000H7C | D |  | 2025-07-18 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+ 22.07.25 - 10:02:00	 	 	 | 	 	 	 248087 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG10001 | D | aoi | 1 | S | 
+I1- bridge; T3- bridge; R40- OCR; T6- polarity; R4- shift; R13- missing; C17- missing; D7- missing; C8- missing; R1- missing; C32- tombstone; R40- billboard; X3- shift; D<->T5- swap; | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+GRIMM | 1395K3563803 | X01 | B01 | /P12011231-04/SN94482YG10001 | D | aoi | 1 | S
+I1- bridge; T3- bridge; R40- OCR; T6- polarity; R4- shift; R13- missing; C17- missing; D7- missing; C8- missing; R1- missing; C32- tombstone; R40- billboard; X3- shift; D5<->T5- swap;
+
+22.07.25 - 12:45:29 | 248103	| PILSNER | 1395K3541404 | A01 | A01 | 05 | /P12172841-05/SN95384YGK017 | G |  | 2025-07-21 | 2 | B | aoi	 |<--- NEW SAMPLE +++
+ 22.07.25 - 12:46:32	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+PILSNER | 1395K3541404 | A01 | A01 | /P12172841-05/SN95384YGK017 | G | aoi | 2 | B | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+PILSNER | 1395K3541404 | A01 | A01 | /P12172841-05/SN95384YGK017 | G | aoi | 2 | B
+Waiting for decision for sample usage
+
+28.07.25 - 09:31:35 | 248043	| DAISY | 1395K3551001 | AX1 | A01 | XX | INNIP004IA | G | Stara revize ---> SCRAP | 2024-10-18 | 2 | S | aoi	 |<--- NEW SAMPLE +++
+ 28.07.25 - 09:31:58	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+DAISY | 1395K3551001 | AX1 | A01 | INNIP004IA | G | aoi | 2 | S | 
+Stara revize ---> SCRAP | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+DAISY | 1395K3551001 | AX1 | A01 | INNIP004IA | G | aoi | 9 | S
+Stara revize ---> SCRAP
+
+28.07.25 - 09:32:25 | 248043	| DAISY | 1395K3551001 | AX1 | A01 | XX | INNIP002IA | G | Stara revize ---> SCRAP | 2024-10-18 | 2 | S | aoi	 |<--- NEW SAMPLE +++
+ 28.07.25 - 09:32:33	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+DAISY | 1395K3551001 | AX1 | A01 | INNIP002IA | G | aoi | 2 | S | 
+Stara revize ---> SCRAP | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+DAISY | 1395K3551001 | AX1 | A01 | INNIP002IA | G | aoi | 9 | S
+Stara revize ---> SCRAP
+
+28.07.25 - 09:32:57 | 248043	| DAISY | 1395K3551001 | AX1 | A01 | XX | INNIP001HA | G |  | 2024-10-18 | 2 | S | aoi	 |<--- NEW SAMPLE +++
+ 28.07.25 - 09:33:05	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+DAISY | 1395K3551001 | AX1 | A01 | INNIP001HA | G | aoi | 2 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+DAISY | 1395K3551001 | AX1 | A01 | INNIP001HA | G | aoi | 9 | S
+
+
+28.07.25 - 09:33:28 | 248043	| DAISY | 1395K3551001 | AX1 | A01 | XX | INNIP006IA | G | Stara revize ---> SCRAP | 2024-10-18 | 2 | S | aoi	 |<--- NEW SAMPLE +++
+ 28.07.25 - 09:33:34	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+DAISY | 1395K3551001 | AX1 | A01 | INNIP006IA | G | aoi | 2 | S | 
+Stara revize ---> SCRAP | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+DAISY | 1395K3551001 | AX1 | A01 | INNIP006IA | G | aoi | 9 | S
+Stara revize ---> SCRAP
+
+29.07.25 - 09:59:10 | 248043 | 	HESTIA - 1395K3728901 	 | 	bomImport/HESTIA_8901_29_07_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+29.07.25 - 10:06:33 | 248043 | 	HESTIA - 1395K3729202 	 | 	cadImport/HESTIA9202_29_07_25.cad	 | 	 NEW CAD HAS BEEN UPLOADED <<<<< 
+
+29.07.25 - 10:07:49 | 248043 | 	 	 File : ./cadImport/HESTIA9202_29_07_25.cad 	 	 |<<--- FILE REMOVED ||
+29.07.25 - 10:28:05 | 248043 | 	 	 File : ./cad/HESTIA9202_29_07_25_BOT.xlsx 	 	 |<<--- FILE REMOVED ||
+29.07.25 - 10:28:10 | 248043 | 	 	 File : ./cad/HESTIA9202_29_07_25_TOP.xlsx 	 	 |<<--- FILE REMOVED ||
+29.07.25 - 10:32:03 | 248103 | 	DAISY - 1395K3550901 	 | 	bomImport/DAISY_0901_29_07_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+29.07.25 - 10:34:20 | 248103 | 	DAISY - 1395K3551001 	 | 	bomImport/DAISY_1001_29_07_25_v1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+30.07.25 - 14:05:04 | 248043 | 	 	 File : ./cad/EUROSTAR8301_17_06_25_TOP.xlsx 	 	 |<<--- FILE REMOVED ||
+30.07.25 - 14:49:31 | 248043 | 	HESTIA - 1395K3728902 	 | 	bomImport/HESTIA_8902_X02.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+30.07.25 - 14:50:09 | 248043 | 	HESTIA - 1395K3729001 	 | 	bomImport/HESTIA_9001_X02.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+30.07.25 - 15:19:53 | 248043 | 	HESTIA - 1395K3729101 	 | 	bomImport/HESTIA_9101_X02.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+30.07.25 - 15:21:41 | 248043 | 	GRIMM - 1395K3563801 	 | 	cadImport/GRIMM3801_30_07_25.cad	 | 	 NEW CAD HAS BEEN UPLOADED <<<<< 
+
+30.07.25 - 15:29:31 | 248043 | 	GRIMM - 1395K3563801 	 | 	cadImport/GRIMM3801_A02.cad	 | 	 NEW CAD HAS BEEN UPLOADED <<<<< 
+
+31.07.25 - 10:32:53 | 248043 | 	GRIMM - 1395K3563801 	 | 	cadImport/GRIMM3801_A02.cad	 | 	 NEW CAD HAS BEEN UPLOADED <<<<< 
+
+31.07.25 - 10:55:56 | 248043 | 	PILSNER - 1395K3541401 	 | 	cadImport/PILSNER1401_A01.cad	 | 	 NEW CAD HAS BEEN UPLOADED <<<<< 
+
+31.07.25 - 10:58:47 | 248043 | 	HESTIA - 1395K3729201 	 | 	bomImport/HESTIA_9201_X02.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+31.07.25 - 10:59:03 | 248043 | 	HESTIA - 1395K3729202 	 | 	bomImport/HESTIA_9202_X02.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+31.07.25 - 11:14:39 | 248043 | 	EUROSTAR - 1395K3515001 	 | 	bomImport/EUROSTAR_5001_A01.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+31.07.25 - 11:15:29 | 248043 | 	EUROSTAR - 1395K3515101 	 | 	bomImport/EUROSTAR_5101_A01.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+31.07.25 - 11:17:08 | 248043 | 	GELATO - 1395K3658601 	 | 	bomImport/GELATO_8601_AX3.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+31.07.25 - 15:15:09 | 248043 | 	GRIMM - 1395K3563801 	 | 	cadImport/GRIMM3801_A02.cad	 | 	 NEW CAD HAS BEEN UPLOADED <<<<< 
+
+31.07.25 - 15:19:36 | 248043 | 	CAMELIA - 1395K3718101 	 | 	bomImport/CAMELIA_8101_AX1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+31.07.25 - 15:24:11 | 248043 | 	 	 File : ./cad/PILSNER1401_A01_BOT.xlsx 	 	 |<<--- FILE REMOVED ||
+31.07.25 - 15:24:15 | 248043 | 	 	 File : ./cad/PILSNER1401_A01_TOP.xlsx 	 	 |<<--- FILE REMOVED ||
+31.07.25 - 15:24:21 | 248043 | 	 	 File : ./cad/GRIMM3801_A02_TOP.xlsx 	 	 |<<--- FILE REMOVED ||
+31.07.25 - 15:25:04 | 248043 | 	BECK - 1395K3699701 	 | 	cadImport/BECK9701_AX2.cad	 | 	 NEW CAD HAS BEEN UPLOADED <<<<< 
+
+01.08.25 - 10:36:22 | 248043 | 	 	 File : ./cadImport/BECK9701_26_05_25.cad 	 	 |<<--- FILE REMOVED ||
+ 01.08.25 - 11:11:34	 	 	 | 	 	 	 238027 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+GELATO | 1395K3658601 | X02 | A01 | INNIM00CP4 | G | aoi | 1 | B | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+GELATO | 1395K3658601 | X02 | A01 | INNIM00CP4 | G | aoi | 1 | B
+
+
+ 01.08.25 - 11:12:14	 	 	 | 	 	 	 238027 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+GELATO | 1395K3658601 | X02 | A01 | INNIM00CP4 | G | aoi | 1 | B | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+GELATO | 1395K3658601 | X02 | A01 | INNIM00CP4 | G | aoi | 2 | B
+Predano na kvalitu pro vytvoreni SG boardu.
+
+04.08.25 - 10:48:17 | 248043	| BERNARD | 1395K3505302 | A01 | A01 | 01 | /P12143193-01/SN94482YGU0472 | D | SAMLPLE S CHYBOU Y VYROBY PRO ODLADENI PROGRAMU | 2025-07-31 | 2 | S | aoi	 |<--- NEW SAMPLE +++
+04.08.25 - 11:18:02 | 248043 has changed status of user --->	|208369 from aoi to sap	 |<--- USER ADMIN LEVEL CHANGED
+04.08.25 - 11:18:33 | 248043 has changed status of user --->	|238040 from tech to sap	 |<--- USER ADMIN LEVEL CHANGED
+04.08.25 - 13:24:52 | 248043 has changed status of user --->	|248036 from qua to sap	 |<--- USER ADMIN LEVEL CHANGED
+04.08.25 - 14:07:45 | 248043 | 	JASMINE - 1395K3577104 	 | 	bomImport/JASMINE_7104_AX2.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+ 05.08.25 - 09:36:24	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+CURIE | 1395K3575401 | AX4 | B01 | /P12162807-06/SN94482YFU00618 | G | eoli | 1 | S | 
+10) Temp. profile | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+CURIE | 1395K3575401 | AX4 | B01 | /P12162807-06/SN94482YFU00618 | D | eoli | 1 | S
+10) BOT: I101- polarity; R108- overturn; T406- tombstone; T601- bridge;
+TOP: I201- polarity; D101- polarity; C201<->C107 swap
+
+ 05.08.25 - 09:38:11	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+CURIE | 1395K3575401 | AX4 | B01 | /P12162807-06/SN94482YFU00616 | G | eoli | 1 | S | 
+11) Temp. profile | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+CURIE | 1395K3575401 | AX4 | B01 | /P12162807-06/SN94482YFU00616 | D | eoli | 1 | S
+11) TOP: D403- polarity; I201- polarity; S303- lift; 
+BOT: I101- polarity; I405-missing; R422- shift
+
+ 05.08.25 - 09:40:01	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+CURIE | 1395K3575401 | AX4 | B01 | /P12162807-06/SN94482YFU0061E | G | eoli | 1 | S | 
+12) Temp. profile | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+CURIE | 1395K3575401 | AX4 | B01 | /P12162807-06/SN94482YFU0061E | D | eoli | 1 | S
+12) TOP: S303- shift; C102- polarity; I201- bridge;
+BOT: R302- bridge; R103<->R603; T450- missing
+
+ 05.08.25 - 09:54:26	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+PILSNER | 1395K3541502 | A01 | A01 | /P12172843-05/SN95384YBM00955 | D | eoli | 2 | B | 
+prep | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+PILSNER | 1395K3541502 | A01 | A01 | /P12172843-05/SN95384YBM00955 | D | eoli | 1 | B
+TOP: D5- polarity; R18<->C95; X12- bridge;
+BOT: I1- polarity; C147<->C149; T1- polarity
+
+ 05.08.25 - 09:59:41	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+PILSNER | 1395K3541502 | A01 | A01 | /P12172843-05/SN95384YBM00956 | D | eoli | 2 | B | 
+prep | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+PILSNER | 1395K3541502 | A01 | A01 | /P12172843-05/SN95384YBM00956 | D | eoli | 1 | B
+TOP: C96- shift; R2- shift; C131- shift; C118- shift;
+BOT: I1- bridge; T1- bridge; T2- polarity
+
+ 05.08.25 - 10:01:28	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+PILSNER | 1395K3541502 | A01 | A01 | /P12172843-05/SN95384YBM01145 | D | eoli | 2 | B | 
+prep | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+PILSNER | 1395K3541502 | A01 | A01 | /P12172843-05/SN95384YBM01145 | D | eoli | 1 | B
+TOP: D5<->D6; D180-polarity; C131<->C39; C16<->R40;
+BOT: I200- polarity; T10- bridge; T1- shift
+
+ 05.08.25 - 10:02:55	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+PILSNER | 1395K3541502 | A01 | A01 | /P12172843-05/SN95384YBM00954 | D | eoli | 2 | B | 
+prep | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+PILSNER | 1395K3541502 | A01 | A01 | /P12172843-05/SN95384YBM00954 | D | eoli | 1 | B
+TOP: R180<->C95; D2- polarity; X11- bridge;
+BOT: Q1- shift; I1- damage, solder; I200- bridge
+
+ 05.08.25 - 10:07:44	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+PILSNER | 1395K3541502 | A01 | A01 | /P12172843-05/SN95384YBM00957 | D | eoli | 2 | B | 
+prep | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+PILSNER | 1395K3541502 | A01 | A01 | /P12172843-05/SN95384YBM00957 | D | eoli | 1 | B
+TOP: D5- poalrity; D4- polarity; D6- polarity; D14- polarity; 
+BOT: C117<->C110; R140-billboard; T7- polarity
+
+05.08.25 - 12:08:19 | 248103	| BECK | 1395K3699703 | AX2 | B01 | 05 | /P12202025-05/SN95384YH30001 | D | 1%D4-flip, 5%C9-missing, 5%I1-short, 5%R25-missing, 5%R16-missing, 6%D7-polarity, 6%R24-missing, 6%D10-flip, 7%I2-short, 7%D10-flip | 2025-08-05 | 1 | B | ict	 |<--- NEW SAMPLE +++
+05.08.25 - 13:25:51 | 248043 | 	PILSNER - 1395K3541401 	 | 	cadImport/PILSNER1401_A01.cad	 | 	 NEW CAD HAS BEEN UPLOADED <<<<< 
+
+06.08.25 - 07:51:07 | 248043 | 	PILSNER - 1395K3541401 	 | 	cadImport/PILSNER1401_A01.cad	 | 	 NEW CAD HAS BEEN UPLOADED <<<<< 
+
+06.08.25 - 08:12:58 | 248043 | 	 	 File : ./bomImport/BECK_1395K3699701_AX1.xls 	 	 |<<--- FILE REMOVED ||
+ 06.08.25 - 09:28:21	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+JASMINE | 1395K3577104 | AX1 | B01 | /P12246024-00/SN94482YGF0003 | G | aoi | 1 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+JASMINE | 1395K3577104 | AX1 | B01 | /P12246024-00/SN94482YGF0003 | G | olbs | 1 | B
+
+
+06.08.25 - 09:30:52 | 248103	| JASMINE | 1395K3577104 | AX1 | B01 | 00 | /P12246024-00/SN94482YGF001 | G |  | 2025-07-15 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+06.08.25 - 09:43:46 | 248103	| JASMINE | 1395K3577104 | AX1 | B01 | 00 | /P12246024-00/SN94482YGF0018 | G |  | 2025-07-15 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+ 06.08.25 - 09:44:57	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+JASMINE | 1395K3577104 | AX1 | B01 | /P12246024-00/SN94482YGE0001 | D | ict | 1 | S | 
+#1 C110 - miss, C107 - miss; #2 I400 - solder bridge; #3 D100 - polarity switch; #4 T500 - polarity switch; #5 R503 - miss, R523 - miss; #6 X30 - miss, X13 - miss, X2 - miss; #7 D506 - miss, C484 - polarity switch; #8 R201 - miss, R202 - miss; | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+JASMINE | 1395K3577104 | AX1 | B01 | /P12246024-00/SN94482YGE0001 | D | ict | 1 | B
+#1 C110 - miss, C107 - miss; #2 I400 - solder bridge; #3 D100 - polarity switch; #4 T500 - polarity switch; #5 R503 - miss, R523 - miss; #6 X30 - miss, X13 - miss, X2 - miss; #7 D506 - miss, C484 - polarity switch; #8 R201 - miss, R202 - miss;
+
+06.08.25 - 09:49:30 | 248103	| PILSNER | 1395K3541404 | A01 | A01 | 05 | /P12172841-05/SN95384YGK0174 | G |  | 2025-07-21 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+ 06.08.25 - 14:49:05	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+DAISY | 1395K3551001 | AX1 | A01 | INNIP002IA | G | aoi | 9 | S | 
+Stara revize ---> SCRAP | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+DAISY | 1395K3551001 | AX1 | A01 | INNIP002IA | G | aoi | 2 | S
+Stara revize ---> SCRAP
+
+06.08.25 - 14:49:22	 	 	|	 	 	208070	 	 	|	 	 	<<< TECHNICIAN DAMAGE NOTICE |||
+DAISY, 1395K3551001, AX1, A01, INNIP002IA, G, 2, S, aoi
+
+ 06.08.25 - 14:49:37	 	 	 | 	 	 	 248043 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+DAISY | 1395K3551001 | AX1 | A01 | INNIP002IA | G | aoi | 5 | S | 
+Stara revize ---> SCRAP | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+DAISY | 1395K3551001 | AX1 | A01 | INNIP002IA | G | aoi | 9 | S
+Stara revize ---> SCRAP
+
+07.08.25 - 12:56:11 | 248087	| CURIE | 1395K3590202 | AX4 | B01 | 02 | /P12195007-02/SN95384YGM001 | D |  | 2025-07-23 | 2 | B | aoi	 |<--- NEW SAMPLE +++
+07.08.25 - 12:59:37 | 248087	| CURIE | 1395K3590203 | AX4 | B01 | 02 | /P12195009-02/SN95384YGM001 | D |  | 2025-07-23 | 2 | B | aoi	 |<--- NEW SAMPLE +++
+07.08.25 - 13:03:25 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0010O | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:04:39 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0012A | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:05:20 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0011I | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:05:41 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0010B | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:06:14 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0010C | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:06:38 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM00112 | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:06:57 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0011P | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:07:19 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0010J | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:07:36 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM00121 | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:07:57 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM00126 | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:08:21 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0011X | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:09:17 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0011A | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:09:43 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0010M | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:10:43 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0010V | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:10:54 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0011S | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:11:08 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM00103 | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:11:20 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM00119 | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:11:34 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM00104 | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:11:48 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0011K | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:12:02 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0011M | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:12:19 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0011B | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:12:32 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0011C | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:12:50 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0010A | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:13:03 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0010S | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:13:16 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0010U | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:13:28 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0011F | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:13:41 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM00101 | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:13:56 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM00115 | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:14:15 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM00114 | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:14:27 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM00113 | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:14:40 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM00102 | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:14:52 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0010T | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:15:10 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0011D | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:15:27 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0011W | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:15:41 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0011Q | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:15:53 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0010Y | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:16:06 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM00124 | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:16:21 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM00128 | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:16:37 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0010I | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:16:51 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0010G | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:17:04 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0010P | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:17:17 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM00116 | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:17:43 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0010X | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:18:26 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0012C | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:18:41 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0011T | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:18:56 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM00107 | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:19:13 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0010L | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:19:29 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0010R | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:19:44 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0011V | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:20:07 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0011G | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:20:21 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0010D | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:20:39 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0011E | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:20:53 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0011Z | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:21:06 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM00127 | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:21:19 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0011L | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:21:31 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0012D | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:21:52 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM00106 | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:22:04 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0010Z | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:22:19 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0011U | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:22:32 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM00105 | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:22:45 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0010H | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:22:59 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0012B | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:23:15 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM00108 | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:23:28 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0010K | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:23:39 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0011Y | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:23:51 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM00111 | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:24:05 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM00118 | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:24:20 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0011J | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:24:32 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0011O | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:24:46 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM00109 | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:24:59 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0010N | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:25:12 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM00122 | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:25:26 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0010Q | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:25:37 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0011H | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:25:49 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM00125 | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:26:02 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0010W | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:26:17 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0010F | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:26:30 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM00123 | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:26:43 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0010E | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:26:57 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM0011R | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:27:14 | 248087	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM00129 | G |  | 2025-07-22 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:29:05 | 248087	| BERNARD | 1395K3505403 | AX2 | A01 | 01 | /P12143197-01/SN95384YGA0310 | G |  | 2025-07-11 | 2 | B | aoi	 |<--- NEW SAMPLE +++
+07.08.25 - 13:30:09 | 248087	| BERNARD | 1395K3505202 | AX1 | A01 | 08 | /P12025965-08/SN95384YG90345 | G |  | 2025-07-09 | 2 | B | aoi	 |<--- NEW SAMPLE +++
+07.08.25 - 13:44:07 | 248087	| CAMELIA | 1395K3718101 | AX1 | A01 | 00 | /P12215035-00/SN95384YGG00019 | D | D405 - billboard | 2025-07-17 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:47:38 | 248087	| CAMELIA | 1395K3718101 | AX1 | A01 | 00 | /P12215035-00/SN95384YGG0001B | D | D405 - billboard | 2025-07-17 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+ 07.08.25 - 13:48:06	 	 	 | 	 	 	 248087 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+CAMELIA | 1395K3718101 | AX1 | A01 | /P12215035-00/SN95384YGG00019 | D | eoli | 2 | B | 
+D405 - billboard | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+CAMELIA | 1395K3718101 | AX1 | A01 | /P12215035-00/SN95384YGG00019 | D | eoli | 2 | B
+D406 - billboard
+
+07.08.25 - 13:48:39 | 248087	| CAMELIA | 1395K3718101 | AX1 | A01 | 00 | /P12215035-00/SN95384YGG00015 | D | D407 - billboard | 2025-07-17 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:52:17 | 248087	| PILSNER | 1395K3541502 | A01 | A01 | 05 | /P12172843-05/SN95384YG700858 | D | X12 connector - shifted | 2025-07-08 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:57:11 | 248087	| CAMELIA | 1395K3718101 | AX1 | A01 | 00 | /P12215035-00/SN95384YGG00067 | D |  | 2025-07-17 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:57:33 | 248087	| CAMELIA | 1395K3718101 | AX1 | A01 | 00 | /P12215035-00/SN95384YGG00069 | D |  | 2025-07-17 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:57:51 | 248087	| CAMELIA | 1395K3718101 | AX1 | A01 | 00 | /P12215035-00/SN95384YGG0006B | D |  | 2025-07-17 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:58:07 | 248087	| CAMELIA | 1395K3718101 | AX1 | A01 | 00 | /P12215035-00/SN95384YGG0006A | D |  | 2025-07-17 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:58:20 | 248087	| CAMELIA | 1395K3718101 | AX1 | A01 | 00 | /P12215035-00/SN95384YGG00066 | D |  | 2025-07-17 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:58:37 | 248087	| CAMELIA | 1395K3718101 | AX1 | A01 | 00 | /P12215035-00/SN95384YGG00065 | D |  | 2025-07-17 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:58:54 | 248087	| CAMELIA | 1395K3718101 | AX1 | A01 | 00 | /P12215035-00/SN95384YGG00061 | D |  | 2025-07-17 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:59:12 | 248087	| CAMELIA | 1395K3718101 | AX1 | A01 | 00 | /P12215035-00/SN95384YGG00062 | D |  | 2025-07-17 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:59:25 | 248087	| CAMELIA | 1395K3718101 | AX1 | A01 | 00 | /P12215035-00/SN95384YGG00064 | D |  | 2025-07-17 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:59:38 | 248087	| CAMELIA | 1395K3718101 | AX1 | A01 | 00 | /P12215035-00/SN95384YGG00051 | D |  | 2025-07-17 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 13:59:50 | 248087	| CAMELIA | 1395K3718101 | AX1 | A01 | 00 | /P12215035-00/SN95384YGG00054 | D |  | 2025-07-17 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 14:00:05 | 248087	| CAMELIA | 1395K3718101 | AX1 | A01 | 00 | /P12215035-00/SN95384YGG00058 | D |  | 2025-07-17 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 14:00:19 | 248087	| CAMELIA | 1395K3718101 | AX1 | A01 | 00 | /P12215035-00/SN95384YGG0010C | D |  | 2025-07-17 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 14:00:32 | 248087	| CAMELIA | 1395K3718101 | AX1 | A01 | 00 | /P12215035-00/SN95384YGG00059 | D |  | 2025-07-17 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 14:00:46 | 248087	| CAMELIA | 1395K3718101 | AX1 | A01 | 00 | /P12215035-00/SN95384YGG00057 | D |  | 2025-07-17 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 14:00:59 | 248087	| CAMELIA | 1395K3718101 | AX1 | A01 | 00 | /P12215035-00/SN95384YGG0005C | D |  | 2025-07-17 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 14:01:11 | 248087	| CAMELIA | 1395K3718101 | AX1 | A01 | 00 | /P12215035-00/SN95384YGG0005A | D |  | 2025-07-17 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 14:01:24 | 248087	| CAMELIA | 1395K3718101 | AX1 | A01 | 00 | /P12215035-00/SN95384YGG0005B | D |  | 2025-07-17 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 14:01:37 | 248087	| CAMELIA | 1395K3718101 | AX1 | A01 | 00 | /P12215035-00/SN95384YGG00052 | D |  | 2025-07-17 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 14:01:50 | 248087	| CAMELIA | 1395K3718101 | AX1 | A01 | 00 | /P12215035-00/SN95384YGG00056 | D |  | 2025-07-17 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 14:02:03 | 248087	| CAMELIA | 1395K3718101 | AX1 | A01 | 00 | /P12215035-00/SN95384YGG00068 | D |  | 2025-07-17 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 14:02:15 | 248087	| CAMELIA | 1395K3718101 | AX1 | A01 | 00 | /P12215035-00/SN95384YGG0006C | D |  | 2025-07-17 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 14:02:27 | 248087	| CAMELIA | 1395K3718101 | AX1 | A01 | 00 | /P12215035-00/SN95384YGG00063 | D |  | 2025-07-17 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 14:02:40 | 248087	| CAMELIA | 1395K3718101 | AX1 | A01 | 00 | /P12215035-00/SN95384YGG0010B | D |  | 2025-07-17 | 2 | B | eoli	 |<--- NEW SAMPLE +++
+07.08.25 - 14:04:29 | 248087	| DAISY | 1395K3551001 | A01 | A01 | XX | INNIP000HAB | G |  | 2024-11-08 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+ 08.08.25 - 13:24:36	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+JASMINE | 1395K3577104 | AX1 | B01 | /P12246024-00/SN94482YGE0001 | D | ict | 1 | B | 
+#1 C110 - miss, C107 - miss; #2 I400 - solder bridge; #3 D100 - polarity switch; #4 T500 - polarity switch; #5 R503 - miss, R523 - miss; #6 X30 - miss, X13 - miss, X2 - miss; #7 D506 - miss, C484 - polarity switch; #8 R201 - miss, R202 - miss; | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+JASMINE | 1395K3577104 | AX1 | B01 | /P12246024-00/SN94482YGE0001 | D | ict | 1 | B
+#1 C110 - miss, C107 - miss; #2 I400 - solder bridge(pin 70-73 - ICT no testpoint); #3 D100 - polarity; #4 T500 - polarity; #5 R503 - miss, R523 - miss; #6% X13 - miss, X2 - miss; X30 - miss (not tested anymore) #7 D506 - miss (Open FAIL- not tested anymore), C484 - polarity, R201 - miss, R202 - miss; 8% PASS
+
+13.08.25 - 11:19:09 | 248043 | 	GRIMM - 1395K3563801 	 | 	bomImport/GRIMM_3801_B01.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+ 13.08.25 - 14:11:23 	 	 |	 	248043 	 	 | 	 	 status = '9'	 	 | 	 	 <<< BATCH EDIT ||| 
+/P12011231-04/SN94482YEE0005	 	 - 	 	 OK 
+/P12011231-04/SN94482YBR00227	 	 - 	 	 OK 
+/P12011231-04/SN94482YBR00225	 	 - 	 	 OK 
+/P12011231-04/SN94482YBR00041	 	 - 	 	 OK 
+/P12011231-04/SN94482YBR00045	 	 - 	 	 OK 
+/P12011231-04/SN94482YBR00043	 	 - 	 	 OK 
+/P12011231-04/SN94482YBR00042	 	 - 	 	 OK 
+/P12011231-04/SN94482YBR00046	 	 - 	 	 OK 
+/P12011231-04/SN94482YBR0004A	 	 - 	 	 OK 
+/P12011231-04/SN94482YBR0002	 	 - 	 	 OK 
+/P12011231-04/SN94482YBR00228	 	 - 	 	 OK 
+/P12011231-04/SN94482YBR00221	 	 - 	 	 OK 
+/P12011231-04/SN94482YBR00226	 	 - 	 	 OK 
+/P12011231-04/SN94482YBR00044	 	 - 	 	 OK 
+/P12011231-04/SN94482YBR00048	 	 - 	 	 OK 
+/P12011231-04/SN94482YBR00049	 	 - 	 	 OK 
+/P12011231-04/SN94482YBR00047	 	 - 	 	 OK 
+/P12011231-04/SN94482XIQ0466	 	 - 	 	 OK 
+/P12011231-04/SNYB983XCD6642	 	 - 	 	 OK 
+/P12011231-04/SNYB983XFK5901	 	 - 	 	 OK 
+/P12011231-04/SNYB983WLM2007	 	 - 	 	 OK 
+
+20.08.25 - 15:45:51 | 238026	| HESTIA | 1395K3729001 | X02 | A01 | 02 | /P12200812-02/SN95384YGV00358 | G |  | 2025-08-05 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:46:27 | 238026	| HESTIA | 1395K3729001 | X02 | A01 | 02 | /P12200812-02/SN95384YGV00355 | G |  | 2025-08-05 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:46:42 | 238026	| HESTIA | 1395K3729001 | X02 | A01 | 02 | /P12200812-02/SN95384YGV00353 | G |  | 2025-08-05 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:46:56 | 238026	| HESTIA | 1395K3729001 | X02 | A01 | 02 | /P12200812-02/SN95384YGV00357 | G |  | 2025-08-05 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:47:13 | 238026	| HESTIA | 1395K3729001 | X02 | A01 | 02 | /P12200812-02/SN95384YGV00351 | G |  | 2025-08-05 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:47:44 | 238026	| HESTIA | 1395K3729001 | X02 | A01 | 02 | /P12200812-02/SN95384YGV00243 | G |  | 2025-07-31 | 1 | S | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:47:57 | 238026	| HESTIA | 1395K3729001 | X02 | A01 | 02 | /P12200812-02/SN95384YGV00352 | G |  | 2025-08-05 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:48:13 | 238026	| HESTIA | 1395K3729001 | X02 | A01 | 02 | /P12200812-02/SN95384YGV00248 | G |  | 2025-07-31 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:48:29 | 238026	| HESTIA | 1395K3729001 | X02 | A01 | 02 | /P12200812-02/SN95384YGV00244 | G |  | 2025-07-31 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:48:45 | 238026	| HESTIA | 1395K3729001 | X02 | A01 | 02 | /P12200812-02/SN95384YGV00242 | G |  | 2025-07-31 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:49:03 | 238026	| HESTIA | 1395K3729001 | X02 | A01 | 02 | /P12200812-02/SN95384YGV00247 | G |  | 2025-07-31 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:49:20 | 238026	| HESTIA | 1395K3729001 | X02 | A01 | 02 | /P12200812-02/SN95384YGV00246 | G |  | 2025-07-31 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:49:34 | 238026	| HESTIA | 1395K3729001 | X02 | A01 | 02 | /P12200812-02/SN95384YGV00354 | G |  | 2025-08-05 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:49:49 | 238026	| HESTIA | 1395K3729001 | X02 | A01 | 02 | /P12200812-02/SN95384YGV00356 | G |  | 2025-08-05 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:50:03 | 238026	| HESTIA | 1395K3729001 | X02 | A01 | 02 | /P12200812-02/SN95384YGV00241 | G |  | 2025-07-31 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:50:24 | 238026	| HESTIA | 1395K3729001 | X02 | A01 | 02 | /P12200812-02/SN95384YGV00245 | G |  | 2025-07-31 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:52:43 | 238026	| HESTIA | 1395K3729101 | X02 | A01 | 02 | /P12200811-02/SN95384YGV00082 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:53:00 | 238026	| HESTIA | 1395K3729101 | X02 | A01 | 02 | /P12200811-02/SN95384YGV00086 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:53:17 | 238026	| HESTIA | 1395K3729101 | X02 | A01 | 02 | /P12200811-02/SN95384YGV00087 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:53:32 | 238026	| HESTIA | 1395K3729101 | X02 | A01 | 02 | /P12200811-02/SN95384YGV00083 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:53:46 | 238026	| HESTIA | 1395K3729101 | X02 | A01 | 02 | /P12200811-02/SN95384YGV00084 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:54:02 | 238026	| HESTIA | 1395K3729101 | X02 | A01 | 02 | /P12200811-02/SN95384YGV00097 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:54:24 | 238026	| HESTIA | 1395K3729101 | X02 | A01 | 02 | /P12200811-02/SN95384YGV00092 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:54:38 | 238026	| HESTIA | 1395K3729101 | X02 | A01 | 02 | /P12200811-02/SN95384YGV00081 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:55:05 | 238026	| HESTIA | 1395K3729101 | X02 | A01 | 02 | /P12200811-02/SN95384YGV00088 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:55:21 | 238026	| HESTIA | 1395K3729101 | X02 | A01 | 02 | /P12200811-02/SN95384YGV00105 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:55:44 | 238026	| HESTIA | 1395K3729101 | X02 | A01 | 02 | /P12200811-02/SN95384YGV00091 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:55:57 | 238026	| HESTIA | 1395K3729101 | X02 | A01 | 02 | /P12200811-02/SN95384YGV00096 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:56:13 | 238026	| HESTIA | 1395K3729101 | X02 | A01 | 02 | /P12200811-02/SN95384YGV00093 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:56:29 | 238026	| HESTIA | 1395K3729101 | X02 | A01 | 02 | /P12200811-02/SN95384YGV00098 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:56:51 | 238026	| HESTIA | 1395K3729101 | X02 | A01 | 02 | /P12200811-02/SN95384YGV00095 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:57:30 | 238026	| HESTIA | 1395K3729101 | X02 | A01 | 02 | /P12200811-02/SN95384YGV00094 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:58:25 | 238026	| HESTIA | 1395K3728901 | X02 | A01 | 03 | /P12107333-03/SN95384YGU00055 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:58:43 | 238026	| HESTIA | 1395K3728901 | X02 | A01 | 03 | /P12107333-03/SN95384YGU00051 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:59:14 | 238026	| HESTIA | 1395K3728901 | X02 | A01 | 03 | /P12107333-03/SN95384YGU00052 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:59:30 | 238026	| HESTIA | 1395K3728901 | X02 | A01 | 03 | /P12107333-03/SN95384YGU00053 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 15:59:45 | 238026	| HESTIA | 1395K3728901 | X02 | A01 | 03 | /P12107333-03/SN95384YGU00056 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 16:00:09 | 238026	| HESTIA | 1395K3728901 | X02 | A01 | 03 | /P12107333-03/SN95384YGU00057 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 16:00:32 | 238026	| HESTIA | 1395K3728901 | X02 | A01 | 03 | /P12107333-03/SN95384YGU00054 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 16:00:56 | 238026	| HESTIA | 1395K3728901 | X02 | A01 | 03 | /P12107333-03/SN95384YGU00058 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 16:02:23 | 238026	| HESTIA | 1395K3728902 | X02 | A01 | 02 | /P12200807-02/SN95384YGU00081 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 16:02:39 | 238026	| HESTIA | 1395K3728902 | X02 | A01 | 02 | /P12200807-02/SN95384YGU00085 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 16:02:53 | 238026	| HESTIA | 1395K3728902 | X02 | A01 | 02 | /P12200807-02/SN95384YGU00083 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 16:03:07 | 238026	| HESTIA | 1395K3728902 | X02 | A01 | 02 | /P12200807-02/SN95384YGU00087 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 16:03:25 | 238026	| HESTIA | 1395K3728902 | X02 | A01 | 02 | /P12200807-02/SN95384YGU00086 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 16:03:43 | 238026	| HESTIA | 1395K3728902 | X02 | A01 | 02 | /P12200807-02/SN95384YGU00082 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 16:03:59 | 238026	| HESTIA | 1395K3728902 | X02 | A01 | 02 | /P12200807-02/SN95384YGU00084 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 16:04:12 | 238026	| HESTIA | 1395K3728902 | X02 | A01 | 02 | /P12200807-02/SN95384YGU00088 | G |  | 2025-08-04 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 16:04:29 | 238026	| HESTIA | 1395K3728902 | X02 | A01 | 02 | /P12200807-02/SN95384YGU00035 | G |  | 2025-07-30 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 16:04:42 | 238026	| HESTIA | 1395K3728902 | X02 | A01 | 02 | /P12200807-02/SN95384YGU00031 | G |  | 2025-07-30 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 16:04:57 | 238026	| HESTIA | 1395K3728902 | X02 | A01 | 02 | /P12200807-02/SN95384YGU00038 | G |  | 2025-07-30 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 16:05:13 | 238026	| HESTIA | 1395K3728902 | X02 | A01 | 02 | /P12200807-02/SN95384YGU00032 | G |  | 2025-07-30 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 16:05:29 | 238026	| HESTIA | 1395K3728902 | X02 | A01 | 02 | /P12200807-02/SN95384YGU00033 | G |  | 2025-07-30 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 16:05:42 | 238026	| HESTIA | 1395K3728902 | X02 | A01 | 02 | /P12200807-02/SN95384YGU00036 | G |  | 2025-07-30 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 16:05:58 | 238026	| HESTIA | 1395K3728902 | X02 | A01 | 02 | /P12200807-02/SN95384YGU00037 | G |  | 2025-07-30 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 16:06:11 | 238026	| HESTIA | 1395K3728902 | X02 | A01 | 02 | /P12200807-02/SN95384YGU00034 | G |  | 2025-07-30 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+20.08.25 - 16:07:46 | 238026	| PILSNER | 1395K3541403 | A01 | A01 | 05 | /P12172840-05/SN95384YHJ0132 | G |  | 2025-08-19 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+20.08.25 - 16:08:53 | 238026	| DAISY | 1395K3551001 | A02 | A01 | XX | INNIP004B8 | G |  | 2025-08-12 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+20.08.25 - 16:09:11 | 238026	| HESTIA | 1395K3729202 | X02 | A01 | 02 | /P12200808-02/SN95384YGV0003 | G |  | 2025-07-31 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+20.08.25 - 16:09:54 | 238026	| BECK | 1395K3699703 | X01 | A01 | 03 | /P12202025-03/SN95384YBA0015 | G |  | 2025-02-12 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+20.08.25 - 16:12:18 | 238026	| HESTIA | 1395K3728902 | X02 | A01 | 02 | /P12200807-02/SN95384YGU0002 | G |  | 2025-07-30 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+20.08.25 - 16:12:41 | 238026	| HESTIA | 1395K3729001 | X02 | A01 | 02 | /P12200812-02/SN95384YGV0034 | G |  | 2025-07-31 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+20.08.25 - 16:13:32 | 238026	| HESTIA | 1395K3729101 | X02 | A01 | 02 | /P12200811-02/SN95384YGV0002 | G |  | 2025-07-31 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+ 28.08.25 - 10:09:16	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Horch | 1395K3686001 | X01 | A01 | /P12218693-00/SN95384XKF0021 | G | aoi | 1 | B | 
+ICT - vyroba fixtury | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Horch | 1395K3686001 | X01 | A01 | /P12218693-00/SN95384XKF0021 | G | aoi | 9 | B
+ICT - vyroba fixtury
+
+ 28.08.25 - 10:09:59	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Horch | 1395K3686001 | X01 | A01 | /P12218693-00/SN95384XKF0018 | G | aoi | 1 | B | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Horch | 1395K3686001 | X01 | A01 | /P12218693-00/SN95384XKF0018 | G | aoi | 9 | B
+ICT výroba fixtury
+
+28.08.25 - 13:52:10 | 238026	| CURIE | 1395K3590202 | AX3 | B01 | 02 | /P12195007-02/SN95384YE200429 | G |  | 2025-08-27 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+01.09.25 - 08:04:56 | 238026	| CURIE | 1395K3590202 | AX3 | B01 | 02 | /P12195007-02/SN95384YE20040X | G |  | 2025-08-27 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+01.09.25 - 08:05:26 | 238026	| CURIE | 1395K3590202 | AX3 | B01 | 02 | /P12195007-02/SN95384YE20040P | D |  | 2025-08-27 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+01.09.25 - 08:05:41 | 238026	| CURIE | 1395K3590202 | AX3 | B01 | 02 | /P12195007-02/SN95384YE20041N | D |  | 2025-08-27 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+01.09.25 - 08:23:41 | 238026	| CURIE | 1395K3590202 | AX3 | B01 | 02 | /P12195007-02/SN95384YE20041H | D |  | 2025-08-27 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+01.09.25 - 08:24:01 | 238026	| CURIE | 1395K3590202 | AX3 | B01 | 02 | /P12195007-02/SN95384YE20040S | D |  | 2025-08-27 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+01.09.25 - 08:24:16 | 238026	| CURIE | 1395K3590202 | AX3 | B01 | 02 | /P12195007-02/SN95384YE20041O | D |  | 2025-07-22 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+01.09.25 - 08:25:16 | 238026	| CURIE | 1395K3590202 | AX3 | B01 | 02 | /P12195007-02/SN95384YE200421 | G |  | 2025-08-27 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+01.09.25 - 08:25:31 | 238026	| CURIE | 1395K3590202 | AX3 | B01 | 02 | /P12195007-02/SN95384YE20042B | G |  | 2025-08-27 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+01.09.25 - 08:25:44 | 238026	| CURIE | 1395K3590202 | AX3 | B01 | 02 | /P12195007-02/SN95384YE20040N | D |  | 2025-08-27 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+01.09.25 - 08:27:35 | 238026	| CURIE | 1395K3590203 | AX2 | B01 | 01 | /P12195009-01/SN95384YBB0041J | D |  | 2025-02-17 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+01.09.25 - 08:28:04 | 238026	| CURIE | 1395K3590203 | AX3 | B01 | 02 | /P12195009-02/SN95384YE200302 | D |  | 2025-08-27 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+01.09.25 - 09:06:28 | 238026	| CURIE | 1395K3590203 | AX3 | B01 | 02 | /P12195009-02/SN95384YE200225 | D |  | 2025-08-27 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+01.09.25 - 09:06:43 | 238026	| CURIE | 1395K3590203 | AX3 | B01 | 02 | /P12195009-02/SN95384YE20040M | G |  | 2025-08-27 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+01.09.25 - 09:08:26 | 238026	| CURIE | 1395K3590203 | AX3 | B01 | 02 | /P12195009-02/SN95384YE20031M | D |  | 2025-08-27 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+01.09.25 - 09:11:10 | 238026	| CURIE | 1395K3590203 | AX3 | B01 | 02 | /P12195009-02/SN95384YE20021O | D |  | 2025-08-27 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+01.09.25 - 09:11:20 | 238026	| CURIE | 1395K3590203 | AX3 | B01 | 02 | /P12195009-02/SN95384YE20040T | D |  | 2025-08-27 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+01.09.25 - 09:11:34 | 238026	| CURIE | 1395K3590203 | AX3 | B01 | 02 | /P12195009-02/SN95384YE20020J | D |  | 2025-08-27 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+01.09.25 - 09:11:46 | 238026	| CURIE | 1395K3590203 | AX3 | B01 | 02 | /P12195009-02/SN95384YE20010M | D |  | 2025-08-27 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+01.09.25 - 09:12:03 | 238026	| CURIE | 1395K3590203 | AX3 | B01 | 02 | /P12195009-02/SN95384YE20010N | G |  | 2025-08-27 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+ 01.09.25 - 09:13:28	 	 	 | 	 	 	 238026 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+CURIE | 1395K3590201 | AX3 | B01 | /P12195006-02/SN95384YGM0011R | G | eoli | 2 | B | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+CURIE | 1395K3590201 | AX3 | B01 | /P12195006-02/SN95384YGM0011R | G | eoli | 1 | B
+
+
+01.09.25 - 09:13:50 | 238026	| CURIE | 1395K3590201 | AX3 | B01 | 02 | /P12195006-02/SN95384YGM00117 | D |  | 2025-08-27 | 1 | B | eoli	 |<--- NEW SAMPLE +++
+01.09.25 - 09:15:33 | 238026	| DAISY | 1395K3550901 | A02 | A02 | XX | INNIM002U8 | D |  | 2025-08-28 | 2 | B | aoi	 |<--- NEW SAMPLE +++
+01.09.25 - 09:15:45 | 238026	| DAISY | 1395K3550901 | A02 | A02 | XX | INNIM005U8 | D |  | 2025-08-28 | 2 | B | aoi	 |<--- NEW SAMPLE +++
+01.09.25 - 09:16:00 | 238026	| DAISY | 1395K3550901 | A02 | A02 | XX | INNIM024U8 | G |  | 2025-08-28 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+01.09.25 - 09:16:18 | 238026	| DAISY | 1395K3550901 | A02 | A02 | XX | INNIM025U8 | G |  | 2025-08-28 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+01.09.25 - 09:17:47 | 238026	| DAISY | 1395K3551001 | A02 | A01 | XX | INNIP002R8 | G |  | 2025-08-25 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+01.09.25 - 09:18:00 | 238026	| DAISY | 1395K3551001 | A02 | A01 | XX | INNIP00LR8 | G |  | 2025-08-25 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+01.09.25 - 09:18:12 | 238026	| DAISY | 1395K3551001 | A02 | A01 | XX | INNIP001R8 | G |  | 2025-08-25 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+01.09.25 - 09:18:26 | 238026	| DAISY | 1395K3551001 | A02 | A01 | XX | INNIP00KR8 | G |  | 2025-08-25 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+ 01.09.25 - 14:34:16	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+BECK | 1395K3699703 | AX2 | B01 | /P12202025-05/SN95384YH30001 | D | ict | 1 | B | 
+1%D4-flip, 5%C9-missing, 5%I1-short, 5%R25-missing, 5%R16-missing, 6%D7-polarity, 6%R24-missing, 6%D10-flip, 7%I2-short, 7%D10-flip | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+BECK | 1395K3699703 | AX2 | B01 | /P12202025-05/SN95384YH30001 | D | ict | 1 | B
+1%D4-flip, 5%I1-short (C6, C12) , 5%R25-missing, 5%R16-missing, 6%D7-polarity, 6%R24-missing, 6%D10-flip, 7%I2-short(leads to multiple fails) , 7%D10-flip
+
+02.09.25 - 13:08:11 | 238018 has created new user account --->	|218001			 |<--- NEW USER ACCOUNT CREATED
+ 04.09.25 - 08:44:41	 	 	 | 	 	 	 238042 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+CURIE | 1395K3575401 | AX4 | B01 | /P12162807-06/SN94482YFU0123 | G | aoi | 1 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+CURIE | 1395K3575401 | AX4 | B01 | /P12162807-06/SN94482YFU0123 | D | aoi | 5 | S
+1. a 6. pcb zničené díry
+
+05.09.25 - 12:50:03 | 238026	| HORCH | 1395K3686001 | X02 | A01 | 02 | /P12218693-02/SN95384YI30020 | D | Missing connector | 2025-09-04 | 2 | B | aoi	 |<--- NEW SAMPLE +++
+05.09.25 - 12:50:31 | 238026	| HORCH | 1395K3686001 | X02 | A01 | 02 | /P12218693-02/SN95384YI30039 | D | Missing connector | 2025-09-04 | 2 | B | aoi	 |<--- NEW SAMPLE +++
+08.09.25 - 10:51:59 | 248103	| DAISY | 1395K3551001 | AX1 | A01 | XX | INNIP00CIA | D | D2-polarity, R160-missing, C390-missing, C387-missing,C358-missing, R7-missing
+D3, C357, C393 affected in test caused by modifying sample | 2024-10-18 | 1 | B | ict	 |<--- NEW SAMPLE +++
+08.09.25 - 13:02:00 | 238042 has changed status of user --->	|248098 from tech to ict	 |<--- USER ADMIN LEVEL CHANGED
+08.09.25 - 13:03:05 | 238042 has removed user --->	|250041			 |<--- USER REMOVED
+ 11.09.25 - 07:01:06 	 	 |	 	238018 	 	 | 	 	 hub = 'B',  pca = 'AX1',  pcb = 'A01',  status = '1'	 	 | 	 	 <<< BATCH EDIT ||| 
+INNIP00CIA	 	 - 	 	 OK 
+
+ 23.09.25 - 14:51:14	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+CAMELIA | 1395K3718101 | X01 | A01 | /P12215035-00/SN95384YEC0037 | G | aoi | 1 | B | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+CAMELIA | 1395K3718101 | X01 | A01 | /P12215035-00/SN95384YEC0037 | D | ict | 2 | B
+
+
+ 23.09.25 - 15:15:33	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+CAMELIA | 1395K3718101 | X01 | A01 | /P12215035-00/SN95384YEC0037 | D | ict | 2 | B | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+CAMELIA | 1395K3718101 | X01 | A01 | /P12215035-00/SN95384YEC0037 | D | ict | 2 | B
+1%D101-polarity,2%D450-missing,3%R450-missing, 3%R406-missing, 5%C102-missing, 7%I201-short (skip), 8%T407-missing, 8%C1-missing, 10%D401-missing, 11%C102-polarity
+
+ 23.09.25 - 15:16:58	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+CAMELIA | 1395K3718101 | X01 | A01 | /P12215035-00/SN95384YEC0037 | D | ict | 2 | B | 
+1%D101-polarity,2%D450-missing,3%R450-missing, 3%R406-missing, 5%C102-missing, 7%I201-short (skip), 8%T407-missing, 8%C1-missing, 10%D401-missing, 11%C102-polarity | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+CAMELIA | 1395K3718101 | X01 | A01 | /P12215035-00/SN95384YEC0037 | D | ict | 1 | B
+1%D101-polarity,2%D450-missing,3%R450-missing, 3%R406-missing, 5%C102-missing, 7%I201-short (skip), 8%T407-missing, 8%C1-missing, 10%D401-missing, 11%C102-polarity
+
+ 24.09.25 - 09:39:04	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+CAMELIA | 1395K3718101 | X01 | A01 | /P12215035-00/SN95384YEC0037 | D | ict | 1 | B | 
+1%D101-polarity,2%D450-missing,3%R450-missing, 3%R406-missing, 5%C102-missing, 7%I201-short (skip), 8%T407-missing, 8%C1-missing, 10%D401-missing, 11%C102-polarity | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+CAMELIA | 1395K3718101 | X01 | A01 | /P12215035-00/SN95384YEC0037 | D | ict | 1 | B
+1%D101-polarity,2%D450-missing,3%R450-missing, 3%R406-missing, 5%C102-missing, 7%I201-short (skip), 8%T407-missing, 8%C1-missing, 10%D401-missing, 11%C102-polarity(parallel with C103 - PASS)
+
+ 26.09.25 - 09:49:52	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+CAMELIA | 1395K3718101 | X01 | A01 | /P12215035-00/SN95384YEC0037 | D | ict | 1 | B | 
+1%D101-polarity,2%D450-missing,3%R450-missing, 3%R406-missing, 5%C102-missing, 7%I201-short (skip), 8%T407-missing, 8%C1-missing, 10%D401-missing, 11%C102-polarity(parallel with C103 - PASS) | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+CAMELIA | 1395K3718101 | X01 | A01 | /P12215035-00/SN95384YEC0037 | D | ict | 1 | B
+1%D101-polarity,2%D450-missing,3%R450-missing, 3%R406-missing, 5%C102-missing(fail on I101-1 - testjet), 7%I201-short (skip), 8%T407-missing, 8%C1-missing, 10%D401-missing, 11%C102-polarity(parallel with C103 - PASS)
+
+ 26.09.25 - 09:50:35	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EuroStar | 1395K3598401 | X01 | A01 | /P12122950-02/SN94482XH80204 | G | aoi | 1 | S | 
+R14-missing | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EuroStar | 1395K3598401 | X01 | A01 | /P12122950-02/SN94482XH80204 | G | aoi | 1 | B
+R14-missing
+
+ 26.09.25 - 09:52:22	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EuroStar | 1395K3598401 | X01 | A01 | /P12122950-02/SN94482XH80135 | D | aoi | 1 | S | 
+3%I1-bridge; 1%D5-polarity; 2%I1-polarity; 5%C16-wrong; 5%R32-wrong (switched with C16); 7%K5-shift; 8%K2-shift; 4%R20-missing; 4%C6-tombstone | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EuroStar | 1395K3598401 | X01 | A01 | /P12122950-02/SN94482XH80135 | D | aoi | 1 | B
+3%I1-bridge; 1%D5-polarity; 2%I1-polarity; 5%C16-wrong; 5%R32-wrong (switched with C16); 7%K5-shift; 8%K2-shift; 4%R20-missing; 4%C6-tombstone
+
+ 26.09.25 - 12:49:03	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+EuroStar | 1395K3598301 | X01 | A01 | /P12122948-02/SN94482XH70064 | G | aoi | 1 | S | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+EuroStar | 1395K3598301 | X01 | A01 | /P12122948-02/SN94482XH70064 | G | aoi | 1 | B
+
+
+ 26.09.25 - 12:50:52	 	 	 | 	 	 	 248103 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Eurostar | 1395K3598301 | X01 | A01 | /P12122948-02/SNYA983XCS7501 | G | aoi | 1 | S | 
+write off - strain gauge board | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Eurostar | 1395K3598301 | X01 | A01 | /P12122948-02/SNYA983XCS7501 | G | aoi | 1 | B
+
+
+26.09.25 - 15:15:32 | 248087	| PILSNER | 1395K3541502 | A01 | A01 | 05 | /P12172843-05/SN94482YI50175 | D |  | 2025-09-08 | 2 | S | aoi	 |<--- NEW SAMPLE +++
+ 26.09.25 - 15:22:51	 	 	 | 	 	 	 248087 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Hera | 1395K3547702 | AX2 | B01 | /P12166665-09/SN94482YBD00061 | D | eoli | 2 | S | 
+4) PREP | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Hera | 1395K3547702 | AX2 | B01 | /P12166665-09/SN94482YBD00061 | D | eoli | 2 | S
+4) Top- D606 - Missing, R54 - Wrong, C54 - Missing, D70 - Bridge, C30 - Tombstone // Bot- I10 - Bridge, C490 - C492 - Swap, I20 - Polarity, C21 - Shift
+
+ 26.09.25 - 15:30:13	 	 	 | 	 	 	 248087 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+Bernard | 1395K3505401 | AX1 | A01 | /P12025968-08/SN95384YAT00074 | D | eoli | 2 | B | 
+4) PREP | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+Bernard | 1395K3505401 | AX1 | A01 | /P12025968-08/SN95384YAT00074 | D | eoli | 2 | B
+4) Top- C480 - C80 - Swap, X20 - Damage, R52 - Shift, D631 - Polarity, I10 - Polarity,Bridge // Bot- X71 - Bridge, D64 - Polarity, I30 - Bridge
+
+30.09.25 - 04:45:29 | 238026 | 	JASMINE - 1395K3577104 	 | 	cadImport/JASMINE7104_AX2.cad	 | 	 NEW CAD HAS BEEN UPLOADED <<<<< 
+
+20.10.25 - 15:01:16 | 248098	| HESTIA | 1395K3729202 | AX1 | A01 | 02 | /P12200808-02/SN95384YJH0002 | D | 1# I3 SHORT   5# R24
+2# D5 MISS     6# OK
+3# OK             7# R11
+4# I1              8# R14, C9 | 2025-10-20 | 1 | B | ict	 |<--- NEW SAMPLE +++
+21.10.25 - 12:54:13 | 248098	| HESTIA | 1395K3729201 | AX1 | A01 | 03 | /P12107334-03/SN95384YJH0016 | D | 1# D5 POLARITY   5#OK
+2#T13 MISS          6# C5, C9 MISS
+3# R29 MISS         7# I3 MISS
+4#R9 MISS            8# OK | 2025-10-21 | 1 | B | ict	 |<--- NEW SAMPLE +++
+21.10.25 - 13:06:36 | 248103 | 	HESTIA - 1395K3729001 	 | 	bomImport/HESTIA_9001_AX1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+21.10.25 - 13:10:53 | 248103 | 	HESTIA - 1395K3728901 	 | 	bomImport/HESTIA_8901_AX1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+21.10.25 - 13:11:57 | 248103 | 	HESTIA - 1395K3728902 	 | 	bomImport/HESTIA_8902_AX1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+21.10.25 - 13:12:46 | 248103 | 	HESTIA - 1395K3729101 	 | 	bomImport/HESTIA_9101_AX1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+21.10.25 - 13:13:53 | 248103 | 	HESTIA - 1395K3729201 	 | 	bomImport/HESTIA_9201_AX1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+21.10.25 - 13:14:39 | 248103 | 	HESTIA - 1395K3729202 	 | 	bomImport/HESTIA_9202_AX1.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+21.10.25 - 13:52:32 | 248098	| HESTIA | 1395K3728901 | AX1 | A01 | 03 | /P12107333-03/SN95384YJF0001 | D | 1# D5 MISS    5#OK
+2# T13 MISS   6#I3, C9, C5 MISS
+3# R29 MISS   7# I1, I3, R5, R21 MISS
+4# R21 MISS         8#I3, T12, R14, C5 MISS | 2025-10-21 | 1 | B | ict	 |<--- NEW SAMPLE +++
+21.10.25 - 14:01:11 | 248098	| HESTIA | 1395K3728902 | AX1 | A01 | 02 | /P12200807-02/SN95384YJG0001 | D | 1# R24 MISS     5# OK
+2# R11 MISS     6# D5  MISS
+3# OK              7# OK
+4# I1 SHORT, R14, R24 MISS    8#C9 | 2025-10-21 | 1 | B | ict	 |<--- NEW SAMPLE +++
+22.10.25 - 07:04:00 | 248103 | 	BECK - 1395K3699703 	 | 	bomImport/BECK_9703_AX3.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+22.10.25 - 07:05:27 | 248103 | 	BECK - 1395K3699702 	 | 	bomImport/BECK_9702_AX3.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+22.10.25 - 07:06:26 | 248103 | 	BECK - 1395K3699701 	 | 	bomImport/BECK_9701_AX3.xls	 | 	 NEW BOM HAS BEEN UPLOADED <<<<< 
+
+27.10.25 - 14:08:22 | 238042	| BECK | 1395K3699701 | AX3 | B01 | 06 | /P12202022-06/SN95384YJM0002 | D | 1# R12, R23, D7
+2# R1, D14, C6
+3# I1, R1, R29, R16, C5, R3
+4# R27, R19, R15
+5# R15, C9
+6# D7, R28
+7# D13, R1, R24 | 2025-10-27 | 1 | B | ict	 |<--- NEW SAMPLE +++
+27.10.25 - 14:10:59 | 238042	| BECK | 1395K3699702 | AX3 | B01 | 06 | /P12202024-06/SN95384YJM0001 | D | 1# L1, T1, D7, R16
+2# R3, C6
+3# R19, R30
+4# D1, D4
+5# I1, R10, R16
+6# I1, D13, R16 | 2025-10-27 | 1 | B | ict	 |<--- NEW SAMPLE +++
+27.10.25 - 14:14:28 | 238042	| BECK | 1395K3699703 | AX3 | B01 | 06 | /P12202025-06/SN95384YJL0001 | D | 2# C9
+3# T1, I1, I2, R24, R16, R22, R21
+4# R13, R4
+6# T7, I1, R15, R1, R10, R28, C6
+7# D1, D4, D7, R10 | 2025-10-27 | 1 | B | ict	 |<--- NEW SAMPLE +++
+29.10.25 - 08:44:52 | 238042	| BECK | 1395K3699701 | AX3 | B01 | 06 | /P12202024-06/SN95384YJM0007 | G |  | 2025-10-29 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+29.10.25 - 08:47:29 | 238042	| BECK | 1395K3699701 | AX3 | B01 | 06 | /P12202022-06/SN95384YJM0001 | G |  | 2025-10-19 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+29.10.25 - 08:52:15 | 238042	| BECK | 1395K3699703 | AX3 | B01 | 06 | /P12202025-06/SN95384YJM0001 | G |  | 2025-10-29 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+ 29.10.25 - 08:57:11	 	 	 | 	 	 	 238042 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+BECK | 1395K3699701 | AX3 | B01 | /P12202024-06/SN95384YJM0007 | G | aoi | 1 | B | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+BECK | 1395K3699701 | AX3 | B01 | /P12202024-06/SN95384YJM0007 | G | aoi | 5 | B
+
+
+ 29.10.25 - 08:59:03	 	 	 | 	 	 	 238042 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+BECK | 1395K3699701 | AX3 | B01 | /P12202024-06/SN95384YJM0007 | G | aoi | 5 | B | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+BECK | 1395K3699701 | AX3 | B01 | /P12202024-06/SN95384YJM0007 | G | aoi | 9 | B
+
+
+ 29.10.25 - 09:06:34	 	 	 | 	 	 	 238042 	 	 	 | EDIT | 	 	  	 ORIGINAL 
+BECK | 1395K3699701 | AX3 | B01 | /P12202024-06/SN95384YJM0007 | G | aoi | 9 | B | 
+ | 
+	 	 	 	 	 	 \/ \/ TO \/ \/ 
+BECK | 1395K3699701 | AX3 | B01 | /P12202024-06/SN95384YJM0007 | G | aoi | 1 | B
+
+
+29.10.25 - 09:40:11 | 248103	| BECK | 1395K3699703 | AX3 | B01 | 06 | /P12202025-06/SN95384YJL0004 | D | 1% T3 - polarity, C6 - OCR, I2 - lift
+2% C16 - tombstone, R29 - missing
+3% C5 switch C12, D10 - damage, R28 - lift
+4% T2 - bridge, C13 - shift
+5% C9 - missing, D1 - damage
+6% R28 - shift, T4 - bridge
+7% I2 - bridge, D7 - polarity | 2025-10-22 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+29.10.25 - 09:53:59 | 248103	| BECK | 1395K3699701 | AX3 | B01 | 06 | /P12202022-06/SN95384YJK0001 | D | 1% D10 - damage, R28 - billboard
+2% D7 - shift, T5 - shift, T2 - lift
+3% I1 - polarity, R31 - missing, R32 - missing
+4% C5 - tombstone, T2 - OCR
+5% I2 - lift, C12 switch C1
+6% D7 - polarity, D2 - damage
+7% I2 - bridge, R10 - lift | 2025-10-22 | 1 | B | aoi	 |<--- NEW SAMPLE +++
+29.10.25 - 10:01:45 | 248103	| BECK | 1395K3699702 | AX3 | B01 | 06 | /P12202024-06/SN95384YJM0002 | D | 1% T1 - polarity, C5 - tombstone, D2 - damage
+2% T5 - missing, I2 - lift, R27 - shift
+3% R30 - shift, I1 - OCR
+4% T7 - bridge, C13 - missing
+5% C6 - polarity, R10 - lift
+6% I2 - bridge, D7 - polarity
+7% C5 switch C12, D14 - damage, D12 - missing | 2025-10-22 | 1 | B | aoi	 |<--- NEW SAMPLE +++

@@ -1,0 +1,25 @@
+RefID	PackageName	Angle	Window No		
+C23	Chip\Capacitor\2012	90	window1	Width = 1.68	
+C24	Chip\Capacitor\1608	270	window1	Width = 1.48	
+C33	Chip\Capacitor\1608	180	window1	Width = 1.44	
+C6401	Chip\Capacitor\2012	90	window1	Width = 1.38	
+C70	Chip\Capacitor\1005	0	window1	Width = 1.05	
+D29	SOT\GullWing_3\SOT23	0	window1	Width = 1.33	
+D30	SOT\GullWing_3\SOT23	0	window1	Width = 1.22	
+I30	SOP\Lead_Default\Default	180	window1	Width = 8.55	
+I32	QFN\Lead_Default\Default	180	window1	Width = 3.04	
+R20	Chip\Resistor\1608	270	window1	Width = 1.63	
+R30	Chip\Capacitor\3216	0	window1	Width = 3.18	
+R33	Chip\Resistor\3216	0	window1	Width = 3.3	
+R621	Chip\Resistor\3216	270	window1	Width = 3.15	
+R628	Chip\Resistor\1608	180	window1	Width = 1.57	
+R629	Chip\Resistor\1608	180	window1	Width = 1.56	
+R63	Chip\Resistor\3216	90	window1	Width = 3.15	
+R6401	Chip\Resistor\1608	90	window1	Width = 1.78	
+R84	Chip\Capacitor\4532	0	window1	Width = 3.25	
+T620	SOT\GullWing_3\SOT23	270	window1	Width = 1.65	
+T629	SOT\GullWing_3\SOT23	90	window1	Width = 1.15	
+T70	SOT\GullWing_3\SOT23	180	window1	Width = 2.76	
+X40	QFN\Lead_Default\Default	270	window1	Width = 16.74	
+X71		0	window1	Width = 2.94	
+D621	Chip\Capacitor\3216	0	window1	Width = 1.3	

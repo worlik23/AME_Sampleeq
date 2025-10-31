@@ -1,0 +1,5 @@
+ORIGINAL : GELATO | 1395K3551002 | D1G          | AX2 | A01 | 1          | 1          | BOT |  
+ 	 EDIT :  GELATO | 1395K3551002 | 07090200676 | AX2 | A01 | ORIGINAL : DAISY | 1395K3550901 | DAR          | A02 | A01 | 1          | 1          | BOTH |  
+ 	 EDIT :  DAISY | 1395K3550901 | 07090800576 | A02 | A01 | ORIGINAL : DAISY | 1395K3551001 | 5CG          | A02 | A01 | 1          | 1          | BOT |  
+ 	 EDIT :  DAISY | 1395K3551001 | 07091000577 | A02 | A01 | ORIGINAL : GRIMM | 1395K3563801 | 12011231     | B01 | A01 | 10         | 10         | TOP |  
+ 	 EDIT :  GRIMM | 1395K3563801 | 12011231 | B01 | A01 | 

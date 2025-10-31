@@ -1,0 +1,553 @@
+<!-- Start /pcm/Html_bomReportResult.jsp-->
+
+
+
+
+
+
+<!-- import -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+<title> cimbridge report </title>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<style type="text/css">
+FONT {
+	FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 12px
+}
+TD {
+	FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 12px
+}
+BODY {
+	FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 12px
+}
+P {
+	FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 12px
+}
+DIV {
+	FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 12px
+}
+INPUT {
+	FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 12px
+}
+TEXTAREA {
+	FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 12px
+}
+FORM {
+	FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 12px
+}
+A:link {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: Verdana, Helvetica; FONT-SIZE: 12px; TEXT-DECORATION: underline
+}
+A:active {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: Verdana, Helvetica; FONT-SIZE: 12px; TEXT-DECORATION: underline
+}
+A:visited {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: Verdana, Helvetica; FONT-SIZE: 12px; TEXT-DECORATION: underline
+}
+A:hover {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: Verdana, Helvetica; FONT-SIZE: 12px; TEXT-DECORATION: underline
+}
+.title {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: Verdana, Helvetica; FONT-SIZE: 16px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.btitle {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #FFFFFF; FONT-FAMILY: Verdana, Helvetica; FONT-SIZE: 18px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.content {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: Verdana, Helvetica; FONT-SIZE: 12px
+}
+.storytitle {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #363636; FONT-FAMILY: Verdana, Helvetica; FONT-SIZE: 14px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.storycat {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: Verdana, Helvetica; FONT-SIZE: 14px; FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+.boxtitle {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #363636; FONT-FAMILY: Verdana, Helvetica; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.boxcontent {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: Verdana, Helvetica; FONT-SIZE: 12px
+}
+.option {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: Verdana, Helvetica; FONT-SIZE: 14px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.tiny {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; FONT-FAMILY: Verdana, Helvetica; FONT-SIZE: 10px; FONT-WEIGHT: normal; TEXT-DECORATION: none
+}
+.contextEntry {
+    font-weight:bold; font-size:18px; color:darkred; background-color:#991212
+}
+h1
+{
+	position:absolute;
+	left:300px;
+	top:150px;
+	white-space: nowrap;
+}
+br
+{
+	mso-data-placement:same-cell;
+}
+
+
+</style>
+</HEAD>
+<BODY>
+
+
+
+	<table border = "1">
+		<tr>
+			<td colspan=6>
+				
+			<h1 align=center>Bom Report--Excel Format</h1>
+			
+			</td>
+		</tr>
+	</table>
+
+	Direct BOM:1395K3590203&nbsp;&nbsp;Revision:AX4&nbsp;&nbsp;Sequence:1&nbsp;&nbsp;Plant name:TZ09<br>
+	BOM Level:Multi-Level<br>
+	Show Substitution Part:Y<br>
+	Show HSF Property:Y<br>
+	Show Part Full Description:Y<br>
+	
+	Show Installation Point:Y<br>
+
+
+
+<table border="1" cellspacing="0" cellpadding="0" align="center" width="100%">
+	<tr bgcolor="#C0D0D0">
+		<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>Level</b></font></td>
+
+		<td width="10%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>Direct BOM</b></font></td>
+
+		<td width="10%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>
+
+		Main Part
+
+			</b></font></td>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>Rev.</b></font></td>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>Seq.</b></font></td>
+			
+			
+
+		
+			<td width="25%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>Part Full Desc.</b></font></td>
+		
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>Qty.</b></font></td>
+		
+			<td width="15%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>Substitution Part</b></font></td>
+		
+		
+			<td width="10%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>Inst. Point</b></font></td>
+		
+		
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>HSF Property</b></font></td>
+		
+		
+		
+		
+
+		
+
+		
+
+		<!-- add for 2011-TDT-000717 -->
+
+		
+		<!-- 2012-TDT-000569 -->
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+	</tr>
+</table>
+
+<table border="1" cellspacing="0" cellpadding="0" align="center" width="100%">
+
+		<TR>
+				<td width="5%" align="center" bgcolor="#C0D0D0"></td>
+				<td width="10%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1395K3590203</b></font></td>
+				
+				<td width="10%" align="center" bgcolor="#C0D0D0"></td>
+		
+				<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>AX4</b></font></td>
+				<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1</b></font></td>
+		
+				<td width="25%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>MOD,SC,1WAY PW SWITCH3,3751</b></font></td>
+		
+				<td width="5%" align="center" bgcolor="#C0D0D0"></td>
+		
+				<td width="15%" align="left" bgcolor="#C0D0D0"></td>
+		
+				<td width="10%" align="left" bgcolor="#C0D0D0"></td>
+		
+		
+				<td width="5%" align="center" bgcolor="#C0D0D0"></td>
+		
+		<!-- add for 2011-TDT-000717 -->
+		
+
+		
+		</TR>
+
+		<TR>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>
+			1
+			
+			</b></font></td>
+		
+			<td width="10%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1395K3590203</b></font></td>
+		
+			<td width="10%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1110A3590203</b></font></td>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>AX4</b></font></td>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1</b></font></td>
+		
+		
+		
+			<td width="25%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>SMD,SC,1WAY PW SWITCH3,3751</b></font></td>
+		
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1</b></font></td>
+		
+			<td width="15%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>-</b></font></td>
+		
+			<td width="10%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>-</b></font></td>
+		
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>RoHS2</b></font></td>
+		
+		
+		<!-- add for 2011-TDT-000717 -->
+		
+		</TR>
+
+		<TR>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>
+			2
+			
+			</b></font></td>
+		
+			<td width="10%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1110A3590203</b></font></td>
+		
+			<td width="10%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1599B0403101</b></font></td>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>AX1</b></font></td>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1</b></font></td>
+		
+		
+		
+			<td width="25%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>PHANTOM-KIT,D2 LED CLASS KIT-12195007</b></font></td>
+		
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1</b></font></td>
+		
+			<td width="15%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>-</b></font></td>
+		
+			<td width="10%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>R22</b></font></td>
+		
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>RoHS2</b></font></td>
+		
+		
+		<!-- add for 2011-TDT-000717 -->
+		
+		</TR>
+
+		<TR>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>
+			2
+			
+			</b></font></td>
+		
+			<td width="10%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1110A3590203</b></font></td>
+		
+			<td width="10%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>6Y13V0269201</b></font></td>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>A01</b></font></td>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1</b></font></td>
+		
+		
+		
+			<td width="25%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>RESISTOR-CHIP,1.8KOhm,+/-1%,0.25W,1206,TR,+/-100PPM/degreeC</b></font></td>
+		
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1</b></font></td>
+		
+			<td width="15%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>6013V0178601</b></font></td>
+		
+			<td width="10%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>R10</b></font></td>
+		
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>HalogenFree+RoHS2</b></font></td>
+		
+		
+		<!-- add for 2011-TDT-000717 -->
+		
+		</TR>
+
+		<TR>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>
+			2
+			
+			</b></font></td>
+		
+			<td width="10%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1110A3590203</b></font></td>
+		
+			<td width="10%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>6Y50V3590201</b></font></td>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>B01</b></font></td>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>2</b></font></td>
+		
+		
+		
+			<td width="25%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>PCB,1WAY PWS,2L,39.5x16.6x1.55mm,NO</b></font></td>
+		
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1</b></font></td>
+		
+			<td width="15%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>1292V3590201</b></font></td>
+		
+			<td width="10%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>-</b></font></td>
+		
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>RoHS2</b></font></td>
+		
+		
+		<!-- add for 2011-TDT-000717 -->
+		
+		</TR>
+
+		<TR>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>
+			2
+			
+			</b></font></td>
+		
+			<td width="10%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1110A3590203</b></font></td>
+		
+			<td width="10%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>6071V0002601</b></font></td>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>A01</b></font></td>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1</b></font></td>
+		
+		
+		
+			<td width="25%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>SOLDER,PASTE,SAC 305,88P4 500G</b></font></td>
+		
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>.000029</b></font></td>
+		
+			<td width="15%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>-</b></font></td>
+		
+			<td width="10%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>-</b></font></td>
+		
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>HalogenFree+RoHS2</b></font></td>
+		
+		
+		<!-- add for 2011-TDT-000717 -->
+		
+		</TR>
+
+		<TR>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>
+			2
+			
+			</b></font></td>
+		
+			<td width="10%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1110A3590203</b></font></td>
+		
+			<td width="10%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1292BRG00493</b></font></td>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>AX1</b></font></td>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1</b></font></td>
+		
+		
+		
+			<td width="25%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>VIRTUAL KIT,MOD,RG FOR LED 12142681</b></font></td>
+		
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1</b></font></td>
+		
+			<td width="15%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>1292BRI00493,1292BRH00493</b></font></td>
+		
+			<td width="10%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>D2</b></font></td>
+		
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>RoHS2</b></font></td>
+		
+		
+		<!-- add for 2011-TDT-000717 -->
+		
+		</TR>
+
+		<TR>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>
+			2
+			
+			</b></font></td>
+		
+			<td width="10%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1110A3590203</b></font></td>
+		
+			<td width="10%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>6013V0190101</b></font></td>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>A01</b></font></td>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1</b></font></td>
+		
+		
+		
+			<td width="25%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>RESISTOR-CHIP,470,+/-1%,1/8W,0805,TR,+/-100PPM/degreeC</b></font></td>
+		
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1</b></font></td>
+		
+			<td width="15%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>-</b></font></td>
+		
+			<td width="10%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>R1</b></font></td>
+		
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>HalogenFree+RoHS2</b></font></td>
+		
+		
+		<!-- add for 2011-TDT-000717 -->
+		
+		</TR>
+
+		<TR>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>
+			3
+			
+			</b></font></td>
+		
+			<td width="10%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1599B0403101</b></font></td>
+		
+			<td width="10%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>6Y13V0268301</b></font></td>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>A01</b></font></td>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1</b></font></td>
+		
+		
+		
+			<td width="25%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>RESISTOR-CHIP,2.2KOhm,+/-1%,1/8W,0805,TR,+/-100PPM/degreeC</b></font></td>
+		
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1</b></font></td>
+		
+			<td width="15%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>-</b></font></td>
+		
+			<td width="10%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>-</b></font></td>
+		
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>HalogenFree+RoHS2</b></font></td>
+		
+		
+		<!-- add for 2011-TDT-000717 -->
+		
+		</TR>
+
+		<TR>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>
+			3
+			
+			</b></font></td>
+		
+			<td width="10%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1599B0403101</b></font></td>
+		
+			<td width="10%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>6Y13V0256001</b></font></td>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>A01</b></font></td>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1</b></font></td>
+		
+		
+		
+			<td width="25%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>RESISTOR-CHIP,2.4K,+/-1%,1/8W,0805,TR,+/-100PPM/degreeC</b></font></td>
+		
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1</b></font></td>
+		
+			<td width="15%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>-</b></font></td>
+		
+			<td width="10%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>-</b></font></td>
+		
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>HalogenFree+RoHS2</b></font></td>
+		
+		
+		<!-- add for 2011-TDT-000717 -->
+		
+		</TR>
+
+		<TR>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>
+			3
+			
+			</b></font></td>
+		
+			<td width="10%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1599B0403101</b></font></td>
+		
+			<td width="10%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>6Y13V0255901</b></font></td>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>A01</b></font></td>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1</b></font></td>
+		
+		
+		
+			<td width="25%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>RESISTOR-CHIP,3K,+/-1%,1/8W,0805,TR,+/-100PPM/degreeC</b></font></td>
+		
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1</b></font></td>
+		
+			<td width="15%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>-</b></font></td>
+		
+			<td width="10%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>-</b></font></td>
+		
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>HalogenFree+RoHS2</b></font></td>
+		
+		
+		<!-- add for 2011-TDT-000717 -->
+		
+		</TR>
+
+		<TR>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>
+			3
+			
+			</b></font></td>
+		
+			<td width="10%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1292BRG00493</b></font></td>
+		
+			<td width="10%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>6Y11V0049301</b></font></td>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>A01</b></font></td>
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1</b></font></td>
+		
+		
+		
+			<td width="25%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>DIODE-LED,WHITE,1608,112-180mcd,120D,20mA,SMD,2P,TR</b></font></td>
+		
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>1</b></font></td>
+		
+			<td width="15%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>-</b></font></td>
+		
+			<td width="10%" align="left" bgcolor="#C0D0D0"><font face="Arial"><b>-</b></font></td>
+		
+			<td width="5%" align="center" bgcolor="#C0D0D0"><font face="Arial"><b>RoHS2</b></font></td>
+		
+		
+		<!-- add for 2011-TDT-000717 -->
+		
+		</TR>
+
+
+</table>
+
+<BR>
+
+</BODY>
+</HTML>
+<!-- End /edsplm/mwau/BaseTemplate.jsp-->

@@ -1,0 +1,21 @@
+{
+    "name": "vendor/project",
+    "description": "Project description",
+    "require": {
+        "php": ">=7.4",
+        "phpoffice/phpspreadsheet": "^4.2",
+        "sebastian/diff": "^6.0",
+        "phpmailer/phpmailer": "^6.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Project\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Richeeq",
+            "email": "cz.richardsteiner@gmail.com"
+        }
+    ]
+}

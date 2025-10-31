@@ -1,0 +1,156 @@
+body {grid-template-rows: 50px 1fr; grid-template-columns: minmax(auto, 200px) 1fr; max-height: 100vh; overflow: hidden; background-color: #e5001f; color: black;}
+
+#logo, header, nav, footer {color: white;}
+#logo {grid-area: 1/1/2/2;}
+.logo {display: flex; align-items: center; justify-content: center;}
+.userName {margin-left: 2rem;}
+header {grid-area: 1/2/2/3; position: sticky; top: 0; right: 0; padding-right: 1rem; display: inline-flex; align-items: stretch; gap: .5rem;
+	justify-content: flex-end; padding: .5rem;}
+nav {position: sticky; padding: .5rem 1rem 2rem 1rem; height: 100vh; top: 0; display: flex; flex-direction: column; justify-content: flex-start;
+		align-items: stretch; gap: .5rem;}
+#loginForm {display: inline-flex; align-items: stretch;}
+#loginForm label {display: flex; flex-direction: column; font-size: .7rem; align-self: flex-end; color: white;}
+main {grid-area: 2/2/3/3; height: calc(100vh - 60px); overflow-y: scroll; padding: .1rem .5rem 1rem 0; background-color: white;
+	border-radius: 25px 0 0 20px;}
+footer {position: absolute; left: 0; bottom: 11px; width: 100vw; display: grid; grid-template-rows: min-content; grid-template-columns: minmax(auto, 200px) 1fr;
+	font-size: .6em; margin: 0;}
+footer:has(input:checked) {z-index: 10;}
+
+#fisBtn {display: none;}
+
+.report {flex-direction: row; align-items: flex-start; justify-content: space-around; margin: 1.2rem auto 0 auto;}
+.reportCol {max-width: 55vw;}
+.reportImg {max-width: 25vw;}
+.columns {width: 98%; display: inline-flex; align-items: flex-start; justify-content: space-around;}
+
+.navBottom {height: 35px; margin-left: auto; margin-right: auto; margin-top: auto; margin-bottom: 40px;}
+.navBottom > span {margin-left: 35px;}
+
+.settings, .bom, .download, .off, .add, .edit, .prjEdit, .sap, .labels, .ssh {height: 100%; aspect-ratio: 1/1;}
+a:is(.add, .bom, .download, .edit, .prjEdit, .sap, .settings, .off, .labels, .ssh) > span {max-width: 0px; max-height: 100%; color: #e5001f; overflow: hidden; transition: all .3s ease;}
+a:is(.add, .bom, .download, .edit, .prjEdit, .sap, .settings, .off, .labels, .ssh):hover > span {max-width: 200px; white-space: nowrap; padding-left: 30px;}
+:hover:is(.add, .bom, .download, .edit, .prjEdit, .sap, .settings, .off, .labels, .ssh) {background-color: white; background-position: 5% 50%;}
+.settings {background-image: url('../icon/settings.svg');}
+.off {margin-right: 1rem; transition: background-image .3s ease-in-out, mask-image .3s ease-in-out;}
+.off:hover {background: white; mask-position: center; mask-size: 35px; mask-repeat: no-repeat; mask-image: url('../icon/off.svg');}
+.settings:hover {background-image: url('../icon/settings.svg');}
+.fullscreen:hover {mask-image: url('../icon/fullscreen.svg'); mask-size: contain;}
+.red, .orange, .green, .blue, .D {padding: 0; width: fit-content; font-weight: bold;}
+.red, .D {border: 2px solid #e5001f; color: red;}
+
+tr:hover > *:is(.cross, .check, .prgs, .red, .orange, .green, .D, .blue) {background-color: rgba(255,255,255,.9);}
+tr:hover > td:not(.red, .green, .blue, .orange, .D, .aoi, .ict, .olbs, .eoli, .empty) {background-color: #4a4a4a; color: white;}
+
+.row {display: inline-flex; margin: .5rem auto; align-items: center; justify-content: center; width: 100%; gap: 1rem;}
+.dashBoard {display: flex; flex-direction: column; align-items: stretch;}
+.dashBoard div {text-align: center; font-weight: bold; padding: .3rem 1rem; border-radius: 15px}
+
+#snNum, input:is([id="batch"], [name="batches[]"])  {width: 35ch;}
+.dmgBtn {width: fit-content; background-color: #ffeb3b; border: 1px solid black; color: black;}
+.dmgBtn:hover {background-color: black; border: 1px solid #ffeb3b; color: #ffeb3b;}
+
+label[for="fisBtn"] {grid-area: 1/1/2/2; margin: auto 1rem .5rem 1rem;}
+//          ################################################################################################        FIS STYLES          <<<<<
+#fis > input[type="text"] {grid-area: 1/1/2/2; width: 100%;}
+#fis > input[name="search"] {grid-area: 1/2/2/3; width: 100%;}
+#fis {grid-area: 1/2/2/3; display: grid; grid-template-columns: 32ch auto 1fr; max-height: 0px; width: calc(100vw - 201px); opacity: 0;
+	padding: 0 1rem; overflow: hidden; transition: all .3s ease-in-out; transform: translateY(50px); transform-origin: 0% 0%;}
+label:has(#fisBtn:checked) + #fis{max-height: fit-content; opacity: 1; padding: .5rem 1rem; border-left: 1px solid white; border-radius: 5px 5px 20px 20px;
+		transform: translateY(0px);}
+#outFIS {grid-area: 1/3/2/4; margin: auto; font-size: 1.2rem; color: white;}
+#loadingFIS {grid-area: 1/3/2/4; width: 98%; height: 70%; margin: auto; border-radius: 20px; overflow: hidden; background: white; mask-size: 150%;
+	mask-image: linear-gradient(90deg, transparent 10%, rgba(0, 0, 0, .8) 30%, rgba(0, 0, 0, .8) 40%, transparent 60%);
+	animation: loadingFIS 2s reverse infinite linear;}
+
+.twoCol {width: 100%; margin: 1rem auto; display: flex; justify-content: space-around; align-items: flex-start;}
+.flex-row {display: inline-flex; gap: .5rem;}
+.columnForm {width: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; gap: .5rem 0;}
+
+a, label, input, select {text-align: center; transition: .4s ease;}
+a, input[type="submit"], label[for="fisBtn"], button {display: flex; align-items: center; justify-content: center; color: #e5001f; background-color: white;
+	border-radius: 10px; border: 1px solid #e5001f; font-size: 1.25rem; font-weight: bold; padding: .2rem .5rem;}
+a:hover {border: 1px solid white; color: white; background-color: #e5001f; box-shadow: 1px 1px 6px white;}
+
+
+.toggle {opacity: 0; height: 100%;}
+label {color: black;}
+label:has(.toggle) {display: flex; width: 40px; margin: auto; aspect-ratio: 1/1; background-repeat: no-repeat; background-position: center; background-size: 40px;}
+.info > form > input[type="submit"] {opacity: 0;}
+input[type=number]::-webkit-outer-spin-button, input[type=number]::-webkit-inner-spin-button {-webkit-appearance: none; margin: 0;}
+#addSample > textarea {width: 60%; height: 100px; padding: .3rem .5rem; border-radius: 10px; font-size: 1rem; resize: none;}
+#snText {width: 31ch;}
+.textarea {width: 60%; height: 6em; text-align: center; resize: none; border: 2px solid #e5001f; border-radius: 15px;}
+
+.getProject {margin: 0;}
+
+main a {border: 1px solid #e5001f;}
+
+form {display: flex; justify-content: center; flex-wrap: wrap; gap: .5rem;}
+#addSample {flex-direction: column; margin: auto; align-items: center; justify-content: center;}
+#addSample > div {display: inline-flex; justify-content: center; flex-wrap: wrap; gap: .5rem;}
+.envelope {position: relative;}
+#jsOut {position: absolute; bottom: 100%; font-size: .7rem; font-weight: bold;}
+
+td {padding: .3rem 0; text-align: center; border-radius: 10px; transition: all .25s ease-in;}
+tr:hover > td:not(.info, .empty) {filter: drop-shadow(2px 2px 4px black);}
+.info {width: 50px; background-image: url('../icon/info.svg'); padding: 0; background-color: white;}
+tr:hover .info {background-image: url('../icon/info_white.svg');}
+.info .detail {position: absolute; width: 0px; height: 0px; right: 0; top: 100%; overflow: hidden; display: flex; flex-direction: column;
+	 align-items: center; justify-content: center; background-color: #4a4a4a; border-radius: 10px; color: white; opacity: 0; transition: all .4s ease-in-out;}
+.info:hover .detail {z-index: 2; width: 100%; padding: .5rem 1rem 1rem 1rem; opacity: 1; margin-top: .1rem;
+		filter: drop-shadow(2px 2px 4px black);	min-height: 100%; max-height: 300px; height: fit-content; border-top: 2px solid gray;}
+
+tr.expired > td {border: 2px solid #4a4a4a;}
+tr.marked > td, tr.marked:hover > td {background-color: green; color: white;}
+
+.sampleList {margin-bottom: 100px;}
+.sampleList tbody tr {animation: autoHide ease-in-out; animation-timeline: view();}
+.sampleList tr:has(td.info:hover) {position: relative; z-index: 100;}
+
+.allParts tr > td {padding: .5rem 1rem;}
+
+.sapForm {width: 35ch; margin: auto; flex-direction: column;}
+#sapSelect {display: flex; flex-direction: column; gap: .2rem; align-items: center;}
+#sapSelect > input[type="text"] {width: 33ch;}
+
+.sampleQty {width: fit-content;}
+.sampleQty td {padding: .2rem;}
+
+.compare {width: calc(100% - .5rem); height: 85vh; margin: .5rem 0 0 .5rem; gap: .5rem; display: flex; flex-direction: column; justify-content: space-evenly; align-items: stretch;}
+.original, .edited {width: 100%; height: 50%; overflow: auto; position: relative;}
+.original {border: 2px solid #e5001f; border-radius: 15px 15px 0 0;}
+.edited {border: 2px solid green; border-radius: 0 0 15px 15px;}
+.original-header, .edited-header {position: sticky; top: 0px; left: 100%; width: fit-content; background-color: white; padding: .5rem; font-size: 1.6rem; font-weight: bold; font-family: 'tahoma';}
+.original-header {color: #e5001f;}
+.edited-header {color: green;}
+.orig-txt {max-height: 100%; overflow-x: auto; overflow-y: scroll;}
+.currentLine {background-color: #e5001f; padding: .2rem; color: white; font-weight: bold; scroll-margin-top: 60px;}
+.versionChange {width: 95%; margin: 1rem auto; display: flex; flex-direction: column; justify-content: center; align-items: flex-start;}
+
+.loading-spinner::before {width: auto; height: 100vh; left: 25%;}
+
+@keyframes notification {
+0% {background-color: #e5001f; color: white;}
+100% {background-color: white; color: #e5001f;}
+}
+
+@keyframes autoHide {
+0% 		{transform: scale(.8); opacity: 0;}
+6% 		{pointer-events: none;}
+7% 		{transform: scale(1); z-index: 1; opacity: 1; pointer-events: auto;}
+87%		{transform: scale(1); z-index: 1; opacity: 1; pointer-events: auto;}
+88% 	{pointer-events: none;}
+100%	{transform: scale(.8); opacity: 0;}
+}
+
+/* ##############################################################################################################################  SCROLLBAR */
+::-webkit-scrollbar {width: 18px;}
+::-webkit-scrollbar-button:single-button:vertical:decrement {background-image: url('../icon/arrUp.svg');}
+::-webkit-scrollbar-button:single-button:vertical:increment {background-image: url('../icon/arrDown.svg');}
+/* scrollbar-track */
+::-webkit-scrollbar-track {background-color: white;}
+/* scrollbar-thumb */
+::-webkit-scrollbar-thumb {position: absolute; top: 0; border-radius: 18px;
+	background-image: linear-gradient(0deg, #af0018, #e5001f 20%, #e5001f 80%, #f896a3);}
+/* webkit-scrollbar-thumb:hover */
+::-webkit-scrollbar-thumb:hover {border: 3px inset #e5001f; background-color: #e5001f;}
