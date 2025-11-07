@@ -249,7 +249,7 @@ function getPrjName($projectPN) {
 }
 // ############################################################################# PCA REV SELECT
 function selectionPCA($x = 'PCA#', $y = true){
-	$aRev = ['X01','X02','X03','AX1','AX2','AX3','AX4','A01', 'A02', 'A03', 'B01'];
+    $aRev = ['X01','X02','X03','X04','X05','AX1','AX2','AX3','AX4','AX5','A01','A02','A03','A04','A05','B01','B02','B03','B04','B05'];
     $default = ($x === 'PCA#') ? 'selected' : '';
     $required = ($y === true) ? 'required' : '';
     $return = '<select name="pca" id="pca" '.$required.'><option value="" '.$default.'>PCA#</option>';
@@ -262,7 +262,7 @@ function selectionPCA($x = 'PCA#', $y = true){
 }
 // ############################################################################# PCB REV SELECT
 function selectionPCB($x = 'PCB#', $y = true){
-	$bRev = ['A01','A02','B01'];
+    $bRev = ['A01','A02','A03','A04','B01','B02','B03','B04'];
     $default = ($x === 'PCB#') ? 'selected' : '';
     $required = ($y === true) ? 'required' : '';
     $return = '<select name="pcb" id="pcb" '.$required.'><option value="" '.$default.'>PCB#</option>';

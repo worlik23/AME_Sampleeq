@@ -81,7 +81,7 @@ $editing = queryUpdate($conn, $sql, $params);
 	<option value="eoli" <?php selectedEdit($editedInfo['dept'], 'eoli'); ?>>EOLI</option>
 </select>
 </div>
-<textarea name="info" maxlength="535" placeholder="Defects | Info"><?php echo($editedInfo['info']); ?></textarea>
+<textarea name="info" maxlength="535" placeholder="Defects | Info" style="height: 300px; scroll-behavior: smooth;"><?php echo($editedInfo['info']); ?></textarea>
 <input type="submit" name="editInfo" value="Edit">
 </form>
 
